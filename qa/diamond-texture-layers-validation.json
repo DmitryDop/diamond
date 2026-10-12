@@ -1,0 +1,107 @@
+{
+  "animation_enabled" : false,
+  "individual_diamonds" : 10,
+  "layers" : [
+    {
+      "file" : "bita.png",
+      "height" : 941,
+      "opaque_pixels" : 459,
+      "partial_alpha_pixels" : 214460,
+      "transparent_pixels" : 1358433,
+      "width" : 1672
+    },
+    {
+      "alpha_weighted_rgb" : [
+        104,
+        116,
+        133
+      ],
+      "file" : "smoke.png",
+      "height" : 941,
+      "opaque_pixels" : 0,
+      "partial_alpha_pixels" : 876042,
+      "transparent_pixels" : 697310,
+      "width" : 1672
+    },
+    {
+      "file" : "diamond-01-back.png",
+      "height" : 70,
+      "opaque_pixels" : 1240,
+      "partial_alpha_pixels" : 203,
+      "transparent_pixels" : 3457,
+      "width" : 70
+    },
+    {
+      "file" : "diamond-02-back.png",
+      "height" : 70,
+      "opaque_pixels" : 1120,
+      "partial_alpha_pixels" : 199,
+      "transparent_pixels" : 3581,
+      "width" : 70
+    },
+    {
+      "file" : "diamond-03-back.png",
+      "height" : 70,
+      "opaque_pixels" : 1106,
+      "partial_alpha_pixels" : 196,
+      "transparent_pixels" : 3598,
+      "width" : 70
+    },
+    {
+      "file" : "diamond-04-mid.png",
+      "height" : 120,
+      "opaque_pixels" : 6351,
+      "partial_alpha_pixels" : 292,
+      "transparent_pixels" : 7757,
+      "width" : 120
+    },
+    {
+      "file" : "diamond-05-mid.png",
+      "height" : 110,
+      "opaque_pixels" : 5463,
+      "partial_alpha_pixels" : 287,
+      "transparent_pixels" : 8000,
+      "width" : 125
+    },
+    {
+      "file" : "diamond-06-mid.png",
+      "height" : 70,
+      "opaque_pixels" : 1244,
+      "partial_alpha_pixels" : 185,
+      "transparent_pixels" : 3471,
+      "width" : 70
+    },
+    {
+      "file" : "diamond-07-mid.png",
+      "height" : 110,
+      "opaque_pixels" : 4617,
+      "partial_alpha_pixels" : 253,
+      "transparent_pixels" : 7230,
+      "width" : 110
+    },
+    {
+      "file" : "diamond-08-back.png",
+      "height" : 80,
+      "opaque_pixels" : 1616,
+      "partial_alpha_pixels" : 226,
+      "transparent_pixels" : 4558,
+      "width" : 80
+    },
+    {
+      "file" : "diamond-09-front.png",
+      "height" : 210,
+      "opaque_pixels" : 14536,
+      "partial_alpha_pixels" : 5218,
+      "transparent_pixels" : 24346,
+      "width" : 210
+    },
+    {
+      "file" : "diamond-10-front.png",
+      "height" : 190,
+      "opaque_pixels" : 11542,
+      "partial_alpha_pixels" : 4199,
+      "transparent_pixels" : 26059,
+      "width" : 220
+    }
+  ]
+}

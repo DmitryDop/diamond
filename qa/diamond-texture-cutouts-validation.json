@@ -1,0 +1,62 @@
+[
+  {
+    "file" : "diamond-01-back.png",
+    "opaque_pixels" : 1240,
+    "partial_alpha_pixels" : 203,
+    "transparent_pixels" : 3457
+  },
+  {
+    "file" : "diamond-02-back.png",
+    "opaque_pixels" : 1120,
+    "partial_alpha_pixels" : 199,
+    "transparent_pixels" : 3581
+  },
+  {
+    "file" : "diamond-03-back.png",
+    "opaque_pixels" : 1106,
+    "partial_alpha_pixels" : 196,
+    "transparent_pixels" : 3598
+  },
+  {
+    "file" : "diamond-04-mid.png",
+    "opaque_pixels" : 6351,
+    "partial_alpha_pixels" : 292,
+    "transparent_pixels" : 7757
+  },
+  {
+    "file" : "diamond-05-mid.png",
+    "opaque_pixels" : 5463,
+    "partial_alpha_pixels" : 287,
+    "transparent_pixels" : 8000
+  },
+  {
+    "file" : "diamond-06-mid.png",
+    "opaque_pixels" : 1244,
+    "partial_alpha_pixels" : 185,
+    "transparent_pixels" : 3471
+  },
+  {
+    "file" : "diamond-07-mid.png",
+    "opaque_pixels" : 4617,
+    "partial_alpha_pixels" : 253,
+    "transparent_pixels" : 7230
+  },
+  {
+    "file" : "diamond-08-back.png",
+    "opaque_pixels" : 1616,
+    "partial_alpha_pixels" : 226,
+    "transparent_pixels" : 4558
+  },
+  {
+    "file" : "diamond-09-front.png",
+    "opaque_pixels" : 14536,
+    "partial_alpha_pixels" : 5218,
+    "transparent_pixels" : 24346
+  },
+  {
+    "file" : "diamond-10-front.png",
+    "opaque_pixels" : 11542,
+    "partial_alpha_pixels" : 4199,
+    "transparent_pixels" : 26059
+  }
+]

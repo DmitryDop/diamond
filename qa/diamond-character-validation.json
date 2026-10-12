@@ -1,0 +1,123 @@
+{
+  "assets": [
+    {
+      "file": "assets/diamond-character-campaign.png",
+      "width": 1519,
+      "height": 1035,
+      "bytes": 2363656,
+      "sha256": "18e8276bd6652c2f400d4e4b60f817c85b3cbdcc54122c8acb678a92f037ecfc",
+      "matches_generated_source": true
+    },
+    {
+      "file": "assets/diamond-character-campaign-mobile.png",
+      "width": 1122,
+      "height": 1402,
+      "bytes": 2552069,
+      "sha256": "768dd1a85e2fbf554a680d7cfe3b369eaac4e12d75d4789ff54124fe306b5089",
+      "matches_generated_source": true
+    },
+    {
+      "file": "assets/diamond-character-bottle.png",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 1467027,
+      "sha256": "9a68015e00153646a243dab57b114e27c13a5ff4dc4a38d7dfe13fc62d0e6274",
+      "matches_generated_source": true
+    },
+    {
+      "file": "assets/diamond-character-glass-splash.png",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 1769725,
+      "sha256": "db68dce0fc44d966e5aeaf1ebab0a3e76a0de2e456f46409c0130e500d48cfb1",
+      "matches_generated_source": true
+    }
+  ],
+  "composition_changed_after_approval": false,
+  "new_generation_after_approval": false,
+  "browser_verified": false,
+  "browser_blocker": "Chrome connector: Unexpected token < in JSON response; IAB unavailable.",
+  "layout_geometry": [
+    {
+      "width": 1440,
+      "layout": "large background left, text right",
+      "stage_width_px": 1267.2,
+      "stage_height_px": 863.43,
+      "section_height_px": 922.6,
+      "crop": "none",
+      "source": "CSS calculation, not browser measurement"
+    },
+    {
+      "width": 1024,
+      "layout": "background left, text right",
+      "stage_width_px": 819.2,
+      "stage_height_px": 558.18,
+      "section_height_px": 800,
+      "crop": "none",
+      "source": "CSS calculation, not browser measurement"
+    },
+    {
+      "width": 390,
+      "layout": "image then copy within one section",
+      "stage_width_px": 390,
+      "stage_height_px": 487.33,
+      "crop": "none",
+      "source": "CSS calculation, not browser measurement"
+    }
+  ],
+  "resolution_note": "1440px desktop: 1267px scene width from 1519px source. 1920px desktop: 1640px scene width, 1.08x enlargement. No new assets or generations.",
+  "approved_bat_matches_attachment": true,
+  "static_checks": "PASS: HTML nesting, unique IDs, anchors/ARIA, resource paths, all six post-hero headings use h3, unchanged copy/hero/assets/JS, synchronized section review. Browser checks remain pending.",
+  "visual_review": {
+    "previews": [
+      1920,
+      1440,
+      1024,
+      851,
+      768,
+      390,
+      375
+    ],
+    "important_object_cropping": "none observed in static previews",
+    "cutout_alpha": "verified transparent and translucent pixels for bat, bottle, glass/splash",
+    "inspection_background": "#0b0b0e",
+    "obvious_frame_or_collage_seams": "none observed in final flattened scene previews",
+    "small_generated_label_print": "not guaranteed to match original character by character",
+    "previews_represent_current_layout": true,
+    "preview_kind": "Approximate AppKit static layout illustrations, not browser screenshots. Current files: previews/03-character-z-*.png. Older 03-character-*.png show previous art-only layout.",
+    "text_object_overlap": "none observed in current static illustrations; browser verification pending"
+  },
+  "text_container": {
+    "id": "character-copy-draft",
+    "hidden": false,
+    "source": "previous index.html captured in current conversation before reconstruction",
+    "heading": "Холодный. Крепкий.",
+    "description": "Платина, бриллианты и лёд. Характер DIAMOND не требует объяснений.",
+    "cta": "Перейти в PALKAHELP",
+    "url": "https://palkahelp.ru",
+    "position": "right of background scene above 850px; follows scene below 850px",
+    "heading_id": "final-title"
+  },
+  "layout_fix": {
+    "checkpoint": "qa/checkpoints/2026-10-11-202018-character-before-layout-fix",
+    "git_status": "not a git repository",
+    "git_diff": "No tracked diff available; git interpreted the two paths as a no-index file comparison, not repository history. See diamond-character-layout-fix.diff instead.",
+    "asset_hashes_unchanged": true,
+    "other_html_sections_unchanged": true,
+    "other_css_rules_unchanged": true,
+    "border": "1px solid var(--line), section full width, one top border",
+    "browser_verified": false,
+    "browser_screenshots": []
+  },
+  "composition_layout_updated_by_user_request": true,
+  "z_layout": {
+    "checkpoint": "qa/checkpoints/2026-10-11-203547-character-before-z-layout",
+    "diff": "qa/diamond-character-z-layout.diff",
+    "asset_hashes_unchanged": true,
+    "hero_unchanged": true,
+    "headings": "All six headings after hero use h3 and shared existing h3 scale; impact size and line-height overrides removed by user request.",
+    "border": "Existing 1px solid var(--line), full width; fade starts below border.",
+    "browser_verified": false,
+    "browser_screenshots": []
+  }
+}

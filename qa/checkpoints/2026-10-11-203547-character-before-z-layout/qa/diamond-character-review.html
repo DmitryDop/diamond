@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>DIAMOND — Характер / просмотр</title>
+  <link rel="icon" href="data:,">
+  <style>
+    * { box-sizing: border-box; }
+    body { margin: 0; padding: 24px; background: #0b0b0e; color: #f2f1f3; font: 15px/1.5 Arial, sans-serif; }
+    header, .controls { display: flex; flex-wrap: wrap; align-items: center; gap: 16px; }
+    header { justify-content: space-between; margin-bottom: 24px; }
+    h1 { margin: 0; font-size: 22px; }
+    h2 { font-size: 20px; margin: 40px 0 20px; }
+    a { color: inherit; text-underline-offset: 4px; }
+    a:focus-visible, select:focus-visible, input:focus-visible { outline: 2px solid #f2f1f3; outline-offset: 4px; }
+    select { min-height: 44px; padding: 8px 12px; border: 1px solid #625c6c; background: #151319; color: inherit; font: inherit; }
+    #viewport { position: relative; margin-inline: auto; overflow: hidden; background: #0b0b0e; }
+    iframe { display: block; position: absolute; top: 0; left: 0; border: 0; transform-origin: top left; }
+    .note { color: #bab7c1; margin: 16px 0; max-width: 900px; }
+    .gallery { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 20px; }
+    figure { margin: 0; min-width: 0; border: 1px solid #35323d; }
+    .bat { grid-column: 1 / -1; }
+    .asset { display: grid; place-items: center; height: 520px; padding: 24px; background: #0b0b0e; }
+    .bat .asset { height: 280px; }
+    .asset img { display: block; max-width: 100%; max-height: 100%; object-fit: contain; }
+    figcaption { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 12px; padding: 16px; border-top: 1px solid #35323d; }
+    .checker-control { display: flex; align-items: center; gap: 10px; min-height: 44px; margin-bottom: 16px; }
+    input { width: 20px; height: 20px; accent-color: #c7c2cd; }
+    body:has(#checker:checked) .asset { background-color: #39363f; background-image: conic-gradient(#595561 25%, transparent 0 50%, #595561 0 75%, transparent 0); background-size: 24px 24px; }
+    @media (max-width: 620px) { body { padding: 16px; } .gallery { grid-template-columns: 1fr; } .bat { grid-column: auto; } .asset { height: 430px; } .bat .asset { height: 150px; } }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Характер</h1>
+    <div class="controls">
+      <label for="size">Ширина</label>
+      <select id="size">
+        <option value="1920">1920 px</option>
+        <option value="1440" selected>1440 px</option>
+        <option value="768">768 px</option>
+        <option value="390">390 px</option>
+        <option value="375">375 px</option>
+      </select>
+      <a href="../index.html#final">Открыть лендинг</a>
+    </div>
+  </header>
+  <div id="viewport"><iframe title="Визуальная секция «Характер»"></iframe></div>
+  <p class="note">Утверждённые изображения. Заголовок, описание, CTA и визуал находятся в общей сетке секции; на мобильном сетка перестраивается в одну колонку.</p>
+  <p class="note"><a href="../assets/diamond-character-campaign.png">Desktop — исходный PNG</a> · <a href="../assets/diamond-character-campaign-mobile.png">Mobile — исходный PNG</a></p>
+  <h2>Объекты отдельно</h2>
+  <label class="checker-control"><input id="checker" type="checkbox">Показать прозрачность на шахматном фоне</label>
+  <div class="gallery">
+    <figure class="bat">
+      <div class="asset"><img src="../assets/diamond-character-bat.png" width="2172" height="724" alt="Утверждённая платиновая бита DIAMOND с белой рукоятью." loading="lazy"></div>
+      <figcaption><span>DIAMOND — оригинал, PNG</span><a href="../assets/diamond-character-bat.png" download>Скачать биту</a></figcaption>
+    </figure>
+    <figure>
+      <div class="asset"><img src="../assets/diamond-character-bottle.png" width="1086" height="1448" alt="Бутылка Absolut отдельно на прозрачном фоне." loading="lazy"></div>
+      <figcaption><span>Absolut — PNG</span><a href="../assets/diamond-character-bottle.png" download>Скачать бутылку</a></figcaption>
+    </figure>
+    <figure>
+      <div class="asset"><img src="../assets/diamond-character-glass-splash.png" width="1086" height="1448" alt="Стакан, дуга жидкости, брызги и лёд на прозрачном фоне." loading="lazy"></div>
+      <figcaption><span>Стакан + splash + лёд — PNG</span><a href="../assets/diamond-character-glass-splash.png" download>Скачать стакан и брызги</a></figcaption>
+    </figure>
+  </div>
+  <p class="note">Отдельные PNG доступны для дальнейшей вёрстки. В лендинге используется цельная композиция, а не сборка из этих слоёв.</p>
+  <script>
+    const markup = "\u003c!doctype html>\u003chtml lang=\"ru\">\u003chead>\n  \u003cmeta charset=\"utf-8\">\n  \u003cmeta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n  \u003cmeta name=\"theme-color\" content=\"#0b0b0e\">\n  \u003cmeta name=\"description\" content=\"DIAMOND — бейсбольная бита как дизайн-объект. Чистый силуэт, холодная платина и бриллиантовая отделка.\">\n  \u003ctitle>DIAMOND — белая бита. Тёмный характер.\u003c/title>\n  \u003clink rel=\"icon\" href=\"data:,\">\n  \u003clink rel=\"preconnect\" href=\"https://fonts.googleapis.com\">\n  \u003clink rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin>\n  \u003clink href=\"https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Manrope:wght@600;700;800&display=swap\" rel=\"stylesheet\">\n  \u003clink rel=\"stylesheet\" href=\"css/styles.css\">\n  \u003cscript src=\"js/main.js\" defer>\u003c/script>\n\u003c/head>\u003cbody>\u003cmain>    \u003csection class=\"final-section\" id=\"final\" aria-labelledby=\"final-title\">\n      \u003cdiv class=\"container character-layout\">\n        \u003cdiv class=\"character-copy\" id=\"character-copy-draft\">\n          \u003cdiv class=\"final-copy\">\n            \u003cp class=\"section-label\">DIAMOND / 03\u003c/p>\n            \u003ch2 id=\"final-title\">Холодный.\u003cbr>Крепкий.\u003c/h2>\n            \u003cp>Платина, бриллианты и лёд. Характер DIAMOND не требует объяснений.\u003c/p>\n            \u003ca class=\"button button-primary\" href=\"https://palkahelp.ru\">Перейти в PALKAHELP\u003c/a>\n          \u003c/div>\n        \u003c/div>\n        \u003cfigure class=\"product-stage character-stage\" data-product-stage>\n          \u003cpicture>\n            \u003csource media=\"(max-width: 620px)\" srcset=\"assets/diamond-character-campaign-mobile.jpg\" width=\"1122\" height=\"1402\">\n            \u003cimg class=\"character-image\" src=\"assets/diamond-character-campaign.jpg\" width=\"1519\" height=\"1035\" alt=\"Невесомая сцена DIAMOND: платиновая бита с белой рукоятью и бриллиантами, прозрачная бутылка Absolut и наклонённый стакан. Из стакана поднимается дуга прозрачной водки, в воздухе зависли кубики льда и капли.\" loading=\"lazy\" decoding=\"async\" draggable=\"false\" data-product-image>\n          \u003c/picture>\n          \u003cp class=\"image-fallback\" hidden>Арт-сцена «Характер» недоступна\u003c/p>\n        \u003c/figure>\n      \u003c/div>\n    \u003c/section>\u003c/main>\u003c/body>\u003c/html>"; // Synchronized with the final section of index.html.
+    const viewport = document.querySelector('#viewport');
+    const frame = document.querySelector('iframe');
+    const picker = document.querySelector('#size');
+    const base = document.createElement('base');
+    base.href = new URL('../', window.location.href).href;
+    frame.srcdoc = markup.replace('<head>', '<head>' + base.outerHTML);
+    function resize() {
+      const width = Number(picker.value);
+      frame.style.width = width + 'px';
+      const sectionHeight = frame.contentDocument?.querySelector('.final-section')?.getBoundingClientRect().height;
+      const height = Math.ceil(sectionHeight || width * (width <= 620 ? 1402 / 1122 : 1035 / 1519) + 440);
+      const scale = Math.min(1, (document.documentElement.clientWidth - (window.innerWidth <= 620 ? 32 : 48)) / width);
+      viewport.style.width = width * scale + 'px';
+      viewport.style.height = height * scale + 'px';
+      frame.style.width = width + 'px';
+      frame.style.height = height + 'px';
+      frame.style.transform = 'scale(' + scale + ')';
+    }
+    frame.addEventListener('load', () => { resize(); frame.contentDocument?.fonts.ready.then(resize); });
+    picker.addEventListener('change', resize);
+    new ResizeObserver(resize).observe(document.body);
+    resize();
+  </script>
+</body>
+</html>

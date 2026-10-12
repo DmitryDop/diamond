@@ -1,0 +1,22 @@
+[
+  {
+    "alpha" : true,
+    "antialiased_pixels" : 3261,
+    "bat_rgb_differences_from_source" : 0,
+    "file" : "assets\/diamond-impact-bat.png",
+    "height" : 1024,
+    "opaque_pixels" : 113455,
+    "transparent_pixels" : 1456148,
+    "width" : 1536
+  },
+  {
+    "alpha" : true,
+    "antialiased_pixels" : 33116,
+    "bat_rgb_differences_from_source" : 0,
+    "file" : "assets\/diamond-impact-sculpture.png",
+    "height" : 1024,
+    "opaque_pixels" : 544596,
+    "transparent_pixels" : 995152,
+    "width" : 1536
+  }
+]

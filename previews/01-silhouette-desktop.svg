@@ -1,0 +1,57 @@
+<svg class="silhouette-svg silhouette-desktop" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1020 720" width="1440" height="1016" aria-hidden="true" focusable="false">
+<style>svg { --silhouette-outline:#c4cbd2; --silhouette-secondary:#8c969f; --silhouette-datum:#58616b; --silhouette-label:#bec5cc; --body-font:Inter,Arial,sans-serif; background:#0e1013; }
+use { stroke:var(--silhouette-outline); }
+path, ellipse { stroke-width:1.25; vector-effect:non-scaling-stroke; }
+.silhouette-contour { stroke:var(--silhouette-datum); }
+.silhouette-secondary, .silhouette-cells { stroke:var(--silhouette-secondary); }
+.silhouette-connectors { stroke:var(--silhouette-datum); }
+.silhouette-leaders { stroke:var(--silhouette-secondary); stroke-linecap:round; stroke-linejoin:round; }
+.silhouette-leaders circle { fill:var(--silhouette-label); stroke:none; }
+.silhouette-labels { fill:var(--silhouette-label); font:400 16px Inter,Arial,sans-serif; letter-spacing:.01em; }</style>
+<defs>
+                <g id="silhouette-components" fill="none" stroke-linecap="round" stroke-linejoin="round">
+                  <g class="silhouette-contour">
+                    <path d="M8-23Q0-23 0 0T8 23L28 23Q43 16 64 16H310C393 19 467 30 542 40C605 47 657 46 704 46H872C894 46 906 29 906 0S894-46 872-46H704C657-46 605-47 542-40C467-30 393-19 310-16H64Q43-16 28-23Z"/>
+                  </g>
+                  <g id="bat-body" data-part="bat-body" class="silhouette-shell">
+                    <path d="M310-16C393-19 467-30 542-40C605-47 657-46 704-46H872C894-46 906-29 906 0S894 46 872 46H704C657 46 605 47 542 40C467 30 393 19 310 16Z"/>
+                    <path class="silhouette-secondary" d="M314-16Q324 0 314 16M326-17Q337 0 326 17M872-46C856-33 856 33 872 46M887-40C875-27 875 27 887 40"/>
+                    <path class="silhouette-secondary" d="M339-11C437-10 491-24 537-30C557-33 571-28 582-18M339 11C434 9 488 26 539 31C563 35 584 31 602 19M390-12C455-3 481 9 523 19M478-26C517-24 534-14 548-5"/>
+                  </g>
+                  <g class="silhouette-connectors" stroke-dasharray="3 6">
+                    <path d="M315 16V42M65 16V42M681-46V-74M836-46V-74M578 16V46M0 0H-22"/>
+                  </g>
+                  <g id="pave-zone" data-part="pave-zone" class="silhouette-pave" transform="translate(0 -28)">
+                    <path d="M626-31C652-44 677-46 708-46H863Q885-46 891-25V-4Q884 15 863 15H708C677 15 652 9 626 2Z"/>
+                    <path class="silhouette-secondary" d="M640-27C659-36 684-39 708-39H861Q878-39 883-24"/>
+                    <!-- One short, schematic inlay fragment, never individual stones. -->
+                    <g class="silhouette-cells">
+                      <path d="m711-35 12 12-12 12-12-12Zm24 0 12 12-12 12-12-12Zm24 0 12 12-12 12-12-12Zm24 0 12 12-12 12-12-12ZM723-23l12 12-12 12-12-12Zm24 0 12 12-12 12-12-12Zm24 0 12 12-12 12-12-12Z"/>
+                    </g>
+                  </g>
+                  <g id="skull-emblem" data-part="skull-emblem" class="silhouette-skull" transform="translate(578 30)">
+                    <path d="M-19-9C-19-26-9-32 2-31C16-30 23-19 22-6C21 3 17 7 12 11L10 21L-8 23L-12 12C-18 8-21 1-19-9Z"/>
+                    <path d="M-15-6Q-9-12-3-6L-5 3Q-11 6-15-6ZM5-7Q12-14 18-7Q17 3 9 3ZM1 3L-3 10L4 9M-10 15Q0 12 11 14M-5 15L-4 21M1 14L2 20M6 14L7 20"/>
+                  </g>
+                  <g id="handle" data-part="handle" class="silhouette-handle" transform="translate(0 26)">
+                    <path d="M28-20Q45-16 64-16H310Q322 0 310 16H64Q45 16 28 20Q38 0 28-20Z"/>
+                    <path class="silhouette-secondary" d="M50-17Q68 0 57 16M77-16Q96 0 85 16M105-16Q124 0 113 16M133-16Q152 0 141 16M161-16Q180 0 169 16M189-16Q208 0 197 16M217-16Q236 0 225 16M245-16Q264 0 253 16M273-16Q292 0 281 16M301-16Q319 0 308 16"/>
+                  </g>
+                  <g id="end-cap" data-part="end-cap" class="silhouette-cap" transform="translate(-22 26)">
+                    <ellipse cx="8" cy="0" rx="11" ry="23"/>
+                    <ellipse class="silhouette-secondary" cx="6" cy="0" rx="7" ry="18"/>
+                    <path d="M8-23H20Q33-23 33 0T20 23H8M5-11l5 11-5 11L1 0Z"/>
+                  </g>
+                </g>
+              </defs>
+              <use href="#silhouette-components" transform="translate(70 525) rotate(-21)"/>
+              <g id="silhouette-leaders-desktop" data-part="leaders" class="silhouette-leaders" fill="none">
+                <path d="m771 176 47-75h145M634 374l82 56h183M237 509l-42 87H56"/>
+                <circle cx="771" cy="176" r="2.5"/><circle cx="634" cy="374" r="2.5"/><circle cx="237" cy="509" r="2.5"/>
+              </g>
+              <g class="silhouette-labels">
+                <text x="818" y="84">Инкрустация</text>
+                <text x="737" y="457">Платиновый череп</text>
+                <text x="56" y="625">Белая рукоять</text>
+              </g>
+            </svg>

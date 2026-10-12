@@ -1,0 +1,55 @@
+{
+  "generation_used" : false,
+  "reference_rgb" : [
+    35.218888888887136,
+    38.450833333332092,
+    45.348333333335574
+  ],
+  "scenes" : [
+    {
+      "height" : 1035,
+      "independent_smoke" : "character-smoke.png",
+      "protected_pixels" : 643557,
+      "protected_subject_rgb_differences" : 0,
+      "scene" : "character",
+      "smoke_scale" : 1,
+      "smoke_scale_origin" : [
+        966.96511755897018,
+        373.00892076789324
+      ],
+      "source" : "assets\/diamond-character-campaign.jpg",
+      "source_reassembly_rgb_differences" : 0,
+      "width" : 1519
+    },
+    {
+      "height" : 1402,
+      "independent_smoke" : "character-mobile-smoke.png",
+      "protected_pixels" : 742396,
+      "protected_subject_rgb_differences" : 0,
+      "scene" : "character-mobile",
+      "smoke_scale" : 1,
+      "smoke_scale_origin" : [
+        721.97613859373303,
+        515.92696214795433
+      ],
+      "source" : "assets\/diamond-character-campaign-mobile.jpg",
+      "source_reassembly_rgb_differences" : 0,
+      "width" : 1122
+    },
+    {
+      "height" : 1024,
+      "independent_smoke" : "impact-smoke.png",
+      "protected_pixels" : 738365,
+      "protected_subject_rgb_differences" : 0,
+      "scene" : "impact",
+      "smoke_scale" : 1.1200000000000001,
+      "smoke_scale_origin" : [
+        876.09322113372502,
+        219.72085250172262
+      ],
+      "source" : "assets\/diamond-impact.jpg",
+      "source_reassembly_rgb_differences" : 0,
+      "width" : 1536
+    }
+  ]
+}

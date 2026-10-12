@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>DIAMOND — Когда аргумент очевиден.</title>
+  <link rel="icon" href="data:,">
+  <style>
+    * { box-sizing: border-box; }
+    body { margin: 0; padding: 24px; background: #08080b; color: #f2f1f3; font: 15px/1.5 Arial, sans-serif; }
+    header { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 16px; margin-bottom: 24px; }
+    h1 { margin: 0; font-size: 22px; }
+    .controls { display: flex; flex-wrap: wrap; align-items: center; gap: 12px; }
+    a { color: inherit; text-underline-offset: 4px; }
+    select { min-height: 44px; padding: 8px 12px; border: 1px solid #625c6c; background: #151319; color: inherit; font: inherit; }
+    a:focus-visible, select:focus-visible { outline: 2px solid #f2f1f3; outline-offset: 4px; }
+    #viewport { position: relative; margin-inline: auto; overflow: hidden; background: #0b0b0e; }
+    iframe { display: block; position: absolute; top: 0; left: 0; border: 0; transform-origin: top left; }
+    @media (max-width: 520px) { body { padding: 16px; } }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Когда аргумент очевиден.</h1>
+    <div class="controls">
+      <label for="size">Экран</label>
+      <select id="size">
+        <option value="1920,1080">1920 × 1080</option>
+        <option value="1440,900" selected>1440 × 900</option>
+        <option value="768,1024">768 × 1024</option>
+        <option value="390,844">390 × 844</option>
+        <option value="375,812">375 × 812</option>
+      </select>
+      <a href="../index.html#light-shadow">Открыть лендинг</a>
+    </div>
+  </header>
+  <div id="viewport"><iframe title="Секция «Когда аргумент очевиден»"></iframe></div>
+  <script>
+    const markup = "\u003c!doctype html>\u003chtml lang=\"ru\">\u003chead>\n  \u003cmeta charset=\"utf-8\">\n  \u003cmeta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n  \u003cmeta name=\"theme-color\" content=\"#0b0b0e\">\n  \u003cmeta name=\"description\" content=\"DIAMOND — бейсбольная бита как дизайн-объект. Чистый силуэт, холодная платина и бриллиантовая отделка.\">\n  \u003ctitle>DIAMOND — белая бита. Тёмный характер.\u003c/title>\n  \u003clink rel=\"icon\" href=\"data:,\">\n  \u003clink rel=\"preconnect\" href=\"https://fonts.googleapis.com\">\n  \u003clink rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin>\n  \u003clink href=\"https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Manrope:wght@600;700;800&display=swap\" rel=\"stylesheet\">\n  \u003clink rel=\"stylesheet\" href=\"css/styles.css\">\n  \u003cscript src=\"js/main.js\" defer>\u003c/script>\n\u003c/head>\u003cbody>\u003cmain>      \u003carticle class=\"detail-scene scene-impact\" id=\"light-shadow\" aria-labelledby=\"impact-title\">\n        \u003cdiv class=\"container impact-layout\">\n          \u003cdiv class=\"scene-copy impact-copy\">\n            \u003cp class=\"scene-number\">04 / 04\u003c/p>\n            \u003ch3 id=\"impact-title\">Когда\u003cbr>аргумент\u003cbr>очевиден.\u003c/h3>\n            \u003cp>Иногда лучший способ проветрить мысли — убрать всё лишнее.\u003c/p>\n          \u003c/div>\n        \u003c/div>\n        \u003cfigure class=\"product-stage impact-art\" data-product-stage>\n          \u003cimg class=\"impact-image\" src=\"assets/diamond-impact.jpg\" width=\"1536\" height=\"1024\" alt=\"Бита DIAMOND с белой рукоятью, платиновым черепом и бриллиантовой поверхностью касается виска античного мраморного бюста. От точки контакта расходятся трещины, в воздухе застыли крошка и каменная пыль.\" loading=\"lazy\" decoding=\"async\" draggable=\"false\" data-product-image>\n          \u003cp class=\"image-fallback\" hidden>Арт-сцена DIAMOND недоступна\u003c/p>\n        \u003c/figure>\n      \u003c/article>\u003c/main>\u003c/body>\u003c/html>";
+    const viewport = document.querySelector('#viewport');
+    const frame = document.querySelector('iframe');
+    const picker = document.querySelector('#size');
+    const base = document.createElement('base');
+    base.href = new URL('../', window.location.href).href;
+    frame.srcdoc = markup.replace('<head>', '<head>' + base.outerHTML);
+    function resize() {
+      const [width, height] = picker.value.split(',').map(Number);
+      const scale = Math.min(1, document.body.clientWidth / width);
+      viewport.style.width = width * scale + 'px';
+      viewport.style.height = height * scale + 'px';
+      frame.style.width = width + 'px';
+      frame.style.height = height + 'px';
+      frame.style.transform = 'scale(' + scale + ')';
+    }
+    picker.addEventListener('change', resize);
+    new ResizeObserver(resize).observe(document.body);
+    resize();
+  </script>
+</body>
+</html>

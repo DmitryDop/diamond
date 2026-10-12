@@ -29,6 +29,7 @@ document.querySelectorAll("[data-product-image]").forEach((image) => {
   const showFallback = () => {
     const stage = image.closest("[data-product-stage]");
     image.hidden = true;
+    stage.querySelectorAll(".scene-smoke").forEach((layer) => { layer.hidden = true; });
     stage.querySelector(".image-fallback").hidden = false;
   };
   image.addEventListener("error", showFallback, { once: true });
@@ -45,8 +46,9 @@ if (impactScene && "IntersectionObserver" in window) {
     if (!entries.some((entry) => entry.isIntersecting)) return;
     observer.disconnect();
     const image = impactScene.querySelector(".impact-image");
+    const animationTarget = impactScene.querySelector(".impact-layer-group") || image;
     if (motionPreference.matches || image.hidden || !image.animate) return;
-    impactAnimation = image.animate([
+    impactAnimation = animationTarget.animate([
       { transform: "scale(1.025)", opacity: .78 },
       { transform: "scale(1)", opacity: 1 }
     ], { duration: 1100, easing: "cubic-bezier(.2,.65,.3,1)" });

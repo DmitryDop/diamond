@@ -1,0 +1,82 @@
+--- before/index.html
++++ after/index.html
+@@ -143,21 +143,23 @@
+     </section>
+ 
+     <section class="final-section" id="final" aria-labelledby="final-title">
+-      <div class="container character-copy" id="character-copy-draft">
+-        <div class="final-copy">
+-          <p class="section-label">DIAMOND / 03</p>
+-          <h2 id="final-title">Холодный.<br>Крепкий.</h2>
+-          <p>Платина, бриллианты и лёд. Характер DIAMOND не требует объяснений.</p>
+-          <a class="button button-primary" href="https://palkahelp.ru">Перейти в PALKAHELP</a>
++      <div class="container character-layout">
++        <div class="character-copy" id="character-copy-draft">
++          <div class="final-copy">
++            <p class="section-label">DIAMOND / 03</p>
++            <h2 id="final-title">Холодный.<br>Крепкий.</h2>
++            <p>Платина, бриллианты и лёд. Характер DIAMOND не требует объяснений.</p>
++            <a class="button button-primary" href="https://palkahelp.ru">Перейти в PALKAHELP</a>
++          </div>
+         </div>
++        <figure class="product-stage character-stage" data-product-stage>
++          <picture>
++            <source media="(max-width: 620px)" srcset="assets/diamond-character-campaign-mobile.jpg" width="1122" height="1402">
++            <img class="character-image" src="assets/diamond-character-campaign.jpg" width="1519" height="1035" alt="Невесомая сцена DIAMOND: платиновая бита с белой рукоятью и бриллиантами, прозрачная бутылка Absolut и наклонённый стакан. Из стакана поднимается дуга прозрачной водки, в воздухе зависли кубики льда и капли." loading="lazy" decoding="async" draggable="false" data-product-image>
++          </picture>
++          <p class="image-fallback" hidden>Арт-сцена «Характер» недоступна</p>
++        </figure>
+       </div>
+-      <figure class="product-stage character-stage" data-product-stage>
+-        <picture>
+-          <source media="(max-width: 620px)" srcset="assets/diamond-character-campaign-mobile.jpg" width="1122" height="1402">
+-          <img class="character-image" src="assets/diamond-character-campaign.jpg" width="1519" height="1035" alt="Невесомая сцена DIAMOND: платиновая бита с белой рукоятью и бриллиантами, прозрачная бутылка Absolut и наклонённый стакан. Из стакана поднимается дуга прозрачной водки, в воздухе зависли кубики льда и капли." loading="lazy" decoding="async" draggable="false" data-product-image>
+-        </picture>
+-        <p class="image-fallback" hidden>Арт-сцена «Характер» недоступна</p>
+-      </figure>
+     </section>
+   </main>
+ 
+--- before/css/styles.css
++++ after/css/styles.css
+@@ -163,13 +163,22 @@
+ .impact-copy > p:last-child { max-width: 330px; font-size: 18px; line-height: 1.65; }
+ .impact-art .image-fallback { inset: 0 0 0 45%; }
+ 
+-.final-section { background: var(--background); }
+-.character-copy { padding-block: clamp(56px, 6vw, 112px) 24px; }
++.final-section { background: var(--background); border-top: 1px solid var(--line); }
++.character-layout {
++  display: grid;
++  grid-template-columns: minmax(0, .82fr) minmax(0, 1.38fr);
++  align-items: center;
++  column-gap: clamp(48px, 6vw, 100px);
++  min-height: 690px;
++  padding-block: 100px;
++}
++.character-copy { min-width: 0; }
+ .character-copy .final-copy { max-width: 560px; }
+ .character-copy h2 { margin-top: 28px; }
+ .character-copy .final-copy > p:not(.section-label) { margin-top: 28px; color: var(--muted); }
+ .character-copy .button { margin-top: 28px; }
+ .character-stage {
++  min-width: 0;
+   width: 100%;
+   aspect-ratio: 1519 / 1035;
+   overflow: hidden;
+@@ -221,6 +230,7 @@
+ }
+ 
+ @media (max-width: 850px) {
++  .character-layout { grid-template-columns: minmax(0, 1fr); min-height: auto; row-gap: 36px; padding-block: 64px; }
+   :root { --header-height: 80px; }
+   .desktop-nav { display: none; }
+   .mobile-menu { position: relative; display: block; font-size: 14px; }
+@@ -260,6 +270,7 @@
+ }
+ 
+ @media (max-width: 520px) {
++  .character-layout { row-gap: 24px; padding-block: 48px; }
+   :root { --gutter: 22px; --header-height: 76px; }
+   body { font-size: 16px; }
+   h2 { font-size: clamp(38px, 10.4vw, 54px); }

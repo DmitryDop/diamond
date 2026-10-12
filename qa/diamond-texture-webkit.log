@@ -1,0 +1,48 @@
+2026-10-12 16:51:30.684 swift-frontend[28026:15368528] IOPMScheduleUserActivityLevelNotification returned 0
+2026-10-12 16:51:30.684 swift-frontend[28026:15368528] IOPMScheduleUserActivityLevelNotification returned 0
+2026-10-12 16:51:30.808 swift-frontend[28026:15368528] IOPMScheduleUserActivityLevelNotification returned 0
+Could not create a 'com.apple.webinspector' sandbox extension
+Could not create a 'com.apple.coreservices.launchservicesd' sandbox extension
+Could not create a 'com.apple.trustd.agent' sandbox extension
+Could not create a 'com.apple.MTLCompilerService' sandbox extension
+Could not create a 'com.apple.fonts' sandbox extension
+** OpenCL Error Notification: [CL_INVALID_VALUE] : OpenCL Error : clCreateImageFromIOSurfaceWithPropertiesAPPLE failed: property list must contain a CL_IOSURFACE_REF_APPLE (IOSurfaceRef) key and non-NULL value **
+Unable to find intermediate for node
+** OpenCL Error Notification: [CL_DEVICE_NOT_AVAILABLE] : OpenCL Error : Error: build program driver returned (-1) **
+** OpenCL Error Notification: OpenCL Warning : clBuildProgram failed: could not build program for 0xffffffff (Intel(R) Core(TM) i5-7600 CPU @ 3.50GHz) (err:-1) **
+Native OpenCL program build failed:
+** OpenCL Error Notification: [CL_INVALID_VALUE] : OpenCL Error : clCreateImageFromIOSurfaceWithPropertiesAPPLE failed: property list must contain a CL_IOSURFACE_REF_APPLE (IOSurfaceRef) key and non-NULL value **
+Unable to find intermediate for node
+** OpenCL Error Notification: [CL_DEVICE_NOT_AVAILABLE] : OpenCL Error : Error: build program driver returned (-1) **
+** OpenCL Error Notification: OpenCL Warning : clBuildProgram failed: could not build program for 0xffffffff (Intel(R) Core(TM) i5-7600 CPU @ 3.50GHz) (err:-1) **
+Native OpenCL program build failed:
+** OpenCL Error Notification: [CL_DEVICE_NOT_AVAILABLE] : OpenCL Error : Error: build program driver returned (-1) **
+** OpenCL Error Notification: OpenCL Warning : clBuildProgram failed: could not build program for 0xffffffff (Intel(R) Core(TM) i5-7600 CPU @ 3.50GHz) (err:-1) **
+Native OpenCL program build failed:
+** OpenCL Error Notification: [CL_INVALID_VALUE] : OpenCL Error : clCreateImageFromIOSurfaceWithPropertiesAPPLE failed: property list must contain a CL_IOSURFACE_REF_APPLE (IOSurfaceRef) key and non-NULL value **
+Unable to find intermediate for node
+** OpenCL Error Notification: [CL_DEVICE_NOT_AVAILABLE] : OpenCL Error : Error: build program driver returned (-1) **
+** OpenCL Error Notification: OpenCL Warning : clBuildProgram failed: could not build program for 0xffffffff (Intel(R) Core(TM) i5-7600 CPU @ 3.50GHz) (err:-1) **
+Native OpenCL program build failed:
+** OpenCL Error Notification: [CL_INVALID_VALUE] : OpenCL Error : clCreateImageFromIOSurfaceWithPropertiesAPPLE failed: property list must contain a CL_IOSURFACE_REF_APPLE (IOSurfaceRef) key and non-NULL value **
+Unable to find intermediate for node
+** OpenCL Error Notification: [CL_DEVICE_NOT_AVAILABLE] : OpenCL Error : Error: build program driver returned (-1) **
+** OpenCL Error Notification: OpenCL Warning : clBuildProgram failed: could not build program for 0xffffffff (Intel(R) Core(TM) i5-7600 CPU @ 3.50GHz) (err:-1) **
+Native OpenCL program build failed:
+** OpenCL Error Notification: [CL_DEVICE_NOT_AVAILABLE] : OpenCL Error : Error: build program driver returned (-1) **
+** OpenCL Error Notification: OpenCL Warning : clBuildProgram failed: could not build program for 0xffffffff (Intel(R) Core(TM) i5-7600 CPU @ 3.50GHz) (err:-1) **
+Native OpenCL program build failed:
+** OpenCL Error Notification: [CL_INVALID_VALUE] : OpenCL Error : clCreateImageFromIOSurfaceWithPropertiesAPPLE failed: property list must contain a CL_IOSURFACE_REF_APPLE (IOSurfaceRef) key and non-NULL value **
+Unable to find intermediate for node
+** OpenCL Error Notification: [CL_DEVICE_NOT_AVAILABLE] : OpenCL Error : Error: build program driver returned (-1) **
+** OpenCL Error Notification: OpenCL Warning : clBuildProgram failed: could not build program for 0xffffffff (Intel(R) Core(TM) i5-7600 CPU @ 3.50GHz) (err:-1) **
+Native OpenCL program build failed:
+** OpenCL Error Notification: [CL_INVALID_VALUE] : OpenCL Error : clCreateImageFromIOSurfaceWithPropertiesAPPLE failed: property list must contain a CL_IOSURFACE_REF_APPLE (IOSurfaceRef) key and non-NULL value **
+Unable to find intermediate for node
+** OpenCL Error Notification: [CL_DEVICE_NOT_AVAILABLE] : OpenCL Error : Error: build program driver returned (-1) **
+** OpenCL Error Notification: OpenCL Warning : clBuildProgram failed: could not build program for 0xffffffff (Intel(R) Core(TM) i5-7600 CPU @ 3.50GHz) (err:-1) **
+Native OpenCL program build failed:
+** OpenCL Error Notification: [CL_DEVICE_NOT_AVAILABLE] : OpenCL Error : Error: build program driver returned (-1) **
+** OpenCL Error Notification: OpenCL Warning : clBuildProgram failed: could not build program for 0xffffffff (Intel(R) Core(TM) i5-7600 CPU @ 3.50GHz) (err:-1) **
+Native OpenCL program build failed:
+WebKit QA timed out without completing navigation/snapshot.

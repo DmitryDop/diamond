@@ -109,22 +109,22 @@
         </div>
       </article>
 
-      <article class="detail-scene scene-texture" aria-labelledby="texture-title">
+      <article class="detail-scene scene-texture" id="texture" aria-labelledby="texture-title">
         <div class="container scene-layout">
           <div class="scene-copy">
             <p class="scene-number">02 / 03</p>
             <h3 id="texture-title">Фактура</h3>
             <p>Бриллиантовая поверхность и гладкая платина. Металлический череп вписан в форму, а белая рукоять уравновешивает холодный блеск.</p>
           </div>
-          <figure class="product-stage scene-art" data-product-stage>
-            <div class="product-halo" aria-hidden="true"></div>
-            <div class="texture-media">
-              <img class="product-image" src="assets/diamond-texture.png" width="1216" height="752" alt="Макро-кадр биты DIAMOND: часть белой рукояти, скульптурная платина, металлический череп и бриллиантовая ударная зона." loading="lazy" decoding="async" draggable="false" data-product-image>
-            </div>
-            <p class="image-fallback" hidden>Изображение фактуры недоступно</p>
-            <figcaption>Холодный металл. Живые грани.</figcaption>
-          </figure>
         </div>
+        <figure class="product-stage texture-art" data-product-stage>
+          <picture>
+            <source media="(max-width: 850px)" srcset="assets/diamond-texture-layers/placeholder-mobile-390.png" width="390" height="523">
+            <source media="(min-width: 1600px)" srcset="assets/diamond-texture-layers/placeholder-1920.png" width="1920" height="1200">
+            <img class="texture-placeholder" src="assets/diamond-texture-layers/placeholder-1440.png" width="1440" height="900" alt="Крупная платиновая бита DIAMOND с белой рукоятью и металлическим черепом в холодной дымке, окружённая бриллиантами разных размеров." loading="lazy" decoding="async" draggable="false" data-product-image>
+          </picture>
+          <p class="image-fallback" hidden>Изображение фактуры недоступно</p>
+        </figure>
       </article>
 
       <article class="detail-scene scene-impact" id="light-shadow" aria-labelledby="impact-title">
@@ -136,7 +136,10 @@
           </div>
         </div>
         <figure class="product-stage impact-art" data-product-stage>
-          <img class="impact-image" src="assets/diamond-impact.jpg" width="1536" height="1024" alt="Бита DIAMOND с белой рукоятью, платиновым черепом и бриллиантовой поверхностью касается виска античного мраморного бюста. От точки контакта расходятся трещины, в воздухе застыли крошка и каменная пыль." loading="lazy" decoding="async" draggable="false" data-product-image>
+          <div class="impact-layer-group">
+            <img class="impact-image" src="assets/diamond-impact.jpg" width="1536" height="1024" alt="Бита DIAMOND с белой рукоятью, платиновым черепом и бриллиантовой поверхностью касается виска античного мраморного бюста. От точки контакта расходятся трещины, в воздухе застыли крошка и каменная пыль." loading="lazy" decoding="async" draggable="false" data-product-image>
+            <img class="scene-smoke impact-smoke" src="assets/diamond-atmosphere/impact-adjustment.png" width="1536" height="1024" alt="" aria-hidden="true" loading="lazy" decoding="async" draggable="false" data-atmosphere-layer="impact">
+          </div>
           <p class="image-fallback" hidden>Арт-сцена DIAMOND недоступна</p>
         </figure>
       </article>

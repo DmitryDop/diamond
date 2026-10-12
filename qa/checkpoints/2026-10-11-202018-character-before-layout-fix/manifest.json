@@ -1,0 +1,28 @@
+{
+  "index.html": "2c7c4ed6b01e2ee8dd564c06c0120067e9c2626157b343b19caf624cff23100c",
+  "css/styles.css": "4dc81a0ad97901edb79002ba959001d66f6dd15922d7a6f590b0762ef3084d16",
+  "js/main.js": "c5a0a6ca8ad1e69f003eb304b0bffa7a95b1aee9b7dfdc1add362aa9b18d0425",
+  "qa/diamond-character-review.html": "08fa8036e93ee37663448be56b761521660b0193695db67a5a19b76cc6a01acd",
+  "qa/diamond-character-art-direction.md": "53605594ceffc674d6e3e34c35c1c0fb5f2ca422793c37125b1796a972cef2fd",
+  "qa/diamond-character-validation.json": "24b40f097a27b3f3e9c5f4081c233d02964b15253540a9be3ace5542ea4f57dd",
+  "assets": {
+    "assets/diamond-character.png": "4788278ffac136a72c4af52a5e091cd2d2363ee5fbba43ca5a8688602524e19b",
+    "assets/diamond-character-glass-splash.png": "db68dce0fc44d966e5aeaf1ebab0a3e76a0de2e456f46409c0130e500d48cfb1",
+    "assets/diamond-impact.jpg": "52ad138b89a5b88fe8b5b92272249b907cab5d6ec0a6fca18c6d6eb1109d617c",
+    "assets/diamond-impact.png": "ee19a64e301c7d27198a3f10107c4f959a9efc5362b0babc4f83238f57ffd52c",
+    "assets/.DS_Store": "d65165279105ca6773180500688df4bdc69a2c7b771752f0a46ef120b7fd8ec3",
+    "assets/diamond-texture-edit.png": "a7994109dc4fb408c6905fe1b1c20983bd5eb4ea67bf600239aa9a2c79b424d9",
+    "assets/diamond-bat.png": "215b374ada17a1d42e5b7cdced18366fa938196a8899b442dd296b5f4c966a57",
+    "assets/ice-glass-reference.png": "0223feaea651af970379694fdd204790bbed0b7e4de179c3432bbe2c69428c3a",
+    "assets/diamond-exploded.png": "c466753f515cdb85940499e90e47e30063ac9ec11cde664bd2442f8575280f00",
+    "assets/diamond-character-campaign.png": "18e8276bd6652c2f400d4e4b60f817c85b3cbdcc54122c8acb678a92f037ecfc",
+    "assets/diamond-character-campaign.jpg": "75c6e8e504c556441fd1105e92aa9d10fc0d39030bd674ef1f440a00d2516811",
+    "assets/diamond-character-bottle.png": "9a68015e00153646a243dab57b114e27c13a5ff4dc4a38d7dfe13fc62d0e6274",
+    "assets/diamond-texture.png": "592962110db35558921de70c15a736f4c03864c6559109a392e4ff73b4d10b26",
+    "assets/diamond-character-bat.png": "f339948527c9232e2bf0330a3172c3afa23183b6dcc811a4c47c17534423a6e8",
+    "assets/diamond-character-campaign-mobile.png": "768dd1a85e2fbf554a680d7cfe3b369eaac4e12d75d4789ff54124fe306b5089",
+    "assets/diamond-character-campaign-mobile.jpg": "f9344073ded4714d21765de4f0c4df389bf35f5c51d912b0f323d641f08fab35",
+    "assets/diamond-glyph.svg": "190a492f1b333508d680414ba16e36d64ceaa5b23ba262d91db7b3d09ec27832",
+    "assets/absolut-bottle-reference.png": "b6cdc944763017f7912a42b4375362d6d51b6f0a02d23e21e610f0ea690bf48a"
+  }
+}

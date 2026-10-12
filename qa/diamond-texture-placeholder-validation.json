@@ -1,0 +1,65 @@
+{
+  "browser_status": "blocked",
+  "browser_screenshots": [],
+  "reason": "Connected browsers unavailable; local Chrome exits 134; WebKit cannot complete navigation/snapshot (OpenCL/IOSurface errors and timeout).",
+  "protectedFilesUnchanged": true,
+  "unrelatedCssRulesUnchanged": true,
+  "otherHtmlUnchanged": true,
+  "text_preserved": true,
+  "frames": [
+    {
+      "viewport": 390,
+      "source": "placeholder-mobile-390.png",
+      "natural_width": 390,
+      "natural_height": 523,
+      "expected_image_width": 390,
+      "expected_image_height": 523,
+      "aspect_ratio_preserved": true
+    },
+    {
+      "viewport": 768,
+      "source": "placeholder-mobile-390.png",
+      "natural_width": 390,
+      "natural_height": 523,
+      "expected_image_width": 768,
+      "expected_image_height": 1029.9076923076923,
+      "aspect_ratio_preserved": true
+    },
+    {
+      "viewport": 1024,
+      "source": "placeholder-1440.png",
+      "natural_width": 1440,
+      "natural_height": 900,
+      "expected_image_width": 1024,
+      "expected_image_height": 640,
+      "aspect_ratio_preserved": true
+    },
+    {
+      "viewport": 1440,
+      "source": "placeholder-1440.png",
+      "natural_width": 1440,
+      "natural_height": 900,
+      "expected_image_width": 1440,
+      "expected_image_height": 900,
+      "aspect_ratio_preserved": true
+    },
+    {
+      "viewport": 1536,
+      "source": "placeholder-1440.png",
+      "natural_width": 1440,
+      "natural_height": 900,
+      "expected_image_width": 1536,
+      "expected_image_height": 960,
+      "aspect_ratio_preserved": true
+    },
+    {
+      "viewport": 1920,
+      "source": "placeholder-1920.png",
+      "natural_width": 1920,
+      "natural_height": 1200,
+      "expected_image_width": 1920,
+      "expected_image_height": 1200,
+      "aspect_ratio_preserved": true
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "checks": {
+    "bat_sha256_unchanged": true,
+    "bat_styles_unchanged": true,
+    "copy_unchanged": true,
+    "bat_render_unchanged": true
+  },
+  "bat_sha256": "215b374ada17a1d42e5b7cdced18366fa938196a8899b442dd296b5f4c966a57",
+  "preview_sizes": [
+    [
+      1440,
+      900
+    ],
+    [
+      1920,
+      1200
+    ],
+    [
+      390,
+      797
+    ]
+  ],
+  "visual_review": "Desktop and mobile reviewed; diamonds brighter; broad soft haze."
+}

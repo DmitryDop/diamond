@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>DIAMOND — Фактура: preview</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500&family=Manrope:wght@600&display=swap" rel="stylesheet">
+  <style>
+    :root { color-scheme: dark; --background:#0b0b0e; --foreground:#f2f1f3; --muted:#bab7c1; }
+    * { box-sizing: border-box; }
+    body { margin:0; background:var(--background); color:var(--foreground); font:400 18px/1.6 Inter,sans-serif; }
+    figure,p,h3 { margin:0; }
+    .texture-scene { --art-height:clamp(900px,62.5vw,1200px); position:relative; isolation:isolate; overflow:hidden; min-height:900px; height:62.5vw; max-height:1200px; }
+    .texture-art { position:absolute; inset:0; overflow:hidden; }
+    .texture-atmosphere-frame { position:absolute; left:0; top:50%; width:max(100%,calc(var(--art-height) * 1.776834)); aspect-ratio:1672 / 941; transform:translateY(-50%); pointer-events:none; }
+    .texture-smoke { position:absolute; inset:0; width:100%; height:100%; opacity:.28; }
+    .texture-diamond { position:absolute; left:calc(var(--x) / 1672 * 100%); top:calc(var(--y) / 941 * 100%); width:calc(var(--w) / 1672 * 100%); height:calc(var(--h) / 941 * 100%); opacity:.80; }
+    .texture-bat { position:absolute; left:-8%; top:0; width:98%; height:auto; transform:rotate(-15deg); transform-origin:55% 50%; }
+    .texture-art::after { content:""; position:absolute; inset:0; pointer-events:none;
+      background:linear-gradient(90deg,var(--background),transparent 7%,transparent 88%,var(--background)),
+        linear-gradient(180deg,var(--background),transparent 13%,transparent 80%,var(--background)); }
+    .texture-copy { position:absolute; z-index:1; left:71%; top:38%; width:24%; max-width:390px; }
+    .texture-number { color:#a4a0ad; font-size:13px; letter-spacing:.1em; margin-bottom:26px; }
+    .texture-copy h3 { font:600 clamp(40px,4.5vw,72px)/1.12 Manrope,sans-serif; letter-spacing:-.055em; margin-bottom:26px; }
+    .texture-description { color:var(--muted); }
+    @media (min-width:1920px) { .texture-copy { left:70%; } }
+    @media (max-width:1100px) and (min-width:851px) { .texture-scene { --art-height:760px; min-height:760px; } .texture-copy { left:69%; width:27%; } .texture-description { font-size:17px; } .texture-bat { top:6%; width:108%; left:-14%; } }
+    @media (max-width:850px) {
+      .texture-scene { --art-height:min(134vw,730px); height:auto; min-height:0; max-height:none; padding:48px 22px 0; }
+      .texture-copy { position:relative; top:auto; left:auto; width:auto; max-width:520px; margin-bottom:18px; }
+      .texture-copy h3 { font-size:clamp(40px,7vw,56px); margin-bottom:20px; }
+      .texture-number { margin-bottom:20px; }
+      .texture-description { font-size:16px; max-width:440px; }
+      .texture-art { position:relative; width:calc(100% + 44px); margin-left:-22px; height:134vw; max-height:730px; }
+      .texture-atmosphere-frame { width:max(178%,calc(var(--art-height) * 1.776834)); }
+      .texture-bat { width:162%; left:-30%; top:13%; }
+      .texture-art::after { background:linear-gradient(90deg,var(--background),transparent 8%,transparent 87%,var(--background)),linear-gradient(180deg,var(--background),transparent 15%,transparent 81%,var(--background)); }
+    }
+    @media (prefers-reduced-motion:reduce) { *,*::before,*::after { animation:none!important; transition:none!important; } }
+  </style>
+</head>
+<body>
+  <main>
+    <article class="texture-scene" aria-labelledby="texture-title">
+      <div class="texture-copy">
+        <p class="texture-number">02 / 03</p>
+        <h3 id="texture-title">Фактура</h3>
+        <p class="texture-description">Бриллиантовая поверхность и гладкая платина. Металлический череп вписан в форму, а белая рукоять уравновешивает холодный блеск.</p>
+      </div>
+      <figure class="texture-art" aria-label="Крупная диагональная бита DIAMOND в мягкой дымке с бриллиантами на разных планах">
+        <div class="texture-atmosphere-frame" aria-hidden="true">
+          <img class="texture-smoke" data-layer="smoke" src="../assets/diamond-texture-layers/smoke.png" width="1672" height="941" alt="" draggable="false">
+          <img class="texture-diamond" data-layer="diamond-01" data-depth="back" style="--x:282;--y:150;--w:70;--h:70" src="../assets/diamond-texture-layers/diamond-01-back.png" width="70" height="70" alt="" draggable="false">
+          <img class="texture-diamond" data-layer="diamond-02" data-depth="back" style="--x:553;--y:77;--w:70;--h:70" src="../assets/diamond-texture-layers/diamond-02-back.png" width="70" height="70" alt="" draggable="false">
+          <img class="texture-diamond" data-layer="diamond-03" data-depth="back" style="--x:810;--y:245;--w:70;--h:70" src="../assets/diamond-texture-layers/diamond-03-back.png" width="70" height="70" alt="" draggable="false">
+          <img class="texture-diamond" data-layer="diamond-04" data-depth="mid" style="--x:120;--y:365;--w:120;--h:120" src="../assets/diamond-texture-layers/diamond-04-mid.png" width="120" height="120" alt="" draggable="false">
+          <img class="texture-diamond" data-layer="diamond-05" data-depth="mid" style="--x:720;--y:415;--w:125;--h:110" src="../assets/diamond-texture-layers/diamond-05-mid.png" width="125" height="110" alt="" draggable="false">
+          <img class="texture-diamond" data-layer="diamond-06" data-depth="mid" style="--x:118;--y:566;--w:70;--h:70" src="../assets/diamond-texture-layers/diamond-06-mid.png" width="70" height="70" alt="" draggable="false">
+          <img class="texture-diamond" data-layer="diamond-07" data-depth="mid" style="--x:430;--y:555;--w:110;--h:110" src="../assets/diamond-texture-layers/diamond-07-mid.png" width="110" height="110" alt="" draggable="false">
+          <img class="texture-diamond" data-layer="diamond-08" data-depth="back" style="--x:830;--y:660;--w:80;--h:80" src="../assets/diamond-texture-layers/diamond-08-back.png" width="80" height="80" alt="" draggable="false">
+          <img class="texture-diamond" data-layer="diamond-09" data-depth="front" style="--x:35;--y:640;--w:210;--h:210" src="../assets/diamond-texture-layers/diamond-09-front.png" width="210" height="210" alt="" draggable="false">
+          <img class="texture-diamond" data-layer="diamond-10" data-depth="front" style="--x:550;--y:690;--w:220;--h:190" src="../assets/diamond-texture-layers/diamond-10-front.png" width="220" height="190" alt="" draggable="false">
+        </div>
+        <img class="texture-bat" data-layer="bita" src="../assets/diamond-texture-layers/bita.png" width="1672" height="941" alt="Бита DIAMOND: белая рукоять, скульптурная платина, металлический череп и бриллиантовая поверхность." draggable="false">
+      </figure>
+    </article>
+  </main>
+</body>
+</html>

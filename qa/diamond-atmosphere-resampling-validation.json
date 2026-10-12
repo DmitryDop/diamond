@@ -1,0 +1,58 @@
+[
+  {
+    "differing_channels" : 124818,
+    "maximum_rgb_rounding_difference" : 1,
+    "mean_rgb_difference" : 0.02646414339461825,
+    "render_height" : 1035,
+    "render_width" : 1519,
+    "scene" : "character"
+  },
+  {
+    "differing_channels" : 128956,
+    "maximum_rgb_rounding_difference" : 3,
+    "mean_rgb_difference" : 0.039575180404741936,
+    "render_height" : 863,
+    "render_width" : 1267,
+    "scene" : "character"
+  },
+  {
+    "differing_channels" : 217693,
+    "maximum_rgb_rounding_difference" : 3,
+    "mean_rgb_difference" : 0.04089914914368481,
+    "render_height" : 1117,
+    "render_width" : 1640,
+    "scene" : "character"
+  },
+  {
+    "differing_channels" : 512653,
+    "maximum_rgb_rounding_difference" : 187,
+    "mean_rgb_difference" : 4.9317049930123238,
+    "render_height" : 463,
+    "render_width" : 680,
+    "scene" : "character"
+  },
+  {
+    "differing_channels" : 103157,
+    "maximum_rgb_rounding_difference" : 1,
+    "mean_rgb_difference" : 0.021859316501424416,
+    "render_height" : 1402,
+    "render_width" : 1122,
+    "scene" : "character-mobile"
+  },
+  {
+    "differing_channels" : 287040,
+    "maximum_rgb_rounding_difference" : 66,
+    "mean_rgb_difference" : 1.9314975692799101,
+    "render_height" : 487,
+    "render_width" : 390,
+    "scene" : "character-mobile"
+  },
+  {
+    "differing_channels" : 65334,
+    "maximum_rgb_rounding_difference" : 2,
+    "mean_rgb_difference" : 0.045640652098508497,
+    "render_height" : 775,
+    "render_width" : 620,
+    "scene" : "character-mobile"
+  }
+]

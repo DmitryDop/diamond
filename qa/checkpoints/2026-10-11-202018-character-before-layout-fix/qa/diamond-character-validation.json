@@ -1,0 +1,100 @@
+{
+  "assets": [
+    {
+      "file": "assets/diamond-character-campaign.png",
+      "width": 1519,
+      "height": 1035,
+      "bytes": 2363656,
+      "sha256": "18e8276bd6652c2f400d4e4b60f817c85b3cbdcc54122c8acb678a92f037ecfc",
+      "matches_generated_source": true
+    },
+    {
+      "file": "assets/diamond-character-campaign-mobile.png",
+      "width": 1122,
+      "height": 1402,
+      "bytes": 2552069,
+      "sha256": "768dd1a85e2fbf554a680d7cfe3b369eaac4e12d75d4789ff54124fe306b5089",
+      "matches_generated_source": true
+    },
+    {
+      "file": "assets/diamond-character-bottle.png",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 1467027,
+      "sha256": "9a68015e00153646a243dab57b114e27c13a5ff4dc4a38d7dfe13fc62d0e6274",
+      "matches_generated_source": true
+    },
+    {
+      "file": "assets/diamond-character-glass-splash.png",
+      "width": 1086,
+      "height": 1448,
+      "bytes": 1769725,
+      "sha256": "db68dce0fc44d966e5aeaf1ebab0a3e76a0de2e456f46409c0130e500d48cfb1",
+      "matches_generated_source": true
+    }
+  ],
+  "composition_changed_after_approval": false,
+  "new_generation_after_approval": false,
+  "browser_verified": false,
+  "browser_blocker": "Chrome connector: Unexpected token < in JSON response; IAB unavailable.",
+  "layout_geometry": [
+    {
+      "width": 1920,
+      "height": 1308.23,
+      "source": "desktop",
+      "crop": "none; exact aspect ratio and contain"
+    },
+    {
+      "width": 1440,
+      "height": 981.17,
+      "source": "desktop",
+      "crop": "none; exact aspect ratio and contain"
+    },
+    {
+      "width": 768,
+      "height": 523.29,
+      "source": "desktop",
+      "crop": "none; exact aspect ratio and contain"
+    },
+    {
+      "width": 390,
+      "height": 487.33,
+      "source": "mobile",
+      "crop": "none; exact aspect ratio and contain"
+    },
+    {
+      "width": 375,
+      "height": 468.58,
+      "source": "mobile",
+      "crop": "none; exact aspect ratio and contain"
+    }
+  ],
+  "resolution_note": "Desktop 1920px uses 1519px source at 1.264x. Native 4K or Retina desktop source is not available; no upscaling or regeneration performed.",
+  "approved_bat_matches_attachment": true,
+  "static_checks": "Previous image integration checks retained. Updated text: visible container above figure; heading, description and CTA restored.",
+  "visual_review": {
+    "previews": [
+      1920,
+      1440,
+      768,
+      390,
+      375
+    ],
+    "important_object_cropping": "none observed in static previews",
+    "cutout_alpha": "verified transparent and translucent pixels for bat, bottle, glass/splash",
+    "inspection_background": "#0b0b0e",
+    "obvious_frame_or_collage_seams": "none observed in final flattened scene previews",
+    "small_generated_label_print": "not guaranteed to match original character by character"
+  },
+  "text_container": {
+    "id": "character-copy-draft",
+    "hidden": false,
+    "source": "previous index.html captured in current conversation before reconstruction",
+    "heading": "Холодный. Крепкий.",
+    "description": "Платина, бриллианты и лёд. Характер DIAMOND не требует объяснений.",
+    "cta": "Перейти в PALKAHELP",
+    "url": "https://palkahelp.ru",
+    "position": "separate normal-flow container above the visual",
+    "heading_id": "final-title"
+  }
+}

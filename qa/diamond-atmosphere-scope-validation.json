@@ -1,0 +1,9 @@
+{
+  "existing_css_rules_unchanged_except_rgb": true,
+  "existing_js_unchanged_except_layer_sync": true,
+  "html_unchanged_outside_impact_visual": true,
+  "original_asset_changes": [],
+  "missing_local_links": [],
+  "browser_visual_verification": "unavailable in current environment",
+  "js_syntax": "passed node --check"
+}
