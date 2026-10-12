@@ -30,13 +30,13 @@ jobs:
         shell: bash
         env:
           FTP_SERVER: ${{ secrets.FTP_SERVER }}
-          LFTP_PASSWORD: ${{ secrets.PALKAHELPRU_DIAMOND }}
+          LFTP_PASSWORD: ${{ secrets.PALKAHELRU_DIAMOND }}
         run: |
           set +x
           set -euo pipefail
 
           if [[ -z "$FTP_SERVER" || -z "$LFTP_PASSWORD" ]]; then
-            echo '::error::Set the FTP_SERVER and PALKAHELPRU_DIAMOND repository secrets.'
+            echo '::error::Set the FTP_SERVER and PALKAHELRU_DIAMOND repository secrets.'
             exit 1
           fi
 
