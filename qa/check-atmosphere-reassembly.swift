@@ -12,7 +12,7 @@ func render(_ images:[CGImage],_ w:Int,_ h:Int,_ space:CGColorSpace)->[UInt8] {
 }
 var reports:[[String:Any]]=[]
 for (label,source,widths) in [("character","assets/diamond-character-campaign.jpg",[1519,1267,1640,680]),("character-mobile","assets/diamond-character-campaign-mobile.jpg",[1122,390,620])] {
- let original=cg(source),base=cg("assets/diamond-atmosphere/\(label)-base.png"),smoke=cg("assets/diamond-atmosphere/\(label)-smoke.png")
+ let original=cg(source),base=cg("assets/diamond-character/\(label)-base.png"),smoke=cg("assets/diamond-character/\(label)-smoke.png")
  for w in widths {
   let h=Int((Double(w)*Double(original.height)/Double(original.width)).rounded())
   let before=render([original],w,h,original.colorSpace!),after=render([base,smoke],w,h,original.colorSpace!)

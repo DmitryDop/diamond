@@ -1,0 +1,35 @@
+[
+  {
+    "alphaMax" : 0.99607843137254903,
+    "alphaMean" : 0.065207532496293574,
+    "clear" : 1460508,
+    "file" : "argument-bat.png",
+    "hasAlpha" : true,
+    "height" : 1024,
+    "opaque" : 0,
+    "translucent" : 112356,
+    "width" : 1536
+  },
+  {
+    "alphaMax" : 0.99607843137254903,
+    "alphaMean" : 0.27323829052539134,
+    "clear" : 1122938,
+    "file" : "argument-head.png",
+    "hasAlpha" : true,
+    "height" : 1024,
+    "opaque" : 0,
+    "translucent" : 449926,
+    "width" : 1536
+  },
+  {
+    "alphaMax" : 0.98431372549019602,
+    "alphaMean" : 0.094637886994466625,
+    "clear" : 679856,
+    "file" : "argument-smoke.png",
+    "hasAlpha" : true,
+    "height" : 1024,
+    "opaque" : 0,
+    "translucent" : 893008,
+    "width" : 1536
+  }
+]

@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="ru">
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>DIAMOND — логотип и favicon</title>
+<style>body{margin:24px;background:#0b0b0e;color:#eee;font:15px system-ui}h1{font-size:24px}section{display:flex;align-items:start;flex-wrap:wrap;gap:32px;margin:24px 0}figure{margin:0}figcaption{color:#aaa;margin-top:12px}img{display:block}pre{white-space:pre-wrap}textarea{width:90%;height:60px}#capture-preview{max-width:100%}</style>
+<h1>Логотип и favicon</h1>
+<section>
+<figure><img src="checkpoints/2026-10-15-logo-favicon/logo-original.svg" width="203" height="48"><figcaption>Исходный логотип</figcaption></figure>
+<figure><img src="logo-optimized.svg" width="203" height="48"><figcaption>SVGO, без clipPath</figcaption></figure>
+</section>
+<section>
+<figure><img src="../draft/32.png" width="128" height="128" style="image-rendering:pixelated"><figcaption>Эталон 32.png ×4</figcaption></figure>
+<figure><img src="../favicon.svg" width="128" height="128"><figcaption>SVG ×4</figcaption></figure>
+<figure><img src="favicon-16.png" width="16" height="16"><figcaption>ICO 16</figcaption></figure>
+<figure><img src="favicon-32.png" width="32" height="32"><figcaption>ICO 32</figcaption></figure>
+<figure><img src="favicon-48.png" width="48" height="48"><figcaption>ICO 48</figcaption></figure>
+<figure><img src="../apple-touch-icon.png" width="180" height="180"><figcaption>Apple 180</figcaption></figure>
+</section>
+<pre id="report">Проверка…</pre>
+<details><summary>Сохранение снимка браузера</summary><textarea id="capture-data" aria-label="Данные снимка"></textarea><button id="capture-show">Подготовить снимок</button><img id="capture-preview" alt="Снимок проверки сайта"></details>
+<script>
+const load=src=>new Promise((resolve,reject)=>{const i=new Image();i.onload=()=>resolve(i);i.onerror=()=>reject(Error(src));i.src=src;});
+const pixels=(i,w,h)=>{const c=document.createElement('canvas');c.width=w;c.height=h;const ctx=c.getContext('2d');ctx.fillStyle='#0b0b0e';ctx.fillRect(0,0,w,h);ctx.drawImage(i,0,0,w,h);return ctx.getImageData(0,0,w,h).data;};
+const diff=(a,b)=>{let changed=0,max=0,total=0;for(let j=0;j<a.length;j++){const d=Math.abs(a[j]-b[j]);if(d)changed++;max=Math.max(max,d);total+=d;}return{changedChannels:changed,maxChannelDelta:max,meanChannelDelta:total/a.length};};
+(async()=>{
+ const [original,clipped,optimized,ref,vector]=await Promise.all(['checkpoints/2026-10-15-logo-favicon/logo-original.svg','logo-clipped.svg','logo-optimized.svg','../draft/32.png','../favicon.svg'].map(load));
+ const results={logo:[1,2,4].map(scale=>{const w=203*scale,h=48*scale;return{scale,svgo:diff(pixels(original,w,h),pixels(clipped,w,h)),withoutClip:diff(pixels(clipped,w,h),pixels(optimized,w,h))};}),favicon:{referenceVsSVG:diff(pixels(ref,32,32),pixels(vector,32,32))},checks:{}};
+ results.checks.clipRemovalIdentical=results.logo.every(x=>x.withoutClip.changedChannels===0);
+ results.checks.optimizationVisuallyEquivalent=results.logo.every(x=>x.svgo.maxChannelDelta<=2);
+ results.checks.assetsAvailable=(await Promise.all(['../favicon.svg','../favicon.ico','../apple-touch-icon.png'].map(async u=>(await fetch(u,{cache:'no-store'})).ok))).every(Boolean);
+ document.querySelector('#report').textContent=JSON.stringify(results,null,2);
+})().catch(e=>document.querySelector('#report').textContent=e.stack);
+document.querySelector('#capture-show').onclick=()=>document.querySelector('#capture-preview').src='data:image/jpeg;base64,'+document.querySelector('#capture-data').value;
+</script>
+</html>

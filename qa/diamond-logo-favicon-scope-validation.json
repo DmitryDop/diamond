@@ -1,0 +1,9 @@
+{
+  "checks": {
+    "html_outside_brand_icons_and_parallel_skip_link_edit_unchanged": true,
+    "css_outside_header_unchanged": true,
+    "all_javascript_unchanged": true,
+    "favicon_reference_unchanged": true
+  },
+  "parallel_edit_preserved": "Removal of the skip-link from index.html after the logo optimization; not reverted."
+}

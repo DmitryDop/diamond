@@ -1,0 +1,533 @@
+[
+  {
+    "copy" : {
+      "bottom" : 666,
+      "height" : 403,
+      "right" : 1760,
+      "width" : 480,
+      "x" : 1280,
+      "y" : 263
+    },
+    "haze" : {
+      "bottom" : 1227.34375,
+      "height" : 1128.59375,
+      "right" : 1640,
+      "width" : 1640,
+      "x" : 0,
+      "y" : 98.75
+    },
+    "height" : 1400,
+    "horizontalOverflow" : false,
+    "imageLoaded" : true,
+    "imageSource" : "data:image\/jpeg;base64,\/9j\/4AA",
+    "maskComposite" : "intersect, intersect",
+    "maskImage" : "linear-gradient(90deg, rgba(0, 0, 0, 0), rgb(0, 0, 0) 7%, rgb(0, 0, 0) 88%, rgba(0, 0, 0, 0)), linear-gradient(rgba(0, 0, 0, 0), rgb(0, 0, 0) 13%, rgb(0, 0, 0) 80%, rgba(0, 0, 0, 0))",
+    "parallaxAnimations" : 0,
+    "photo" : {
+      "bottom" : 1227.34375,
+      "height" : 1128.59375,
+      "right" : 1640,
+      "width" : 1640,
+      "x" : 0,
+      "y" : 98.75
+    },
+    "realAlphaMask" : true,
+    "scene" : {
+      "bottom" : 1233,
+      "height" : 1141,
+      "right" : 1920,
+      "width" : 1920,
+      "x" : 0,
+      "y" : 92
+    },
+    "smokeAlignedWithScene" : true,
+    "smokeBelowImage" : true,
+    "smokeHeight" : 1024,
+    "smokeHidden" : false,
+    "smokeLoaded" : true,
+    "smokeSource" : "data:image\/png;base64,iVBORw0K",
+    "smokeWidth" : 1536,
+    "stage" : {
+      "bottom" : 1227.34375,
+      "height" : 1128.59375,
+      "right" : 1640,
+      "width" : 1640,
+      "x" : 0,
+      "y" : 98.75
+    },
+    "title" : "Холодный.Крепкий.",
+    "width" : 1920
+  },
+  {
+    "copy" : {
+      "bottom" : 624,
+      "height" : 387,
+      "right" : 1379.515625,
+      "width" : 395.703125,
+      "x" : 983.8125,
+      "y" : 237
+    },
+    "haze" : {
+      "bottom" : 989.828125,
+      "height" : 872.03125,
+      "right" : 1267.1875,
+      "width" : 1267.1875,
+      "x" : 0,
+      "y" : 117.796875
+    },
+    "height" : 1100,
+    "horizontalOverflow" : false,
+    "imageLoaded" : true,
+    "imageSource" : "data:image\/jpeg;base64,\/9j\/4AA",
+    "maskComposite" : "intersect, intersect",
+    "maskImage" : "linear-gradient(90deg, rgba(0, 0, 0, 0), rgb(0, 0, 0) 7%, rgb(0, 0, 0) 88%, rgba(0, 0, 0, 0)), linear-gradient(rgba(0, 0, 0, 0), rgb(0, 0, 0) 13%, rgb(0, 0, 0) 80%, rgba(0, 0, 0, 0))",
+    "parallaxAnimations" : 0,
+    "photo" : {
+      "bottom" : 989.828125,
+      "height" : 872.03125,
+      "right" : 1267.1875,
+      "width" : 1267.1875,
+      "x" : 0,
+      "y" : 117.796875
+    },
+    "realAlphaMask" : true,
+    "scene" : {
+      "bottom" : 1014.59375,
+      "height" : 922.59375,
+      "right" : 1440,
+      "width" : 1440,
+      "x" : 0,
+      "y" : 92
+    },
+    "smokeAlignedWithScene" : true,
+    "smokeBelowImage" : true,
+    "smokeHeight" : 1024,
+    "smokeHidden" : false,
+    "smokeLoaded" : true,
+    "smokeSource" : "data:image\/png;base64,iVBORw0K",
+    "smokeWidth" : 1536,
+    "stage" : {
+      "bottom" : 989.828125,
+      "height" : 872.03125,
+      "right" : 1267.1875,
+      "width" : 1267.1875,
+      "x" : 0,
+      "y" : 117.796875
+    },
+    "title" : "Холодный.Крепкий.",
+    "width" : 1440
+  },
+  {
+    "copy" : {
+      "bottom" : 562,
+      "height" : 373,
+      "right" : 980.984375,
+      "width" : 300.140625,
+      "x" : 680.84375,
+      "y" : 189
+    },
+    "haze" : {
+      "bottom" : 774.984375,
+      "height" : 563.734375,
+      "right" : 819.1875,
+      "width" : 819.1875,
+      "x" : 0,
+      "y" : 211.25
+    },
+    "height" : 1000,
+    "horizontalOverflow" : false,
+    "imageLoaded" : true,
+    "imageSource" : "data:image\/jpeg;base64,\/9j\/4AA",
+    "maskComposite" : "intersect, intersect",
+    "maskImage" : "linear-gradient(90deg, rgba(0, 0, 0, 0), rgb(0, 0, 0) 7%, rgb(0, 0, 0) 88%, rgba(0, 0, 0, 0)), linear-gradient(rgba(0, 0, 0, 0), rgb(0, 0, 0) 13%, rgb(0, 0, 0) 80%, rgba(0, 0, 0, 0))",
+    "parallaxAnimations" : 0,
+    "photo" : {
+      "bottom" : 774.984375,
+      "height" : 563.734375,
+      "right" : 819.1875,
+      "width" : 819.1875,
+      "x" : 0,
+      "y" : 211.25
+    },
+    "realAlphaMask" : true,
+    "scene" : {
+      "bottom" : 893,
+      "height" : 801,
+      "right" : 1024,
+      "width" : 1024,
+      "x" : 0,
+      "y" : 92
+    },
+    "smokeAlignedWithScene" : true,
+    "smokeBelowImage" : true,
+    "smokeHeight" : 1024,
+    "smokeHidden" : false,
+    "smokeLoaded" : true,
+    "smokeSource" : "data:image\/png;base64,iVBORw0K",
+    "smokeWidth" : 1536,
+    "stage" : {
+      "bottom" : 774.984375,
+      "height" : 563.734375,
+      "right" : 819.1875,
+      "width" : 819.1875,
+      "x" : 0,
+      "y" : 211.25
+    },
+    "title" : "Холодный.Крепкий.",
+    "width" : 1024
+  },
+  {
+    "copy" : {
+      "bottom" : 1047.15625,
+      "height" : 331,
+      "right" : 814.296875,
+      "width" : 778.59375,
+      "x" : 35.703125,
+      "y" : 716.15625
+    },
+    "haze" : {
+      "bottom" : 692.15625,
+      "height" : 579.15625,
+      "right" : 850,
+      "width" : 850,
+      "x" : 0,
+      "y" : 113
+    },
+    "height" : 1300,
+    "horizontalOverflow" : false,
+    "imageLoaded" : true,
+    "imageSource" : "data:image\/jpeg;base64,\/9j\/4AA",
+    "maskComposite" : "intersect, intersect",
+    "maskImage" : "linear-gradient(90deg, rgba(0, 0, 0, 0), rgb(0, 0, 0) 8%, rgb(0, 0, 0) 87%, rgba(0, 0, 0, 0)), linear-gradient(rgba(0, 0, 0, 0), rgb(0, 0, 0) 15%, rgb(0, 0, 0) 81%, rgba(0, 0, 0, 0))",
+    "parallaxAnimations" : 0,
+    "photo" : {
+      "bottom" : 697.9375,
+      "height" : 584.9375,
+      "right" : 850,
+      "width" : 850,
+      "x" : 0,
+      "y" : 113
+    },
+    "realAlphaMask" : true,
+    "scene" : {
+      "bottom" : 1111.15625,
+      "height" : 1031.15625,
+      "right" : 850,
+      "width" : 850,
+      "x" : 0,
+      "y" : 80
+    },
+    "smokeAlignedWithScene" : true,
+    "smokeBelowImage" : true,
+    "smokeHeight" : 1024,
+    "smokeHidden" : false,
+    "smokeLoaded" : true,
+    "smokeSource" : "data:image\/png;base64,iVBORw0K",
+    "smokeWidth" : 1536,
+    "stage" : {
+      "bottom" : 692.15625,
+      "height" : 579.15625,
+      "right" : 850,
+      "width" : 850,
+      "x" : 0,
+      "y" : 113
+    },
+    "title" : "Холодный.Крепкий.",
+    "width" : 850
+  },
+  {
+    "copy" : {
+      "bottom" : 991.28125,
+      "height" : 331,
+      "right" : 735.734375,
+      "width" : 703.484375,
+      "x" : 32.25,
+      "y" : 660.28125
+    },
+    "haze" : {
+      "bottom" : 636.28125,
+      "height" : 523.28125,
+      "right" : 768,
+      "width" : 768,
+      "x" : 0,
+      "y" : 113
+    },
+    "height" : 1300,
+    "horizontalOverflow" : false,
+    "imageLoaded" : true,
+    "imageSource" : "data:image\/jpeg;base64,\/9j\/4AA",
+    "maskComposite" : "intersect, intersect",
+    "maskImage" : "linear-gradient(90deg, rgba(0, 0, 0, 0), rgb(0, 0, 0) 8%, rgb(0, 0, 0) 87%, rgba(0, 0, 0, 0)), linear-gradient(rgba(0, 0, 0, 0), rgb(0, 0, 0) 15%, rgb(0, 0, 0) 81%, rgba(0, 0, 0, 0))",
+    "parallaxAnimations" : 0,
+    "photo" : {
+      "bottom" : 641.515625,
+      "height" : 528.515625,
+      "right" : 768,
+      "width" : 768,
+      "x" : 0,
+      "y" : 113
+    },
+    "realAlphaMask" : true,
+    "scene" : {
+      "bottom" : 1055.28125,
+      "height" : 975.28125,
+      "right" : 768,
+      "width" : 768,
+      "x" : 0,
+      "y" : 80
+    },
+    "smokeAlignedWithScene" : true,
+    "smokeBelowImage" : true,
+    "smokeHeight" : 1024,
+    "smokeHidden" : false,
+    "smokeLoaded" : true,
+    "smokeSource" : "data:image\/png;base64,iVBORw0K",
+    "smokeWidth" : 1536,
+    "stage" : {
+      "bottom" : 636.28125,
+      "height" : 523.28125,
+      "right" : 768,
+      "width" : 768,
+      "x" : 0,
+      "y" : 113
+    },
+    "title" : "Холодный.Крепкий.",
+    "width" : 768
+  },
+  {
+    "copy" : {
+      "bottom" : 1162.75,
+      "height" : 331,
+      "right" : 532,
+      "width" : 508,
+      "x" : 24,
+      "y" : 831.75
+    },
+    "haze" : {
+      "bottom" : 807.75,
+      "height" : 694.75,
+      "right" : 556,
+      "width" : 556,
+      "x" : 0,
+      "y" : 113
+    },
+    "height" : 1300,
+    "horizontalOverflow" : false,
+    "imageLoaded" : true,
+    "imageSource" : "data:image\/jpeg;base64,\/9j\/4AA",
+    "maskComposite" : "intersect, intersect",
+    "maskImage" : "linear-gradient(90deg, rgba(0, 0, 0, 0), rgb(0, 0, 0) 8%, rgb(0, 0, 0) 87%, rgba(0, 0, 0, 0)), linear-gradient(rgba(0, 0, 0, 0), rgb(0, 0, 0) 15%, rgb(0, 0, 0) 81%, rgba(0, 0, 0, 0))",
+    "parallaxAnimations" : 0,
+    "photo" : {
+      "bottom" : 810.71875,
+      "height" : 697.71875,
+      "right" : 556,
+      "width" : 556,
+      "x" : 0,
+      "y" : 113
+    },
+    "realAlphaMask" : true,
+    "scene" : {
+      "bottom" : 1226.75,
+      "height" : 1146.75,
+      "right" : 556,
+      "width" : 556,
+      "x" : 0,
+      "y" : 80
+    },
+    "smokeAlignedWithScene" : true,
+    "smokeBelowImage" : true,
+    "smokeHeight" : 1024,
+    "smokeHidden" : false,
+    "smokeLoaded" : true,
+    "smokeSource" : "data:image\/png;base64,iVBORw0K",
+    "smokeWidth" : 1536,
+    "stage" : {
+      "bottom" : 807.75,
+      "height" : 694.75,
+      "right" : 556,
+      "width" : 556,
+      "x" : 0,
+      "y" : 113
+    },
+    "title" : "Холодный.Крепкий.",
+    "width" : 556
+  },
+  {
+    "copy" : {
+      "bottom" : 903.3125,
+      "height" : 303,
+      "right" : 368,
+      "width" : 346,
+      "x" : 22,
+      "y" : 600.3125
+    },
+    "haze" : {
+      "bottom" : 588.3125,
+      "height" : 487.3125,
+      "right" : 390,
+      "width" : 390,
+      "x" : 0,
+      "y" : 101
+    },
+    "height" : 1100,
+    "horizontalOverflow" : false,
+    "imageLoaded" : true,
+    "imageSource" : "data:image\/jpeg;base64,\/9j\/4AA",
+    "maskComposite" : "intersect, intersect",
+    "maskImage" : "linear-gradient(90deg, rgba(0, 0, 0, 0), rgb(0, 0, 0) 8%, rgb(0, 0, 0) 87%, rgba(0, 0, 0, 0)), linear-gradient(rgba(0, 0, 0, 0), rgb(0, 0, 0) 15%, rgb(0, 0, 0) 81%, rgba(0, 0, 0, 0))",
+    "parallaxAnimations" : 0,
+    "photo" : {
+      "bottom" : 590.40625,
+      "height" : 489.40625,
+      "right" : 390,
+      "width" : 390,
+      "x" : 0,
+      "y" : 101
+    },
+    "realAlphaMask" : true,
+    "scene" : {
+      "bottom" : 951.3125,
+      "height" : 875.3125,
+      "right" : 390,
+      "width" : 390,
+      "x" : 0,
+      "y" : 76
+    },
+    "smokeAlignedWithScene" : true,
+    "smokeBelowImage" : true,
+    "smokeHeight" : 1024,
+    "smokeHidden" : false,
+    "smokeLoaded" : true,
+    "smokeSource" : "data:image\/png;base64,iVBORw0K",
+    "smokeWidth" : 1536,
+    "stage" : {
+      "bottom" : 588.3125,
+      "height" : 487.3125,
+      "right" : 390,
+      "width" : 390,
+      "x" : 0,
+      "y" : 101
+    },
+    "title" : "Холодный.Крепкий.",
+    "width" : 390
+  },
+  {
+    "copy" : {
+      "bottom" : 882.578125,
+      "height" : 301,
+      "right" : 353,
+      "width" : 331,
+      "x" : 22,
+      "y" : 581.578125
+    },
+    "haze" : {
+      "bottom" : 569.578125,
+      "height" : 468.578125,
+      "right" : 375,
+      "width" : 375,
+      "x" : 0,
+      "y" : 101
+    },
+    "height" : 1100,
+    "horizontalOverflow" : false,
+    "imageLoaded" : true,
+    "imageSource" : "data:image\/jpeg;base64,\/9j\/4AA",
+    "maskComposite" : "intersect, intersect",
+    "maskImage" : "linear-gradient(90deg, rgba(0, 0, 0, 0), rgb(0, 0, 0) 8%, rgb(0, 0, 0) 87%, rgba(0, 0, 0, 0)), linear-gradient(rgba(0, 0, 0, 0), rgb(0, 0, 0) 15%, rgb(0, 0, 0) 81%, rgba(0, 0, 0, 0))",
+    "parallaxAnimations" : 0,
+    "photo" : {
+      "bottom" : 571.578125,
+      "height" : 470.578125,
+      "right" : 375,
+      "width" : 375,
+      "x" : 0,
+      "y" : 101
+    },
+    "realAlphaMask" : true,
+    "scene" : {
+      "bottom" : 930.578125,
+      "height" : 854.578125,
+      "right" : 375,
+      "width" : 375,
+      "x" : 0,
+      "y" : 76
+    },
+    "smokeAlignedWithScene" : true,
+    "smokeBelowImage" : true,
+    "smokeHeight" : 1024,
+    "smokeHidden" : false,
+    "smokeLoaded" : true,
+    "smokeSource" : "data:image\/png;base64,iVBORw0K",
+    "smokeWidth" : 1536,
+    "stage" : {
+      "bottom" : 569.578125,
+      "height" : 468.578125,
+      "right" : 375,
+      "width" : 375,
+      "x" : 0,
+      "y" : 101
+    },
+    "title" : "Холодный.Крепкий.",
+    "width" : 375
+  },
+  {
+    "copy" : {
+      "bottom" : 834.84375,
+      "height" : 322,
+      "right" : 304,
+      "width" : 288,
+      "x" : 16,
+      "y" : 512.84375
+    },
+    "haze" : {
+      "bottom" : 500.84375,
+      "height" : 399.84375,
+      "right" : 320,
+      "width" : 320,
+      "x" : 0,
+      "y" : 101
+    },
+    "height" : 1000,
+    "horizontalOverflow" : false,
+    "imageLoaded" : true,
+    "imageSource" : "data:image\/jpeg;base64,\/9j\/4AA",
+    "maskComposite" : "intersect, intersect",
+    "maskImage" : "linear-gradient(90deg, rgba(0, 0, 0, 0), rgb(0, 0, 0) 8%, rgb(0, 0, 0) 87%, rgba(0, 0, 0, 0)), linear-gradient(rgba(0, 0, 0, 0), rgb(0, 0, 0) 15%, rgb(0, 0, 0) 81%, rgba(0, 0, 0, 0))",
+    "parallaxAnimations" : 0,
+    "photo" : {
+      "bottom" : 502.5625,
+      "height" : 401.5625,
+      "right" : 320,
+      "width" : 320,
+      "x" : 0,
+      "y" : 101
+    },
+    "realAlphaMask" : true,
+    "scene" : {
+      "bottom" : 882.84375,
+      "height" : 806.84375,
+      "right" : 320,
+      "width" : 320,
+      "x" : 0,
+      "y" : 76
+    },
+    "smokeAlignedWithScene" : true,
+    "smokeBelowImage" : true,
+    "smokeHeight" : 1024,
+    "smokeHidden" : false,
+    "smokeLoaded" : true,
+    "smokeSource" : "data:image\/png;base64,iVBORw0K",
+    "smokeWidth" : 1536,
+    "stage" : {
+      "bottom" : 500.84375,
+      "height" : 399.84375,
+      "right" : 320,
+      "width" : 320,
+      "x" : 0,
+      "y" : 101
+    },
+    "title" : "Холодный.Крепкий.",
+    "width" : 320
+  }
+]

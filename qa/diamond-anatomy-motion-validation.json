@@ -1,0 +1,128 @@
+{
+  "date": "2026-10-15",
+  "browser": "Chrome",
+  "harness": "qa/anatomy-motion-review.html",
+  "gsap": "3.13.0",
+  "matrix": [
+    {
+      "width": 320,
+      "height": 740,
+      "reduced": false,
+      "pinned": true,
+      "passed": 16,
+      "total": 16,
+      "errors": []
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "reduced": false,
+      "pinned": true,
+      "passed": 16,
+      "total": 16,
+      "errors": []
+    },
+    {
+      "width": 850,
+      "height": 980,
+      "reduced": false,
+      "pinned": false,
+      "passed": 16,
+      "total": 16,
+      "errors": []
+    },
+    {
+      "width": 1100,
+      "height": 800,
+      "reduced": false,
+      "pinned": false,
+      "passed": 16,
+      "total": 16,
+      "errors": []
+    },
+    {
+      "width": 1101,
+      "height": 900,
+      "reduced": false,
+      "pinned": true,
+      "passed": 16,
+      "total": 16,
+      "errors": []
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "reduced": false,
+      "pinned": true,
+      "passed": 16,
+      "total": 16,
+      "errors": []
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "reduced": false,
+      "pinned": true,
+      "passed": 16,
+      "total": 16,
+      "errors": []
+    },
+    {
+      "width": 1440,
+      "height": 600,
+      "reduced": false,
+      "pinned": false,
+      "passed": 16,
+      "total": 16,
+      "errors": []
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "reduced": true,
+      "pinned": false,
+      "passed": 8,
+      "total": 8,
+      "errors": []
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "reduced": true,
+      "pinned": false,
+      "passed": 8,
+      "total": 8,
+      "errors": []
+    }
+  ],
+  "resize": [
+    {
+      "width": 390,
+      "height": 844,
+      "passed": 16,
+      "total": 16,
+      "errors": []
+    },
+    {
+      "width": 850,
+      "height": 980,
+      "passed": 16,
+      "total": 16,
+      "errors": []
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "passed": 16,
+      "total": 16,
+      "errors": []
+    }
+  ],
+  "matrix_checks_passed": 144,
+  "resize_checks_passed": 48,
+  "visual_review": [
+    "Desktop: intact entry, crossfade, final construction and callouts",
+    "Mobile: final construction over an opaque background, enlarged scheme"
+  ],
+  "scope_validation": "qa/diamond-anatomy-motion-scope-validation.json"
+}

@@ -1,0 +1,35 @@
+{
+  "alphaMax": 0.9882352941176471,
+  "alphaMean": 0.1933914109768974,
+  "edgeAlphaMax": 0.00392156862745098,
+  "file": "assets/diamond-character/character-smoke-continuous.png",
+  "fullyTransparentPixels": 292294,
+  "hasAlpha": true,
+  "height": 1024,
+  "independentContinuousLayer": true,
+  "liveSiteLayerConnected": true,
+  "objectShapedCutouts": false,
+  "opaquePixels": 0,
+  "parallaxEnabled": false,
+  "sourceObjectsModified": false,
+  "translucentPixels": 1280570,
+  "width": 1536,
+  "sourceObjectSHA256": {
+    "assets/diamond-character-campaign.png": "18e8276bd6652c2f400d4e4b60f817c85b3cbdcc54122c8acb678a92f037ecfc",
+    "assets/diamond-character-campaign.jpg": "75c6e8e504c556441fd1105e92aa9d10fc0d39030bd674ef1f440a00d2516811",
+    "assets/diamond-character-campaign-mobile.png": "768dd1a85e2fbf554a680d7cfe3b369eaac4e12d75d4789ff54124fe306b5089",
+    "assets/diamond-character-campaign-mobile.jpg": "f9344073ded4714d21765de4f0c4df389bf35f5c51d912b0f323d641f08fab35"
+  },
+  "layerCompositing": "Independent continuous alpha PNG below unchanged approved scene; existing JPEG atmosphere remains in the scene; parallax not enabled.",
+  "browserViewportsChecked": [
+    1920,
+    1440,
+    1024,
+    850,
+    768,
+    556,
+    390,
+    375,
+    320
+  ]
+}

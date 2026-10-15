@@ -1,0 +1,33 @@
+{
+  "heroCopyMarkupUnchanged": true,
+  "heroBaseBackgroundUnchanged": true,
+  "heroCTAUnchanged": true,
+  "otherSectionsUnchanged": true,
+  "nonHeroCSSUnchanged": true,
+  "javascriptUnchanged": true,
+  "oldBatAssetUnchanged": true,
+  "newHeroAssetUnchanged": true,
+  "newHeroAssetSHA256": "24abbbf3b25b759c9e4d3d96d38e0012d787024d502da17d7462b4ddc108c96e",
+  "composition": "Full-width section scene with text above the image and edge gradients, matching scene-impact structure",
+  "desktopTextLayoutUnchangedAbove1100px": true,
+  "parallaxAdded": false,
+  "viewportsChecked": [
+    1920,
+    1440,
+    1280,
+    1101,
+    1100,
+    1024,
+    851,
+    850,
+    768,
+    520,
+    390,
+    375,
+    320
+  ],
+  "fullWidthScene": true,
+  "textAboveScene": true,
+  "batKeyPointsVisible": true,
+  "horizontalOverflow": false
+}

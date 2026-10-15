@@ -1,0 +1,43 @@
+{
+  "markupOutsideHeroUnchanged": true,
+  "heroCopyUnchanged": true,
+  "newDependencies": false,
+  "referenceCanvas": [
+    1776,
+    1312
+  ],
+  "layerBounds": {
+    "rearSmoke": [
+      0,
+      -47,
+      1776,
+      1359
+    ],
+    "central": [
+      328,
+      226,
+      1448,
+      1086
+    ],
+    "frontSmoke": [
+      986,
+      719,
+      790,
+      593
+    ],
+    "foreground": [
+      840,
+      638,
+      936,
+      674
+    ]
+  },
+  "assetSHA256": {
+    "central rock.png": "00a980e36548e0001f7716c70f3425d820f224f5f229fb039a9411a035473bb9",
+    "foreground-rock.png": "5327c899c6e32223864e15f5989ecadf42e8519417f2b29ab8aea024bf3c43bd",
+    "smoke behind the central rock.png": "34aa2383ec39b2aab858383f2dbcccc159a508936e950af881fe697b6ffb3217",
+    "ref_figma.png": "70a2b348ee4f7c7d9d01dc9f021883df1f9b41a2069106fb73d01de289db0a31",
+    "placeholder-hero.png": "24abbbf3b25b759c9e4d3d96d38e0012d787024d502da17d7462b4ddc108c96e",
+    "smoke behind the foreground-rock.png": "c3a2667fa5538aba1fa30a3ef880950562e38b5712395c69e6b47277fda32242"
+  }
+}

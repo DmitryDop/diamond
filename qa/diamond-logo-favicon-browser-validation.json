@@ -1,0 +1,236 @@
+{
+  "comparison": {
+    "logo": [
+      {
+        "scale": 1,
+        "svgo": {
+          "changedChannels": 0,
+          "maxChannelDelta": 0,
+          "meanChannelDelta": 0
+        },
+        "withoutClip": {
+          "changedChannels": 0,
+          "maxChannelDelta": 0,
+          "meanChannelDelta": 0
+        }
+      },
+      {
+        "scale": 2,
+        "svgo": {
+          "changedChannels": 0,
+          "maxChannelDelta": 0,
+          "meanChannelDelta": 0
+        },
+        "withoutClip": {
+          "changedChannels": 0,
+          "maxChannelDelta": 0,
+          "meanChannelDelta": 0
+        }
+      },
+      {
+        "scale": 4,
+        "svgo": {
+          "changedChannels": 0,
+          "maxChannelDelta": 0,
+          "meanChannelDelta": 0
+        },
+        "withoutClip": {
+          "changedChannels": 0,
+          "maxChannelDelta": 0,
+          "meanChannelDelta": 0
+        }
+      }
+    ],
+    "favicon": {
+      "referenceVsSVG": {
+        "changedChannels": 177,
+        "maxChannelDelta": 95,
+        "meanChannelDelta": 1.218017578125
+      }
+    },
+    "checks": {
+      "clipRemovalIdentical": true,
+      "optimizationVisuallyEquivalent": true,
+      "assetsAvailable": true
+    }
+  },
+  "viewports": [
+    {
+      "width": 1440,
+      "height": 900,
+      "viewBox": "0 0 203 48",
+      "logo": {
+        "x": 60.484375,
+        "y": 21.5,
+        "width": 203,
+        "height": 48,
+        "right": 263.484375
+      },
+      "actionsLeft": 1219.421875,
+      "href": "#top",
+      "label": "DIAMOND — к началу",
+      "clipPaths": 0,
+      "overflow": false,
+      "logoOverlapsActions": false,
+      "favicons": [
+        {
+          "type": "image/svg+xml",
+          "href": "/favicon.svg",
+          "sizes": null
+        },
+        {
+          "type": "image/x-icon",
+          "href": "/favicon.ico",
+          "sizes": "any"
+        },
+        {
+          "type": "",
+          "href": "/apple-touch-icon.png",
+          "sizes": "180x180"
+        }
+      ]
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "viewBox": "0 0 203 48",
+      "logo": {
+        "x": 22,
+        "y": 20.953125,
+        "width": 139.90625,
+        "height": 33.078125,
+        "right": 161.90625
+      },
+      "actionsLeft": 173.90625,
+      "href": "#top",
+      "label": "DIAMOND — к началу",
+      "clipPaths": 0,
+      "overflow": false,
+      "logoOverlapsActions": false,
+      "favicons": [
+        {
+          "type": "image/svg+xml",
+          "href": "/favicon.svg",
+          "sizes": null
+        },
+        {
+          "type": "image/x-icon",
+          "href": "/favicon.ico",
+          "sizes": "any"
+        },
+        {
+          "type": "",
+          "href": "/apple-touch-icon.png",
+          "sizes": "180x180"
+        }
+      ]
+    },
+    {
+      "width": 320,
+      "height": 740,
+      "viewBox": "0 0 203 48",
+      "logo": {
+        "x": 16,
+        "y": 27.8125,
+        "width": 81.90625,
+        "height": 19.359375,
+        "right": 97.90625
+      },
+      "actionsLeft": 109.90625,
+      "href": "#top",
+      "label": "DIAMOND — к началу",
+      "clipPaths": 0,
+      "overflow": false,
+      "logoOverlapsActions": false,
+      "favicons": [
+        {
+          "type": "image/svg+xml",
+          "href": "/favicon.svg",
+          "sizes": null
+        },
+        {
+          "type": "image/x-icon",
+          "href": "/favicon.ico",
+          "sizes": "any"
+        },
+        {
+          "type": "",
+          "href": "/apple-touch-icon.png",
+          "sizes": "180x180"
+        }
+      ]
+    }
+  ],
+  "resources": [
+    {
+      "url": "/favicon.svg",
+      "status": 200,
+      "type": "image/svg+xml"
+    },
+    {
+      "url": "/favicon.ico",
+      "status": 200,
+      "type": "image/x-icon"
+    },
+    {
+      "url": "/apple-touch-icon.png",
+      "status": 200,
+      "type": "image/png"
+    }
+  ],
+  "icoEntries": [
+    {
+      "width": 16,
+      "height": 16,
+      "pngWidth": 16,
+      "pngHeight": 16,
+      "referencePreserved": null
+    },
+    {
+      "width": 32,
+      "height": 32,
+      "pngWidth": 32,
+      "pngHeight": 32,
+      "referencePreserved": true
+    },
+    {
+      "width": 48,
+      "height": 48,
+      "pngWidth": 48,
+      "pngHeight": 48,
+      "referencePreserved": null
+    }
+  ],
+  "apple": {
+    "width": 180,
+    "height": 180
+  },
+  "iconRequests": [
+    {
+      "url": "http://127.0.0.1:8765/favicon.svg",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8765/favicon.svg",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8765/favicon.ico",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8765/favicon.ico",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8765/favicon.svg",
+      "status": 200
+    },
+    {
+      "url": "http://127.0.0.1:8765/favicon.ico",
+      "status": 200
+    }
+  ],
+  "consoleErrors": [],
+  "httpErrors": []
+}

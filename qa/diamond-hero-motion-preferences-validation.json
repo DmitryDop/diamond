@@ -1,0 +1,190 @@
+[
+  {
+    "actions" : {
+      "bottom" : 748.546875,
+      "height" : 56,
+      "right" : 654.046875,
+      "width" : 593.5625,
+      "x" : 60.484375,
+      "y" : 692.546875
+    },
+    "airAfter" : "matrix(1, 0, 0, 1, 2.074, -0.29)",
+    "airBefore" : "matrix(1, 0, 0, 1, 1.541, -0.154)",
+    "airMoving" : true,
+    "airStopped" : true,
+    "allImagesLoaded" : true,
+    "aspectPreserved" : true,
+    "batPoints" : [
+      {
+        "x" : 509.29824390727515,
+        "y" : 805.73548155726655
+      },
+      {
+        "x" : 1283.6178334273027,
+        "y" : 384.11643804897921
+      },
+      {
+        "x" : 1348.4823016593471,
+        "y" : 347.63017466845434
+      }
+    ],
+    "batVisible" : true,
+    "copy" : {
+      "bottom" : 748.546875,
+      "height" : 545.109375,
+      "right" : 654.046875,
+      "width" : 593.5625,
+      "x" : 60.484375,
+      "y" : 203.4375
+    },
+    "finePointer" : true,
+    "height" : 900,
+    "hero" : {
+      "bottom" : 900,
+      "height" : 808,
+      "right" : 1440,
+      "width" : 1440,
+      "x" : 0,
+      "y" : 92
+    },
+    "horizontalOverflow" : false,
+    "inactive" : true,
+    "initial" : [
+      "matrix(1, 0, 0, 1, 0, 0)",
+      "matrix(1, 0, 0, 1, 0, 0)",
+      "matrix(1, 0, 0, 1, 0, 0)",
+      "matrix(1, 0, 0, 1, 0, 0)"
+    ],
+    "layerCount" : 4,
+    "moved" : [
+      "matrix(1, 0, 0, 1, 1.872, 0.682)",
+      "matrix(1, 0, 0, 1, 3.743, 1.364)",
+      "matrix(1, 0, 0, 1, 6.239, 2.274)",
+      "matrix(1, 0, 0, 1, 11.23, 4.093)"
+    ],
+    "reducedMotion" : false,
+    "reducedStopped" : true,
+    "resumed" : true,
+    "scene" : {
+      "bottom" : 997.05438232421875,
+      "height" : 1063.78125,
+      "right" : 1440,
+      "width" : 1440,
+      "x" : 0,
+      "y" : -66.72686767578125
+    },
+    "sceneAfterCTA" : true,
+    "settled" : [
+      "matrix(1, 0, 0, 1, 0.06, 0.022)",
+      "matrix(1, 0, 0, 1, 0.119, 0.043)",
+      "matrix(1, 0, 0, 1, 0.198, 0.072)",
+      "matrix(1, 0, 0, 1, 0.357, 0.13)"
+    ],
+    "stage" : {
+      "bottom" : 900,
+      "height" : 808,
+      "right" : 1440,
+      "width" : 1440,
+      "x" : 0,
+      "y" : 92
+    },
+    "texts" : [
+      "\n          Белая бита. Тёмный характер.\n          \n            DIAM\n            \n              \n              ND\n            \n          \n          Бейсбольная бита как дизайн-объект. Чистый силуэт, холодный блеск и характер, который не спрячешь.\n          \n            Изучить объект\n            Смотреть в PALKAHELP\n          \n        "
+    ],
+    "width" : 1440
+  },
+  {
+    "actions" : {
+      "bottom" : 455.328125,
+      "height" : 108,
+      "right" : 368,
+      "width" : 346,
+      "x" : 22,
+      "y" : 347.328125
+    },
+    "airAfter" : "matrix(1, 0, 0, 1, 0.219, -0.03)",
+    "airBefore" : "matrix(1, 0, 0, 1, 0.171, -0.018)",
+    "airMoving" : true,
+    "airStopped" : true,
+    "allImagesLoaded" : true,
+    "aspectPreserved" : true,
+    "batPoints" : [
+      {
+        "x" : 130.5480835635359,
+        "y" : 721.85238259668506
+      },
+      {
+        "x" : 367.11338915745858,
+        "y" : 593.04195441988952
+      },
+      {
+        "x" : 386.93037810773484,
+        "y" : 581.89489813535909
+      }
+    ],
+    "batVisible" : true,
+    "copy" : {
+      "bottom" : 455.328125,
+      "height" : 462.328125,
+      "right" : 368,
+      "width" : 346,
+      "x" : 22,
+      "y" : -7
+    },
+    "finePointer" : false,
+    "height" : 844,
+    "hero" : {
+      "bottom" : 844.328125,
+      "height" : 897.328125,
+      "right" : 390,
+      "width" : 390,
+      "x" : 0,
+      "y" : -53
+    },
+    "horizontalOverflow" : false,
+    "inactive" : true,
+    "initial" : [
+      "matrix(1, 0, 0, 1, 0, 0)",
+      "matrix(1, 0, 0, 1, 0, 0)",
+      "matrix(1, 0, 0, 1, 0, 0)",
+      "matrix(1, 0, 0, 1, 0, 0)"
+    ],
+    "layerCount" : 4,
+    "moved" : [
+      "matrix(1, 0, 0, 1, 0, 0)",
+      "matrix(1, 0, 0, 1, 0, 0)",
+      "matrix(1, 0, 0, 1, 0, 0)",
+      "matrix(1, 0, 0, 1, 0, 0)"
+    ],
+    "reducedMotion" : false,
+    "reducedStopped" : true,
+    "resumed" : true,
+    "scene" : {
+      "bottom" : 780.328125,
+      "height" : 325,
+      "right" : 414.9375,
+      "width" : 439.9375,
+      "x" : -25,
+      "y" : 455.328125
+    },
+    "sceneAfterCTA" : true,
+    "settled" : [
+      "matrix(1, 0, 0, 1, 0, 0)",
+      "matrix(1, 0, 0, 1, 0, 0)",
+      "matrix(1, 0, 0, 1, 0, 0)",
+      "matrix(1, 0, 0, 1, 0, 0)"
+    ],
+    "stage" : {
+      "bottom" : 780.328125,
+      "height" : 325,
+      "right" : 390,
+      "width" : 390,
+      "x" : 0,
+      "y" : 455.328125
+    },
+    "texts" : [
+      "\n          Белая бита. Тёмный характер.\n          \n            DIAM\n            \n              \n              ND\n            \n          \n          Бейсбольная бита как дизайн-объект. Чистый силуэт, холодный блеск и характер, который не спрячешь.\n          \n            Изучить объект\n            Смотреть в PALKAHELP\n          \n        "
+    ],
+    "width" : 390
+  }
+]

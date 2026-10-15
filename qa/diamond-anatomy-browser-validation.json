@@ -1,0 +1,950 @@
+[
+  {
+    "copy" : {
+      "bottom" : 644,
+      "height" : 263,
+      "right" : 672,
+      "width" : 512,
+      "x" : 160,
+      "y" : 381
+    },
+    "diagramPoints" : [
+      {
+        "x" : 607.91999999999996,
+        "y" : 1001.76
+      },
+      {
+        "x" : 1878,
+        "y" : 532.20000000000005
+      },
+      {
+        "x" : 1500,
+        "y" : 675
+      },
+      {
+        "x" : 828,
+        "y" : 716.15999999999997
+      },
+      {
+        "x" : 1134.5999999999999,
+        "y" : 999.24000000000001
+      },
+      {
+        "x" : 1288.3199999999999,
+        "y" : 512.03999999999996
+      },
+      {
+        "x" : 1802.3999999999999,
+        "y" : 780
+      }
+    ],
+    "diagramPointsVisible" : true,
+    "fullWidthScene" : true,
+    "hasCaption" : false,
+    "height" : 1280,
+    "horizontalOverflow" : false,
+    "imageFit" : "contain",
+    "imageHasBackground" : false,
+    "imageMask" : "linear-gradient(rgba(0, 0, 0, 0), rgb(0, 0, 0) 8%, rgb(0, 0, 0) 92%, rgba(0, 0, 0, 0))",
+    "naturalHeight" : 900,
+    "naturalWidth" : 1600,
+    "photo" : {
+      "bottom" : 1309,
+      "height" : 1100,
+      "right" : 1920,
+      "width" : 1344,
+      "x" : 576,
+      "y" : 209
+    },
+    "PNGTopLeftAlpha" : 0,
+    "scene" : {
+      "bottom" : 1309,
+      "height" : 1101,
+      "right" : 1920,
+      "width" : 1920,
+      "x" : 0,
+      "y" : 208
+    },
+    "sceneAfterCopy" : true,
+    "stage" : {
+      "bottom" : 1309,
+      "height" : 1100,
+      "right" : 1920,
+      "width" : 1920,
+      "x" : 0,
+      "y" : 209
+    },
+    "textAboveScene" : true,
+    "title" : "Анатомия",
+    "width" : 1920
+  },
+  {
+    "copy" : {
+      "bottom" : 593.375,
+      "height" : 255,
+      "right" : 482.5625,
+      "width" : 422.078125,
+      "x" : 60.484375,
+      "y" : 338.375
+    },
+    "diagramPoints" : [
+      {
+        "x" : 455.94,
+        "y" : 840.85124999999994
+      },
+      {
+        "x" : 1408.5,
+        "y" : 488.68124999999998
+      },
+      {
+        "x" : 1125,
+        "y" : 595.78125
+      },
+      {
+        "x" : 621,
+        "y" : 626.65125
+      },
+      {
+        "x" : 850.95000000000005,
+        "y" : 838.96125000000006
+      },
+      {
+        "x" : 966.24000000000001,
+        "y" : 473.56124999999997
+      },
+      {
+        "x" : 1351.8,
+        "y" : 674.53125
+      }
+    ],
+    "diagramPointsVisible" : true,
+    "fullWidthScene" : true,
+    "hasCaption" : false,
+    "height" : 1080,
+    "horizontalOverflow" : false,
+    "imageFit" : "contain",
+    "imageHasBackground" : false,
+    "imageMask" : "linear-gradient(rgba(0, 0, 0, 0), rgb(0, 0, 0) 8%, rgb(0, 0, 0) 92%, rgba(0, 0, 0, 0))",
+    "naturalHeight" : 900,
+    "naturalWidth" : 1600,
+    "photo" : {
+      "bottom" : 1108.78125,
+      "height" : 900,
+      "right" : 1440,
+      "width" : 1008,
+      "x" : 432,
+      "y" : 208.78125
+    },
+    "PNGTopLeftAlpha" : 0,
+    "scene" : {
+      "bottom" : 1108.78125,
+      "height" : 901,
+      "right" : 1440,
+      "width" : 1440,
+      "x" : 0,
+      "y" : 207.78125
+    },
+    "sceneAfterCopy" : true,
+    "stage" : {
+      "bottom" : 1108.78125,
+      "height" : 900,
+      "right" : 1440,
+      "width" : 1440,
+      "x" : 0,
+      "y" : 208.78125
+    },
+    "textAboveScene" : true,
+    "title" : "Анатомия",
+    "width" : 1440
+  },
+  {
+    "copy" : {
+      "bottom" : 570.78125,
+      "height" : 247,
+      "right" : 428.953125,
+      "width" : 375.1875,
+      "x" : 53.765625,
+      "y" : 323.78125
+    },
+    "diagramPoints" : [
+      {
+        "x" : 405.27999999999997,
+        "y" : 770.43375000000003
+      },
+      {
+        "x" : 1252,
+        "y" : 457.39375000000001
+      },
+      {
+        "x" : 1000,
+        "y" : 552.59375
+      },
+      {
+        "x" : 552,
+        "y" : 580.03375000000005
+      },
+      {
+        "x" : 756.39999999999998,
+        "y" : 768.75375000000008
+      },
+      {
+        "x" : 858.88,
+        "y" : 443.95375000000001
+      },
+      {
+        "x" : 1201.5999999999999,
+        "y" : 622.59375
+      }
+    ],
+    "diagramPointsVisible" : true,
+    "fullWidthScene" : true,
+    "hasCaption" : false,
+    "height" : 980,
+    "horizontalOverflow" : false,
+    "imageFit" : "contain",
+    "imageHasBackground" : false,
+    "imageMask" : "linear-gradient(rgba(0, 0, 0, 0), rgb(0, 0, 0) 8%, rgb(0, 0, 0) 92%, rgba(0, 0, 0, 0))",
+    "naturalHeight" : 900,
+    "naturalWidth" : 1600,
+    "photo" : {
+      "bottom" : 1008.59375,
+      "height" : 800,
+      "right" : 1280,
+      "width" : 896,
+      "x" : 384,
+      "y" : 208.59375
+    },
+    "PNGTopLeftAlpha" : 0,
+    "scene" : {
+      "bottom" : 1008.59375,
+      "height" : 801,
+      "right" : 1280,
+      "width" : 1280,
+      "x" : 0,
+      "y" : 207.59375
+    },
+    "sceneAfterCopy" : true,
+    "stage" : {
+      "bottom" : 1008.59375,
+      "height" : 800,
+      "right" : 1280,
+      "width" : 1280,
+      "x" : 0,
+      "y" : 208.59375
+    },
+    "textAboveScene" : true,
+    "title" : "Анатомия",
+    "width" : 1280
+  },
+  {
+    "copy" : {
+      "bottom" : 556.21875,
+      "height" : 239,
+      "right" : 368.953125,
+      "width" : 322.71875,
+      "x" : 46.234375,
+      "y" : 317.21875
+    },
+    "diagramPoints" : [
+      {
+        "x" : 348.616328125,
+        "y" : 728.42417968749999
+      },
+      {
+        "x" : 1076.916015625,
+        "y" : 459.16523437500001
+      },
+      {
+        "x" : 860.16015625,
+        "y" : 541.05078125
+      },
+      {
+        "x" : 474.81640625,
+        "y" : 564.65308593750001
+      },
+      {
+        "x" : 650.62949218750009,
+        "y" : 726.97914062500001
+      },
+      {
+        "x" : 738.77687500000002,
+        "y" : 447.604921875
+      },
+      {
+        "x" : 1033.5648437499999,
+        "y" : 601.2607421875
+      }
+    ],
+    "diagramPointsVisible" : true,
+    "fullWidthScene" : true,
+    "hasCaption" : false,
+    "height" : 980,
+    "horizontalOverflow" : false,
+    "imageFit" : "contain",
+    "imageHasBackground" : false,
+    "imageMask" : "linear-gradient(rgba(0, 0, 0, 0), rgb(0, 0, 0) 8%, rgb(0, 0, 0) 92%, rgba(0, 0, 0, 0))",
+    "naturalHeight" : 900,
+    "naturalWidth" : 1600,
+    "photo" : {
+      "bottom" : 969.21875,
+      "height" : 760,
+      "right" : 1101,
+      "width" : 770.6875,
+      "x" : 330.3125,
+      "y" : 209.21875
+    },
+    "PNGTopLeftAlpha" : 0,
+    "scene" : {
+      "bottom" : 969.21875,
+      "height" : 761,
+      "right" : 1101,
+      "width" : 1101,
+      "x" : 0,
+      "y" : 208.21875
+    },
+    "sceneAfterCopy" : true,
+    "stage" : {
+      "bottom" : 969.21875,
+      "height" : 760,
+      "right" : 1101,
+      "width" : 1101,
+      "x" : 0,
+      "y" : 209.21875
+    },
+    "textAboveScene" : true,
+    "title" : "Анатомия",
+    "width" : 1101
+  },
+  {
+    "copy" : {
+      "bottom" : 453.90625,
+      "height" : 181,
+      "right" : 1053.796875,
+      "width" : 1007.59375,
+      "x" : 46.203125,
+      "y" : 272.90625
+    },
+    "diagramPoints" : [
+      {
+        "x" : 348.28750000000002,
+        "y" : 902.36249999999995
+      },
+      {
+        "x" : 1075.9375,
+        "y" : 633.34375
+      },
+      {
+        "x" : 859.375,
+        "y" : 715.15625
+      },
+      {
+        "x" : 474.375,
+        "y" : 738.73749999999995
+      },
+      {
+        "x" : 650.03125,
+        "y" : 900.91875000000005
+      },
+      {
+        "x" : 738.10000000000002,
+        "y" : 621.79375000000005
+      },
+      {
+        "x" : 1032.625,
+        "y" : 775.3125
+      }
+    ],
+    "diagramPointsVisible" : true,
+    "fullWidthScene" : true,
+    "hasCaption" : false,
+    "height" : 980,
+    "horizontalOverflow" : false,
+    "imageFit" : "contain",
+    "imageHasBackground" : false,
+    "imageMask" : "linear-gradient(rgba(0, 0, 0, 0), rgb(0, 0, 0) 8%, rgb(0, 0, 0) 92%, rgba(0, 0, 0, 0))",
+    "naturalHeight" : 900,
+    "naturalWidth" : 1600,
+    "photo" : {
+      "bottom" : 1072.65625,
+      "height" : 618.75,
+      "right" : 1100,
+      "width" : 770,
+      "x" : 330,
+      "y" : 453.90625
+    },
+    "PNGTopLeftAlpha" : 0,
+    "scene" : {
+      "bottom" : 1136.65625,
+      "height" : 928.75,
+      "right" : 1100,
+      "width" : 1100,
+      "x" : 0,
+      "y" : 207.90625
+    },
+    "sceneAfterCopy" : true,
+    "stage" : {
+      "bottom" : 1072.65625,
+      "height" : 618.75,
+      "right" : 1100,
+      "width" : 1100,
+      "x" : 0,
+      "y" : 453.90625
+    },
+    "textAboveScene" : true,
+    "title" : "Анатомия",
+    "width" : 1100
+  },
+  {
+    "copy" : {
+      "bottom" : 449.21875,
+      "height" : 176,
+      "right" : 980.984375,
+      "width" : 937.96875,
+      "x" : 43.015625,
+      "y" : 273.21875
+    },
+    "diagramPoints" : [
+      {
+        "x" : 324.22705078125,
+        "y" : 866.690185546875
+      },
+      {
+        "x" : 1001.60009765625,
+        "y" : 616.25927734375
+      },
+      {
+        "x" : 800.0009765625,
+        "y" : 692.4189453125
+      },
+      {
+        "x" : 441.6025390625,
+        "y" : 714.370849609375
+      },
+      {
+        "x" : 605.121826171875,
+        "y" : 865.34619140625
+      },
+      {
+        "x" : 687.10546875,
+        "y" : 605.50732421875
+      },
+      {
+        "x" : 961.2802734375,
+        "y" : 748.418701171875
+      }
+    ],
+    "diagramPointsVisible" : true,
+    "fullWidthScene" : true,
+    "hasCaption" : false,
+    "height" : 980,
+    "horizontalOverflow" : false,
+    "imageFit" : "contain",
+    "imageHasBackground" : false,
+    "imageMask" : "linear-gradient(rgba(0, 0, 0, 0), rgb(0, 0, 0) 8%, rgb(0, 0, 0) 92%, rgba(0, 0, 0, 0))",
+    "naturalHeight" : 900,
+    "naturalWidth" : 1600,
+    "photo" : {
+      "bottom" : 1025.21875,
+      "height" : 576,
+      "right" : 1024,
+      "width" : 716.796875,
+      "x" : 307.203125,
+      "y" : 449.21875
+    },
+    "PNGTopLeftAlpha" : 0,
+    "scene" : {
+      "bottom" : 1089.21875,
+      "height" : 881,
+      "right" : 1024,
+      "width" : 1024,
+      "x" : 0,
+      "y" : 208.21875
+    },
+    "sceneAfterCopy" : true,
+    "stage" : {
+      "bottom" : 1025.21875,
+      "height" : 576,
+      "right" : 1024,
+      "width" : 1024,
+      "x" : 0,
+      "y" : 449.21875
+    },
+    "textAboveScene" : true,
+    "title" : "Анатомия",
+    "width" : 1024
+  },
+  {
+    "copy" : {
+      "bottom" : 406,
+      "height" : 157,
+      "right" : 814.296875,
+      "width" : 778.59375,
+      "x" : 35.703125,
+      "y" : 249
+    },
+    "diagramPoints" : [
+      {
+        "x" : 269.13125000000002,
+        "y" : 752.53437499999995
+      },
+      {
+        "x" : 831.40625,
+        "y" : 544.65625
+      },
+      {
+        "x" : 664.0625,
+        "y" : 607.875
+      },
+      {
+        "x" : 366.5625,
+        "y" : 626.09687499999995
+      },
+      {
+        "x" : 502.296875,
+        "y" : 751.41875000000005
+      },
+      {
+        "x" : 570.35000000000002,
+        "y" : 535.73125000000005
+      },
+      {
+        "x" : 797.9375,
+        "y" : 654.359375
+      }
+    ],
+    "diagramPointsVisible" : true,
+    "fullWidthScene" : true,
+    "hasCaption" : false,
+    "height" : 980,
+    "horizontalOverflow" : false,
+    "imageFit" : "contain",
+    "imageHasBackground" : false,
+    "imageMask" : "linear-gradient(rgba(0, 0, 0, 0), rgb(0, 0, 0) 8%, rgb(0, 0, 0) 92%, rgba(0, 0, 0, 0))",
+    "naturalHeight" : 900,
+    "naturalWidth" : 1600,
+    "photo" : {
+      "bottom" : 884.125,
+      "height" : 478.125,
+      "right" : 850,
+      "width" : 595,
+      "x" : 255,
+      "y" : 406
+    },
+    "PNGTopLeftAlpha" : 0,
+    "scene" : {
+      "bottom" : 948.125,
+      "height" : 764.125,
+      "right" : 850,
+      "width" : 850,
+      "x" : 0,
+      "y" : 184
+    },
+    "sceneAfterCopy" : true,
+    "stage" : {
+      "bottom" : 884.125,
+      "height" : 478.125,
+      "right" : 850,
+      "width" : 850,
+      "x" : 0,
+      "y" : 406
+    },
+    "textAboveScene" : true,
+    "title" : "Анатомия",
+    "width" : 850
+  },
+  {
+    "copy" : {
+      "bottom" : 405.734375,
+      "height" : 157,
+      "right" : 735.734375,
+      "width" : 703.484375,
+      "x" : 32.25,
+      "y" : 248.734375
+    },
+    "diagramPoints" : [
+      {
+        "x" : 243.1741015625,
+        "y" : 718.83724609374997
+      },
+      {
+        "x" : 751.2001953125,
+        "y" : 531.01542968750005
+      },
+      {
+        "x" : 600.001953125,
+        "y" : 588.134765625
+      },
+      {
+        "x" : 331.205078125,
+        "y" : 604.59857421874995
+      },
+      {
+        "x" : 453.84365234375002,
+        "y" : 717.82925781250003
+      },
+      {
+        "x" : 515.3309375,
+        "y" : 522.95152343749999
+      },
+      {
+        "x" : 720.96054687499998,
+        "y" : 630.13427734375
+      }
+    ],
+    "diagramPointsVisible" : true,
+    "fullWidthScene" : true,
+    "hasCaption" : false,
+    "height" : 980,
+    "horizontalOverflow" : false,
+    "imageFit" : "contain",
+    "imageHasBackground" : false,
+    "imageMask" : "linear-gradient(rgba(0, 0, 0, 0), rgb(0, 0, 0) 8%, rgb(0, 0, 0) 92%, rgba(0, 0, 0, 0))",
+    "naturalHeight" : 900,
+    "naturalWidth" : 1600,
+    "photo" : {
+      "bottom" : 837.734375,
+      "height" : 432,
+      "right" : 768,
+      "width" : 537.59375,
+      "x" : 230.40625,
+      "y" : 405.734375
+    },
+    "PNGTopLeftAlpha" : 0,
+    "scene" : {
+      "bottom" : 901.734375,
+      "height" : 718,
+      "right" : 768,
+      "width" : 768,
+      "x" : 0,
+      "y" : 183.734375
+    },
+    "sceneAfterCopy" : true,
+    "stage" : {
+      "bottom" : 837.734375,
+      "height" : 432,
+      "right" : 768,
+      "width" : 768,
+      "x" : 0,
+      "y" : 405.734375
+    },
+    "textAboveScene" : true,
+    "title" : "Анатомия",
+    "width" : 768
+  },
+  {
+    "copy" : {
+      "bottom" : 405.5,
+      "height" : 157,
+      "right" : 532,
+      "width" : 508,
+      "x" : 24,
+      "y" : 248.5
+    },
+    "diagramPoints" : [
+      {
+        "x" : 176.05570312500001,
+        "y" : 632.1719921875
+      },
+      {
+        "x" : 543.837890625,
+        "y" : 496.19960937500002
+      },
+      {
+        "x" : 434.37890625,
+        "y" : 537.55078125
+      },
+      {
+        "x" : 239.78515625,
+        "y" : 549.46964843750004
+      },
+      {
+        "x" : 328.56855468750001,
+        "y" : 631.442265625
+      },
+      {
+        "x" : 373.08187499999997,
+        "y" : 490.36179687499998
+      },
+      {
+        "x" : 521.94609375000005,
+        "y" : 567.9560546875
+      }
+    ],
+    "diagramPointsVisible" : true,
+    "fullWidthScene" : true,
+    "hasCaption" : false,
+    "height" : 844,
+    "horizontalOverflow" : false,
+    "imageFit" : "contain",
+    "imageHasBackground" : false,
+    "imageMask" : "linear-gradient(rgba(0, 0, 0, 0), rgb(0, 0, 0) 8%, rgb(0, 0, 0) 92%, rgba(0, 0, 0, 0))",
+    "naturalHeight" : 900,
+    "naturalWidth" : 1600,
+    "photo" : {
+      "bottom" : 718.25,
+      "height" : 312.75,
+      "right" : 556,
+      "width" : 389.1875,
+      "x" : 166.8125,
+      "y" : 405.5
+    },
+    "PNGTopLeftAlpha" : 0,
+    "scene" : {
+      "bottom" : 782.25,
+      "height" : 598.75,
+      "right" : 556,
+      "width" : 556,
+      "x" : 0,
+      "y" : 183.5
+    },
+    "sceneAfterCopy" : true,
+    "stage" : {
+      "bottom" : 718.25,
+      "height" : 312.75,
+      "right" : 556,
+      "width" : 556,
+      "x" : 0,
+      "y" : 405.5
+    },
+    "textAboveScene" : true,
+    "title" : "Анатомия",
+    "width" : 556
+  },
+  {
+    "copy" : {
+      "bottom" : 400.328125,
+      "height" : 175,
+      "right" : 368,
+      "width" : 346,
+      "x" : 22,
+      "y" : 225.328125
+    },
+    "diagramPoints" : [
+      {
+        "x" : 123.48375,
+        "y" : 559.32624999999996
+      },
+      {
+        "x" : 381.46875,
+        "y" : 463.94687499999998
+      },
+      {
+        "x" : 304.6875,
+        "y" : 492.953125
+      },
+      {
+        "x" : 168.1875,
+        "y" : 501.31375000000003
+      },
+      {
+        "x" : 230.46562499999999,
+        "y" : 558.81437500000004
+      },
+      {
+        "x" : 261.69,
+        "y" : 459.85187500000001
+      },
+      {
+        "x" : 366.11250000000001,
+        "y" : 514.28125
+      }
+    ],
+    "diagramPointsVisible" : true,
+    "fullWidthScene" : true,
+    "hasCaption" : false,
+    "height" : 844,
+    "horizontalOverflow" : false,
+    "imageFit" : "contain",
+    "imageHasBackground" : false,
+    "imageMask" : "linear-gradient(rgba(0, 0, 0, 0), rgb(0, 0, 0) 8%, rgb(0, 0, 0) 92%, rgba(0, 0, 0, 0))",
+    "naturalHeight" : 900,
+    "naturalWidth" : 1600,
+    "photo" : {
+      "bottom" : 619.703125,
+      "height" : 219.375,
+      "right" : 390,
+      "width" : 273,
+      "x" : 117,
+      "y" : 400.328125
+    },
+    "PNGTopLeftAlpha" : 0,
+    "scene" : {
+      "bottom" : 683.703125,
+      "height" : 507.375,
+      "right" : 390,
+      "width" : 390,
+      "x" : 0,
+      "y" : 176.328125
+    },
+    "sceneAfterCopy" : true,
+    "stage" : {
+      "bottom" : 619.703125,
+      "height" : 219.375,
+      "right" : 390,
+      "width" : 390,
+      "x" : 0,
+      "y" : 400.328125
+    },
+    "textAboveScene" : true,
+    "title" : "Анатомия",
+    "width" : 390
+  },
+  {
+    "copy" : {
+      "bottom" : 399.28125,
+      "height" : 174,
+      "right" : 353,
+      "width" : 331,
+      "x" : 22,
+      "y" : 225.28125
+    },
+    "diagramPoints" : [
+      {
+        "x" : 118.734375,
+        "y" : 552.1640625
+      },
+      {
+        "x" : 366.796875,
+        "y" : 460.453125
+      },
+      {
+        "x" : 292.96875,
+        "y" : 488.34375
+      },
+      {
+        "x" : 161.71875,
+        "y" : 496.3828125
+      },
+      {
+        "x" : 221.6015625,
+        "y" : 551.671875
+      },
+      {
+        "x" : 251.625,
+        "y" : 456.515625
+      },
+      {
+        "x" : 352.03125,
+        "y" : 508.8515625
+      }
+    ],
+    "diagramPointsVisible" : true,
+    "fullWidthScene" : true,
+    "hasCaption" : false,
+    "height" : 812,
+    "horizontalOverflow" : false,
+    "imageFit" : "contain",
+    "imageHasBackground" : false,
+    "imageMask" : "linear-gradient(rgba(0, 0, 0, 0), rgb(0, 0, 0) 8%, rgb(0, 0, 0) 92%, rgba(0, 0, 0, 0))",
+    "naturalHeight" : 900,
+    "naturalWidth" : 1600,
+    "photo" : {
+      "bottom" : 610.21875,
+      "height" : 210.9375,
+      "right" : 375,
+      "width" : 262.5,
+      "x" : 112.5,
+      "y" : 399.28125
+    },
+    "PNGTopLeftAlpha" : 0,
+    "scene" : {
+      "bottom" : 674.21875,
+      "height" : 497.9375,
+      "right" : 375,
+      "width" : 375,
+      "x" : 0,
+      "y" : 176.28125
+    },
+    "sceneAfterCopy" : true,
+    "stage" : {
+      "bottom" : 610.21875,
+      "height" : 210.9375,
+      "right" : 375,
+      "width" : 375,
+      "x" : 0,
+      "y" : 399.28125
+    },
+    "textAboveScene" : true,
+    "title" : "Анатомия",
+    "width" : 375
+  },
+  {
+    "copy" : {
+      "bottom" : 422.40625,
+      "height" : 197,
+      "right" : 304,
+      "width" : 288,
+      "x" : 16,
+      "y" : 225.40625
+    },
+    "diagramPoints" : [
+      {
+        "x" : 101.31999999999999,
+        "y" : 552.86625000000004
+      },
+      {
+        "x" : 313,
+        "y" : 474.60624999999999
+      },
+      {
+        "x" : 250,
+        "y" : 498.40625
+      },
+      {
+        "x" : 138,
+        "y" : 505.26625000000001
+      },
+      {
+        "x" : 189.09999999999999,
+        "y" : 552.44624999999996
+      },
+      {
+        "x" : 214.72,
+        "y" : 471.24625000000003
+      },
+      {
+        "x" : 300.39999999999998,
+        "y" : 515.90625
+      }
+    ],
+    "diagramPointsVisible" : true,
+    "fullWidthScene" : true,
+    "hasCaption" : false,
+    "height" : 740,
+    "horizontalOverflow" : false,
+    "imageFit" : "contain",
+    "imageHasBackground" : false,
+    "imageMask" : "linear-gradient(rgba(0, 0, 0, 0), rgb(0, 0, 0) 8%, rgb(0, 0, 0) 92%, rgba(0, 0, 0, 0))",
+    "naturalHeight" : 900,
+    "naturalWidth" : 1600,
+    "photo" : {
+      "bottom" : 602.40625,
+      "height" : 180,
+      "right" : 320,
+      "width" : 224,
+      "x" : 96,
+      "y" : 422.40625
+    },
+    "PNGTopLeftAlpha" : 0,
+    "scene" : {
+      "bottom" : 666.40625,
+      "height" : 490,
+      "right" : 320,
+      "width" : 320,
+      "x" : 0,
+      "y" : 176.40625
+    },
+    "sceneAfterCopy" : true,
+    "stage" : {
+      "bottom" : 602.40625,
+      "height" : 180,
+      "right" : 320,
+      "width" : 320,
+      "x" : 0,
+      "y" : 422.40625
+    },
+    "textAboveScene" : true,
+    "title" : "Анатомия",
+    "width" : 320
+  }
+]

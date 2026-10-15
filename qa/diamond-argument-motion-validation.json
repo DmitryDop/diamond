@@ -1,0 +1,66 @@
+[
+  {
+    "batScale" : 1,
+    "flashSettled" : true,
+    "gsap" : "3.13.0",
+    "headProportionsPreserved" : true,
+    "headSwapped" : true,
+    "horizontalOverflow" : false,
+    "scene" : {
+      "height" : 901,
+      "width" : 1440,
+      "x" : 0,
+      "y" : 92
+    },
+    "smokeLoaded" : true,
+    "width" : 1440
+  },
+  {
+    "batScale" : 1,
+    "flashSettled" : true,
+    "gsap" : "3.13.0",
+    "headProportionsPreserved" : true,
+    "headSwapped" : true,
+    "horizontalOverflow" : false,
+    "scene" : {
+      "height" : 918.65625,
+      "width" : 850,
+      "x" : 0,
+      "y" : 80
+    },
+    "smokeLoaded" : true,
+    "width" : 850
+  },
+  {
+    "batScale" : 1,
+    "flashSettled" : true,
+    "gsap" : "3.13.0",
+    "headProportionsPreserved" : true,
+    "headSwapped" : true,
+    "horizontalOverflow" : false,
+    "scene" : {
+      "height" : 617,
+      "width" : 390,
+      "x" : 0,
+      "y" : 76
+    },
+    "smokeLoaded" : true,
+    "width" : 390
+  },
+  {
+    "batScale" : 1,
+    "flashSettled" : true,
+    "gsap" : "3.13.0",
+    "headProportionsPreserved" : true,
+    "headSwapped" : true,
+    "horizontalOverflow" : false,
+    "scene" : {
+      "height" : 561.328125,
+      "width" : 320,
+      "x" : 0,
+      "y" : 76
+    },
+    "smokeLoaded" : true,
+    "width" : 320
+  }
+]

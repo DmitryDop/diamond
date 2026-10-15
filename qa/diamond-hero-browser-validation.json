@@ -1,0 +1,1276 @@
+[
+  {
+    "actions" : {
+      "bottom" : 877.6875,
+      "height" : 56,
+      "right" : 880,
+      "width" : 720,
+      "x" : 160,
+      "y" : 821.6875
+    },
+    "background" : "radial-gradient(34% 48% at 66% 50%, rgba(64, 71, 82, 0.3), rgba(64, 71, 82, 0.1) 40%, rgba(64, 71, 82, 0) 100%), radial-gradient(26% 32% at 72% 65%, rgba(40, 44, 52, 0.08), rgba(40, 44, 52, 0) 100%)",
+    "batPoints" : [
+      {
+        "x" : 629.83425414364638,
+        "y" : 938.83182320441983
+      },
+      {
+        "x" : 1664.0883977900551,
+        "y" : 342.14674033149163
+      },
+      {
+        "x" : 1770.1657458563536,
+        "y" : 269.21856353591158
+      }
+    ],
+    "batVisible" : true,
+    "copy" : {
+      "bottom" : 877.6875,
+      "height" : 623.390625,
+      "right" : 880,
+      "width" : 720,
+      "x" : 160,
+      "y" : 254.296875
+    },
+    "fullWidthScene" : true,
+    "height" : 1080,
+    "hero" : {
+      "bottom" : 1080,
+      "height" : 988,
+      "right" : 1920,
+      "width" : 1920,
+      "x" : 0,
+      "y" : 92
+    },
+    "horizontalOverflow" : false,
+    "image" : {
+      "bottom" : 1080,
+      "height" : 988,
+      "right" : 1920,
+      "width" : 1920,
+      "x" : 0,
+      "y" : 92
+    },
+    "imageAnimations" : 0,
+    "imageInsideHero" : true,
+    "layoutOnTop" : true,
+    "links" : [
+      {
+        "href" : "#details",
+        "text" : "Изучить объект"
+      },
+      {
+        "href" : "https:\/\/palkahelp.ru",
+        "text" : "Смотреть в PALKAHELP"
+      }
+    ],
+    "naturalHeight" : 1086,
+    "naturalWidth" : 1448,
+    "renderedAssetHeight" : 1440,
+    "renderedAssetWidth" : 1920,
+    "sceneAfterCTA" : true,
+    "sceneMask" : "none",
+    "sceneOverlayBackground" : "linear-gradient(90deg, rgb(11, 11, 14), rgba(11, 11, 14, 0.9) 22%, rgba(11, 11, 14, 0.8) max(30%, 440px), rgba(0, 0, 0, 0) max(48%, 600px), rgba(0, 0, 0, 0) 94%, rgb(11, 11, 14)), linear-gradient(rgb(11, 11, 14), rgba(0, 0, 0, 0) 13%, rgba(0, 0, 0, 0) 76%, rgb(11, 11, 14))",
+    "stage" : {
+      "bottom" : 1080,
+      "height" : 988,
+      "right" : 1920,
+      "width" : 1920,
+      "x" : 0,
+      "y" : 92
+    },
+    "title" : {
+      "bottom" : 668.6875,
+      "height" : 361.390625,
+      "right" : 600.8125,
+      "width" : 440.8125,
+      "x" : 160,
+      "y" : 307.296875
+    },
+    "topLeftAlpha" : 0,
+    "width" : 1920
+  },
+  {
+    "actions" : {
+      "bottom" : 748.546875,
+      "height" : 56,
+      "right" : 654.046875,
+      "width" : 593.5625,
+      "x" : 60.484375,
+      "y" : 692.546875
+    },
+    "background" : "radial-gradient(34% 48% at 66% 50%, rgba(64, 71, 82, 0.3), rgba(64, 71, 82, 0.1) 40%, rgba(64, 71, 82, 0) 100%), radial-gradient(26% 32% at 72% 65%, rgba(40, 44, 52, 0.08), rgba(40, 44, 52, 0) 100%)",
+    "batPoints" : [
+      {
+        "x" : 472.37569060773484,
+        "y" : 768.66386740331495
+      },
+      {
+        "x" : 1248.0662983425414,
+        "y" : 321.1500552486188
+      },
+      {
+        "x" : 1327.6243093922651,
+        "y" : 266.45392265193374
+      }
+    ],
+    "batVisible" : true,
+    "copy" : {
+      "bottom" : 748.546875,
+      "height" : 545.109375,
+      "right" : 654.046875,
+      "width" : 593.5625,
+      "x" : 60.484375,
+      "y" : 203.4375
+    },
+    "fullWidthScene" : true,
+    "height" : 900,
+    "hero" : {
+      "bottom" : 900,
+      "height" : 808,
+      "right" : 1440,
+      "width" : 1440,
+      "x" : 0,
+      "y" : 92
+    },
+    "horizontalOverflow" : false,
+    "image" : {
+      "bottom" : 900,
+      "height" : 808,
+      "right" : 1440,
+      "width" : 1440,
+      "x" : 0,
+      "y" : 92
+    },
+    "imageAnimations" : 0,
+    "imageInsideHero" : true,
+    "layoutOnTop" : true,
+    "links" : [
+      {
+        "href" : "#details",
+        "text" : "Изучить объект"
+      },
+      {
+        "href" : "https:\/\/palkahelp.ru",
+        "text" : "Смотреть в PALKAHELP"
+      }
+    ],
+    "naturalHeight" : 1086,
+    "naturalWidth" : 1448,
+    "renderedAssetHeight" : 1080,
+    "renderedAssetWidth" : 1440,
+    "sceneAfterCTA" : true,
+    "sceneMask" : "none",
+    "sceneOverlayBackground" : "linear-gradient(90deg, rgb(11, 11, 14), rgba(11, 11, 14, 0.9) 22%, rgba(11, 11, 14, 0.8) max(30%, 440px), rgba(0, 0, 0, 0) max(48%, 600px), rgba(0, 0, 0, 0) 94%, rgb(11, 11, 14)), linear-gradient(rgb(11, 11, 14), rgba(0, 0, 0, 0) 13%, rgba(0, 0, 0, 0) 76%, rgb(11, 11, 14))",
+    "stage" : {
+      "bottom" : 900,
+      "height" : 808,
+      "right" : 1440,
+      "width" : 1440,
+      "x" : 0,
+      "y" : 92
+    },
+    "title" : {
+      "bottom" : 539.546875,
+      "height" : 283.109375,
+      "right" : 406.8125,
+      "width" : 346.328125,
+      "x" : 60.484375,
+      "y" : 256.4375
+    },
+    "topLeftAlpha" : 0,
+    "width" : 1440
+  },
+  {
+    "actions" : {
+      "bottom" : 689.265625,
+      "height" : 56,
+      "right" : 581.375,
+      "width" : 527.609375,
+      "x" : 53.765625,
+      "y" : 633.265625
+    },
+    "background" : "radial-gradient(34% 48% at 66% 50%, rgba(64, 71, 82, 0.3), rgba(64, 71, 82, 0.1) 40%, rgba(64, 71, 82, 0) 100%), radial-gradient(26% 32% at 72% 65%, rgba(40, 44, 52, 0.08), rgba(40, 44, 52, 0) 100%)",
+    "batPoints" : [
+      {
+        "x" : 419.88950276243094,
+        "y" : 694.5812154696132
+      },
+      {
+        "x" : 1109.3922651933701,
+        "y" : 296.79116022099447
+      },
+      {
+        "x" : 1180.110497237569,
+        "y" : 248.17237569060774
+      }
+    ],
+    "batVisible" : true,
+    "copy" : {
+      "bottom" : 689.265625,
+      "height" : 514.53125,
+      "right" : 581.375,
+      "width" : 527.609375,
+      "x" : 53.765625,
+      "y" : 174.734375
+    },
+    "fullWidthScene" : true,
+    "height" : 720,
+    "hero" : {
+      "bottom" : 812,
+      "height" : 720,
+      "right" : 1280,
+      "width" : 1280,
+      "x" : 0,
+      "y" : 92
+    },
+    "horizontalOverflow" : false,
+    "image" : {
+      "bottom" : 812,
+      "height" : 720,
+      "right" : 1280,
+      "width" : 1280,
+      "x" : 0,
+      "y" : 92
+    },
+    "imageAnimations" : 0,
+    "imageInsideHero" : true,
+    "layoutOnTop" : true,
+    "links" : [
+      {
+        "href" : "#details",
+        "text" : "Изучить объект"
+      },
+      {
+        "href" : "https:\/\/palkahelp.ru",
+        "text" : "Смотреть в PALKAHELP"
+      }
+    ],
+    "naturalHeight" : 1086,
+    "naturalWidth" : 1448,
+    "renderedAssetHeight" : 960,
+    "renderedAssetWidth" : 1280,
+    "sceneAfterCTA" : true,
+    "sceneMask" : "none",
+    "sceneOverlayBackground" : "linear-gradient(90deg, rgb(11, 11, 14), rgba(11, 11, 14, 0.9) 22%, rgba(11, 11, 14, 0.8) max(30%, 440px), rgba(0, 0, 0, 0) max(48%, 600px), rgba(0, 0, 0, 0) 94%, rgb(11, 11, 14)), linear-gradient(rgb(11, 11, 14), rgba(0, 0, 0, 0) 13%, rgba(0, 0, 0, 0) 76%, rgb(11, 11, 14))",
+    "stage" : {
+      "bottom" : 812,
+      "height" : 720,
+      "right" : 1280,
+      "width" : 1280,
+      "x" : 0,
+      "y" : 92
+    },
+    "title" : {
+      "bottom" : 480.265625,
+      "height" : 252.53125,
+      "right" : 361.890625,
+      "width" : 308.125,
+      "x" : 53.765625,
+      "y" : 227.734375
+    },
+    "topLeftAlpha" : 0,
+    "width" : 1280
+  },
+  {
+    "actions" : {
+      "bottom" : 715.828125,
+      "height" : 56,
+      "right" : 500.0625,
+      "width" : 453.828125,
+      "x" : 46.234375,
+      "y" : 659.828125
+    },
+    "background" : "radial-gradient(34% 48% at 66% 50%, rgba(64, 71, 82, 0.3), rgba(64, 71, 82, 0.1) 40%, rgba(64, 71, 82, 0) 100%), radial-gradient(26% 32% at 72% 65%, rgba(40, 44, 52, 0.08), rgba(40, 44, 52, 0) 100%)",
+    "batPoints" : [
+      {
+        "x" : 361.17058011049727,
+        "y" : 727.30024861878462
+      },
+      {
+        "x" : 954.2506906077349,
+        "y" : 385.1386464088398
+      },
+      {
+        "x" : 1015.0794198895028,
+        "y" : 343.31889502762431
+      }
+    ],
+    "batVisible" : true,
+    "copy" : {
+      "bottom" : 715.828125,
+      "height" : 479.65625,
+      "right" : 500.0625,
+      "width" : 453.828125,
+      "x" : 46.234375,
+      "y" : 236.171875
+    },
+    "fullWidthScene" : true,
+    "height" : 900,
+    "hero" : {
+      "bottom" : 900,
+      "height" : 808,
+      "right" : 1101,
+      "width" : 1101,
+      "x" : 0,
+      "y" : 92
+    },
+    "horizontalOverflow" : false,
+    "image" : {
+      "bottom" : 900,
+      "height" : 808,
+      "right" : 1101,
+      "width" : 1101,
+      "x" : 0,
+      "y" : 92
+    },
+    "imageAnimations" : 0,
+    "imageInsideHero" : true,
+    "layoutOnTop" : true,
+    "links" : [
+      {
+        "href" : "#details",
+        "text" : "Изучить объект"
+      },
+      {
+        "href" : "https:\/\/palkahelp.ru",
+        "text" : "Смотреть в PALKAHELP"
+      }
+    ],
+    "naturalHeight" : 1086,
+    "naturalWidth" : 1448,
+    "renderedAssetHeight" : 825.75,
+    "renderedAssetWidth" : 1101,
+    "sceneAfterCTA" : true,
+    "sceneMask" : "none",
+    "sceneOverlayBackground" : "linear-gradient(90deg, rgb(11, 11, 14), rgba(11, 11, 14, 0.9) 22%, rgba(11, 11, 14, 0.8) max(30%, 440px), rgba(0, 0, 0, 0) max(48%, 600px), rgba(0, 0, 0, 0) 94%, rgb(11, 11, 14)), linear-gradient(rgb(11, 11, 14), rgba(0, 0, 0, 0) 13%, rgba(0, 0, 0, 0) 76%, rgb(11, 11, 14))",
+    "stage" : {
+      "bottom" : 900,
+      "height" : 808,
+      "right" : 1101,
+      "width" : 1101,
+      "x" : 0,
+      "y" : 92
+    },
+    "title" : {
+      "bottom" : 506.828125,
+      "height" : 217.65625,
+      "right" : 311.6875,
+      "width" : 265.453125,
+      "x" : 46.234375,
+      "y" : 289.171875
+    },
+    "topLeftAlpha" : 0,
+    "width" : 1101
+  },
+  {
+    "actions" : {
+      "bottom" : 688.15625,
+      "height" : 114,
+      "right" : 1053.796875,
+      "width" : 1007.59375,
+      "x" : 46.203125,
+      "y" : 574.15625
+    },
+    "background" : "radial-gradient(34% 48% at 66% 50%, rgba(64, 71, 82, 0.3), rgba(64, 71, 82, 0.1) 40%, rgba(64, 71, 82, 0) 100%), radial-gradient(26% 32% at 72% 65%, rgba(40, 44, 52, 0.08), rgba(40, 44, 52, 0) 100%)",
+    "batPoints" : [
+      {
+        "x" : 360.8425414364641,
+        "y" : 1218.3744820441989
+      },
+      {
+        "x" : 953.38397790055251,
+        "y" : 876.52365331491706
+      },
+      {
+        "x" : 1014.1574585635359,
+        "y" : 834.74188535911594
+      }
+    ],
+    "batVisible" : true,
+    "copy" : {
+      "bottom" : 688.15625,
+      "height" : 526.15625,
+      "right" : 1053.796875,
+      "width" : 1007.59375,
+      "x" : 46.203125,
+      "y" : 162
+    },
+    "fullWidthScene" : true,
+    "height" : 900,
+    "hero" : {
+      "bottom" : 1376.90625,
+      "height" : 1284.90625,
+      "right" : 1100,
+      "width" : 1100,
+      "x" : 0,
+      "y" : 92
+    },
+    "horizontalOverflow" : false,
+    "image" : {
+      "bottom" : 1306.90625,
+      "height" : 618.75,
+      "right" : 1100,
+      "width" : 1100,
+      "x" : 0,
+      "y" : 688.15625
+    },
+    "imageAnimations" : 0,
+    "imageInsideHero" : true,
+    "layoutOnTop" : true,
+    "links" : [
+      {
+        "href" : "#details",
+        "text" : "Изучить объект"
+      },
+      {
+        "href" : "https:\/\/palkahelp.ru",
+        "text" : "Смотреть в PALKAHELP"
+      }
+    ],
+    "naturalHeight" : 1086,
+    "naturalWidth" : 1448,
+    "renderedAssetHeight" : 825,
+    "renderedAssetWidth" : 1100,
+    "sceneAfterCTA" : true,
+    "sceneMask" : "linear-gradient(rgba(0, 0, 0, 0), rgb(0, 0, 0) 12%, rgb(0, 0, 0) 80%, rgba(0, 0, 0, 0))",
+    "sceneOverlayBackground" : "none",
+    "stage" : {
+      "bottom" : 1306.90625,
+      "height" : 618.75,
+      "right" : 1100,
+      "width" : 1100,
+      "x" : 0,
+      "y" : 688.15625
+    },
+    "title" : {
+      "bottom" : 424.15625,
+      "height" : 209.15625,
+      "right" : 302.484375,
+      "width" : 256.28125,
+      "x" : 46.203125,
+      "y" : 215
+    },
+    "topLeftAlpha" : 0,
+    "width" : 1100
+  },
+  {
+    "actions" : {
+      "bottom" : 674.96875,
+      "height" : 114,
+      "right" : 980.984375,
+      "width" : 937.96875,
+      "x" : 43.015625,
+      "y" : 560.96875
+    },
+    "background" : "radial-gradient(34% 48% at 66% 50%, rgba(64, 71, 82, 0.3), rgba(64, 71, 82, 0.1) 40%, rgba(64, 71, 82, 0) 100%), radial-gradient(26% 32% at 72% 65%, rgba(40, 44, 52, 0.08), rgba(40, 44, 52, 0) 100%)",
+    "batPoints" : [
+      {
+        "x" : 335.91160220994476,
+        "y" : 1168.5537223756905
+      },
+      {
+        "x" : 887.5138121546961,
+        "y" : 850.32167817679556
+      },
+      {
+        "x" : 944.08839779005518,
+        "y" : 811.42665055248619
+      }
+    ],
+    "batVisible" : true,
+    "copy" : {
+      "bottom" : 674.96875,
+      "height" : 512.96875,
+      "right" : 980.984375,
+      "width" : 937.96875,
+      "x" : 43.015625,
+      "y" : 162
+    },
+    "fullWidthScene" : true,
+    "height" : 768,
+    "hero" : {
+      "bottom" : 1320.96875,
+      "height" : 1228.96875,
+      "right" : 1024,
+      "width" : 1024,
+      "x" : 0,
+      "y" : 92
+    },
+    "horizontalOverflow" : false,
+    "image" : {
+      "bottom" : 1250.96875,
+      "height" : 576,
+      "right" : 1024,
+      "width" : 1024,
+      "x" : 0,
+      "y" : 674.96875
+    },
+    "imageAnimations" : 0,
+    "imageInsideHero" : true,
+    "layoutOnTop" : true,
+    "links" : [
+      {
+        "href" : "#details",
+        "text" : "Изучить объект"
+      },
+      {
+        "href" : "https:\/\/palkahelp.ru",
+        "text" : "Смотреть в PALKAHELP"
+      }
+    ],
+    "naturalHeight" : 1086,
+    "naturalWidth" : 1448,
+    "renderedAssetHeight" : 768,
+    "renderedAssetWidth" : 1024,
+    "sceneAfterCTA" : true,
+    "sceneMask" : "linear-gradient(rgba(0, 0, 0, 0), rgb(0, 0, 0) 12%, rgb(0, 0, 0) 80%, rgba(0, 0, 0, 0))",
+    "sceneOverlayBackground" : "none",
+    "stage" : {
+      "bottom" : 1250.96875,
+      "height" : 576,
+      "right" : 1024,
+      "width" : 1024,
+      "x" : 0,
+      "y" : 674.96875
+    },
+    "title" : {
+      "bottom" : 410.96875,
+      "height" : 195.96875,
+      "right" : 281.265625,
+      "width" : 238.25,
+      "x" : 43.015625,
+      "y" : 215
+    },
+    "topLeftAlpha" : 0,
+    "width" : 1024
+  },
+  {
+    "actions" : {
+      "bottom" : 642.265625,
+      "height" : 114,
+      "right" : 815.25,
+      "width" : 779.515625,
+      "x" : 35.734375,
+      "y" : 528.265625
+    },
+    "background" : "radial-gradient(34% 48% at 66% 50%, rgba(64, 71, 82, 0.3), rgba(64, 71, 82, 0.1) 40%, rgba(64, 71, 82, 0) 100%), radial-gradient(26% 32% at 72% 65%, rgba(40, 44, 52, 0.08), rgba(40, 44, 52, 0) 100%)",
+    "batPoints" : [
+      {
+        "x" : 279.16091160220998,
+        "y" : 1052.4617299723757
+      },
+      {
+        "x" : 737.57251381215474,
+        "y" : 787.99349792817679
+      },
+      {
+        "x" : 784.58908839778996,
+        "y" : 755.66960290055249
+      }
+    ],
+    "batVisible" : true,
+    "copy" : {
+      "bottom" : 642.265625,
+      "height" : 480.265625,
+      "right" : 815.25,
+      "width" : 779.515625,
+      "x" : 35.734375,
+      "y" : 162
+    },
+    "fullWidthScene" : true,
+    "height" : 900,
+    "hero" : {
+      "bottom" : 1190.953125,
+      "height" : 1098.953125,
+      "right" : 851,
+      "width" : 851,
+      "x" : 0,
+      "y" : 92
+    },
+    "horizontalOverflow" : false,
+    "image" : {
+      "bottom" : 1120.953125,
+      "height" : 478.6875,
+      "right" : 851,
+      "width" : 851,
+      "x" : 0,
+      "y" : 642.265625
+    },
+    "imageAnimations" : 0,
+    "imageInsideHero" : true,
+    "layoutOnTop" : true,
+    "links" : [
+      {
+        "href" : "#details",
+        "text" : "Изучить объект"
+      },
+      {
+        "href" : "https:\/\/palkahelp.ru",
+        "text" : "Смотреть в PALKAHELP"
+      }
+    ],
+    "naturalHeight" : 1086,
+    "naturalWidth" : 1448,
+    "renderedAssetHeight" : 638.25,
+    "renderedAssetWidth" : 850.99999999999989,
+    "sceneAfterCTA" : true,
+    "sceneMask" : "linear-gradient(rgba(0, 0, 0, 0), rgb(0, 0, 0) 12%, rgb(0, 0, 0) 80%, rgba(0, 0, 0, 0))",
+    "sceneOverlayBackground" : "none",
+    "stage" : {
+      "bottom" : 1120.953125,
+      "height" : 478.6875,
+      "right" : 851,
+      "width" : 851,
+      "x" : 0,
+      "y" : 642.265625
+    },
+    "title" : {
+      "bottom" : 378.265625,
+      "height" : 163.265625,
+      "right" : 236.046875,
+      "width" : 200.3125,
+      "x" : 35.734375,
+      "y" : 215
+    },
+    "topLeftAlpha" : 0,
+    "width" : 851
+  },
+  {
+    "actions" : {
+      "bottom" : 679.5,
+      "height" : 56,
+      "right" : 814.296875,
+      "width" : 778.59375,
+      "x" : 35.703125,
+      "y" : 623.5
+    },
+    "background" : "radial-gradient(34% 48% at 66% 50%, rgba(64, 71, 82, 0.3), rgba(64, 71, 82, 0.1) 40%, rgba(64, 71, 82, 0) 100%), radial-gradient(26% 32% at 72% 65%, rgba(40, 44, 52, 0.08), rgba(40, 44, 52, 0) 100%)",
+    "batPoints" : [
+      {
+        "x" : 278.83287292817681,
+        "y" : 1178.46408839779
+      },
+      {
+        "x" : 736.70580110497247,
+        "y" : 914.30662983425418
+      },
+      {
+        "x" : 783.66712707182319,
+        "y" : 882.02071823204415
+      }
+    ],
+    "batVisible" : true,
+    "copy" : {
+      "bottom" : 679.5,
+      "height" : 535.5,
+      "right" : 814.296875,
+      "width" : 778.59375,
+      "x" : 35.703125,
+      "y" : 144
+    },
+    "fullWidthScene" : true,
+    "height" : 900,
+    "hero" : {
+      "bottom" : 1387,
+      "height" : 1307,
+      "right" : 850,
+      "width" : 850,
+      "x" : 0,
+      "y" : 80
+    },
+    "horizontalOverflow" : false,
+    "image" : {
+      "bottom" : 1317,
+      "height" : 637.5,
+      "right" : 850,
+      "width" : 850,
+      "x" : 0,
+      "y" : 679.5
+    },
+    "imageAnimations" : 0,
+    "imageInsideHero" : true,
+    "layoutOnTop" : true,
+    "links" : [
+      {
+        "href" : "#details",
+        "text" : "Изучить объект"
+      },
+      {
+        "href" : "https:\/\/palkahelp.ru",
+        "text" : "Смотреть в PALKAHELP"
+      }
+    ],
+    "naturalHeight" : 1086,
+    "naturalWidth" : 1448,
+    "renderedAssetHeight" : 637.5,
+    "renderedAssetWidth" : 850,
+    "sceneAfterCTA" : true,
+    "sceneMask" : "linear-gradient(rgba(0, 0, 0, 0), rgb(0, 0, 0) 12%, rgb(0, 0, 0) 80%, rgba(0, 0, 0, 0))",
+    "sceneOverlayBackground" : "none",
+    "stage" : {
+      "bottom" : 1317,
+      "height" : 637.5,
+      "right" : 850,
+      "width" : 850,
+      "x" : 0,
+      "y" : 679.5
+    },
+    "title" : {
+      "bottom" : 473.5,
+      "height" : 276.5,
+      "right" : 373.0625,
+      "width" : 337.359375,
+      "x" : 35.703125,
+      "y" : 197
+    },
+    "topLeftAlpha" : 0,
+    "width" : 850
+  },
+  {
+    "actions" : {
+      "bottom" : 657.734375,
+      "height" : 56,
+      "right" : 735.734375,
+      "width" : 703.484375,
+      "x" : 32.25,
+      "y" : 601.734375
+    },
+    "background" : "radial-gradient(34% 48% at 66% 50%, rgba(64, 71, 82, 0.3), rgba(64, 71, 82, 0.1) 40%, rgba(64, 71, 82, 0) 100%), radial-gradient(26% 32% at 72% 65%, rgba(40, 44, 52, 0.08), rgba(40, 44, 52, 0) 100%)",
+    "batPoints" : [
+      {
+        "x" : 251.93370165745856,
+        "y" : 1108.5631042817679
+      },
+      {
+        "x" : 665.63535911602207,
+        "y" : 869.88907113259665
+      },
+      {
+        "x" : 708.06629834254136,
+        "y" : 840.71780041436466
+      }
+    ],
+    "batVisible" : true,
+    "copy" : {
+      "bottom" : 657.734375,
+      "height" : 513.734375,
+      "right" : 735.734375,
+      "width" : 703.484375,
+      "x" : 32.25,
+      "y" : 144
+    },
+    "fullWidthScene" : true,
+    "height" : 1024,
+    "hero" : {
+      "bottom" : 1303.734375,
+      "height" : 1223.734375,
+      "right" : 768,
+      "width" : 768,
+      "x" : 0,
+      "y" : 80
+    },
+    "horizontalOverflow" : false,
+    "image" : {
+      "bottom" : 1233.734375,
+      "height" : 576,
+      "right" : 768,
+      "width" : 768,
+      "x" : 0,
+      "y" : 657.734375
+    },
+    "imageAnimations" : 0,
+    "imageInsideHero" : true,
+    "layoutOnTop" : true,
+    "links" : [
+      {
+        "href" : "#details",
+        "text" : "Изучить объект"
+      },
+      {
+        "href" : "https:\/\/palkahelp.ru",
+        "text" : "Смотреть в PALKAHELP"
+      }
+    ],
+    "naturalHeight" : 1086,
+    "naturalWidth" : 1448,
+    "renderedAssetHeight" : 576,
+    "renderedAssetWidth" : 768,
+    "sceneAfterCTA" : true,
+    "sceneMask" : "linear-gradient(rgba(0, 0, 0, 0), rgb(0, 0, 0) 12%, rgb(0, 0, 0) 80%, rgba(0, 0, 0, 0))",
+    "sceneOverlayBackground" : "none",
+    "stage" : {
+      "bottom" : 1233.734375,
+      "height" : 576,
+      "right" : 768,
+      "width" : 768,
+      "x" : 0,
+      "y" : 657.734375
+    },
+    "title" : {
+      "bottom" : 451.734375,
+      "height" : 254.734375,
+      "right" : 342.546875,
+      "width" : 310.296875,
+      "x" : 32.25,
+      "y" : 197
+    },
+    "topLeftAlpha" : 0,
+    "width" : 768
+  },
+  {
+    "actions" : {
+      "bottom" : 605.5,
+      "height" : 56,
+      "right" : 532,
+      "width" : 508,
+      "x" : 24,
+      "y" : 549.5
+    },
+    "background" : "radial-gradient(34% 48% at 66% 50%, rgba(64, 71, 82, 0.3), rgba(64, 71, 82, 0.1) 40%, rgba(64, 71, 82, 0) 100%), radial-gradient(26% 32% at 72% 65%, rgba(40, 44, 52, 0.08), rgba(40, 44, 52, 0) 100%)",
+    "batPoints" : [
+      {
+        "x" : 182.38950276243094,
+        "y" : 931.88121546961327
+      },
+      {
+        "x" : 481.89226519337018,
+        "y" : 759.09116022099442
+      },
+      {
+        "x" : 512.61049723756912,
+        "y" : 737.97237569060781
+      }
+    ],
+    "batVisible" : true,
+    "copy" : {
+      "bottom" : 605.5,
+      "height" : 461.5,
+      "right" : 532,
+      "width" : 508,
+      "x" : 24,
+      "y" : 144
+    },
+    "fullWidthScene" : true,
+    "height" : 844,
+    "hero" : {
+      "bottom" : 1092.5,
+      "height" : 1012.5,
+      "right" : 556,
+      "width" : 556,
+      "x" : 0,
+      "y" : 80
+    },
+    "horizontalOverflow" : false,
+    "image" : {
+      "bottom" : 1022.5,
+      "height" : 417,
+      "right" : 556,
+      "width" : 556,
+      "x" : 0,
+      "y" : 605.5
+    },
+    "imageAnimations" : 0,
+    "imageInsideHero" : true,
+    "layoutOnTop" : true,
+    "links" : [
+      {
+        "href" : "#details",
+        "text" : "Изучить объект"
+      },
+      {
+        "href" : "https:\/\/palkahelp.ru",
+        "text" : "Смотреть в PALKAHELP"
+      }
+    ],
+    "naturalHeight" : 1086,
+    "naturalWidth" : 1448,
+    "renderedAssetHeight" : 417,
+    "renderedAssetWidth" : 556,
+    "sceneAfterCTA" : true,
+    "sceneMask" : "linear-gradient(rgba(0, 0, 0, 0), rgb(0, 0, 0) 12%, rgb(0, 0, 0) 80%, rgba(0, 0, 0, 0))",
+    "sceneOverlayBackground" : "none",
+    "stage" : {
+      "bottom" : 1022.5,
+      "height" : 417,
+      "right" : 556,
+      "width" : 556,
+      "x" : 0,
+      "y" : 605.5
+    },
+    "title" : {
+      "bottom" : 399.5,
+      "height" : 202.5,
+      "right" : 271.390625,
+      "width" : 247.390625,
+      "x" : 24,
+      "y" : 197
+    },
+    "topLeftAlpha" : 0,
+    "width" : 556
+  },
+  {
+    "actions" : {
+      "bottom" : 641.109375,
+      "height" : 108,
+      "right" : 498,
+      "width" : 476,
+      "x" : 22,
+      "y" : 533.109375
+    },
+    "background" : "radial-gradient(34% 48% at 66% 50%, rgba(64, 71, 82, 0.3), rgba(64, 71, 82, 0.1) 40%, rgba(64, 71, 82, 0) 100%), radial-gradient(26% 32% at 72% 65%, rgba(40, 44, 52, 0.08), rgba(40, 44, 52, 0) 100%)",
+    "batPoints" : [
+      {
+        "x" : 160.64576139502765,
+        "y" : 980.27043047882137
+      },
+      {
+        "x" : 471.87590642265195,
+        "y" : 800.71457757826886
+      },
+      {
+        "x" : 503.79694693830572,
+        "y" : 778.76886222375697
+      }
+    ],
+    "batVisible" : true,
+    "copy" : {
+      "bottom" : 641.109375,
+      "height" : 519.109375,
+      "right" : 498,
+      "width" : 476,
+      "x" : 22,
+      "y" : 122
+    },
+    "fullWidthScene" : true,
+    "height" : 844,
+    "hero" : {
+      "bottom" : 1138.4375,
+      "height" : 1062.4375,
+      "right" : 520,
+      "width" : 520,
+      "x" : 0,
+      "y" : 76
+    },
+    "horizontalOverflow" : false,
+    "image" : {
+      "bottom" : 1074.4375,
+      "height" : 433.328125,
+      "right" : 520,
+      "width" : 520,
+      "x" : 0,
+      "y" : 641.109375
+    },
+    "imageAnimations" : 0,
+    "imageInsideHero" : true,
+    "layoutOnTop" : true,
+    "links" : [
+      {
+        "href" : "#details",
+        "text" : "Изучить объект"
+      },
+      {
+        "href" : "https:\/\/palkahelp.ru",
+        "text" : "Смотреть в PALKAHELP"
+      }
+    ],
+    "naturalHeight" : 1086,
+    "naturalWidth" : 1448,
+    "renderedAssetHeight" : 433.328125,
+    "renderedAssetWidth" : 577.77083333333326,
+    "sceneAfterCTA" : true,
+    "sceneMask" : "linear-gradient(rgba(0, 0, 0, 0), rgb(0, 0, 0) 12%, rgb(0, 0, 0) 80%, rgba(0, 0, 0, 0))",
+    "sceneOverlayBackground" : "none",
+    "stage" : {
+      "bottom" : 1074.4375,
+      "height" : 433.328125,
+      "right" : 520,
+      "width" : 520,
+      "x" : 0,
+      "y" : 641.109375
+    },
+    "title" : {
+      "bottom" : 403.109375,
+      "height" : 233.109375,
+      "right" : 307.515625,
+      "width" : 285.515625,
+      "x" : 22,
+      "y" : 170
+    },
+    "topLeftAlpha" : 0,
+    "width" : 520
+  },
+  {
+    "actions" : {
+      "bottom" : 584.328125,
+      "height" : 108,
+      "right" : 368,
+      "width" : 346,
+      "x" : 22,
+      "y" : 476.328125
+    },
+    "background" : "radial-gradient(34% 48% at 66% 50%, rgba(64, 71, 82, 0.3), rgba(64, 71, 82, 0.1) 40%, rgba(64, 71, 82, 0) 100%), radial-gradient(26% 32% at 72% 65%, rgba(40, 44, 52, 0.08), rgba(40, 44, 52, 0) 100%)",
+    "batPoints" : [
+      {
+        "x" : 120.48342541436463,
+        "y" : 838.70197398710866
+      },
+      {
+        "x" : 353.90883977900552,
+        "y" : 704.03346569981591
+      },
+      {
+        "x" : 377.84990791896871,
+        "y" : 687.57398135359119
+      }
+    ],
+    "batVisible" : true,
+    "copy" : {
+      "bottom" : 584.328125,
+      "height" : 462.328125,
+      "right" : 368,
+      "width" : 346,
+      "x" : 22,
+      "y" : 122
+    },
+    "fullWidthScene" : true,
+    "height" : 844,
+    "hero" : {
+      "bottom" : 973.328125,
+      "height" : 897.328125,
+      "right" : 390,
+      "width" : 390,
+      "x" : 0,
+      "y" : 76
+    },
+    "horizontalOverflow" : false,
+    "image" : {
+      "bottom" : 909.328125,
+      "height" : 325,
+      "right" : 390,
+      "width" : 390,
+      "x" : 0,
+      "y" : 584.328125
+    },
+    "imageAnimations" : 0,
+    "imageInsideHero" : true,
+    "layoutOnTop" : true,
+    "links" : [
+      {
+        "href" : "#details",
+        "text" : "Изучить объект"
+      },
+      {
+        "href" : "https:\/\/palkahelp.ru",
+        "text" : "Смотреть в PALKAHELP"
+      }
+    ],
+    "naturalHeight" : 1086,
+    "naturalWidth" : 1448,
+    "renderedAssetHeight" : 325,
+    "renderedAssetWidth" : 433.33333333333337,
+    "sceneAfterCTA" : true,
+    "sceneMask" : "linear-gradient(rgba(0, 0, 0, 0), rgb(0, 0, 0) 12%, rgb(0, 0, 0) 80%, rgba(0, 0, 0, 0))",
+    "sceneOverlayBackground" : "none",
+    "stage" : {
+      "bottom" : 909.328125,
+      "height" : 325,
+      "right" : 390,
+      "width" : 390,
+      "x" : 0,
+      "y" : 584.328125
+    },
+    "title" : {
+      "bottom" : 346.328125,
+      "height" : 176.328125,
+      "right" : 238.046875,
+      "width" : 216.046875,
+      "x" : 22,
+      "y" : 170
+    },
+    "topLeftAlpha" : 0,
+    "width" : 390
+  },
+  {
+    "actions" : {
+      "bottom" : 577.78125,
+      "height" : 108,
+      "right" : 353,
+      "width" : 331,
+      "x" : 22,
+      "y" : 469.78125
+    },
+    "background" : "radial-gradient(34% 48% at 66% 50%, rgba(64, 71, 82, 0.3), rgba(64, 71, 82, 0.1) 40%, rgba(64, 71, 82, 0) 100%), radial-gradient(26% 32% at 72% 65%, rgba(40, 44, 52, 0.08), rgba(40, 44, 52, 0) 100%)",
+    "batPoints" : [
+      {
+        "x" : 115.84944751381215,
+        "y" : 822.37148941068142
+      },
+      {
+        "x" : 340.29696132596689,
+        "y" : 692.88253913443828
+      },
+      {
+        "x" : 363.31721915285448,
+        "y" : 677.05611187845307
+      }
+    ],
+    "batVisible" : true,
+    "copy" : {
+      "bottom" : 577.78125,
+      "height" : 455.78125,
+      "right" : 353,
+      "width" : 331,
+      "x" : 22,
+      "y" : 122
+    },
+    "fullWidthScene" : true,
+    "height" : 812,
+    "hero" : {
+      "bottom" : 954.28125,
+      "height" : 878.28125,
+      "right" : 375,
+      "width" : 375,
+      "x" : 0,
+      "y" : 76
+    },
+    "horizontalOverflow" : false,
+    "image" : {
+      "bottom" : 890.28125,
+      "height" : 312.5,
+      "right" : 375,
+      "width" : 375,
+      "x" : 0,
+      "y" : 577.78125
+    },
+    "imageAnimations" : 0,
+    "imageInsideHero" : true,
+    "layoutOnTop" : true,
+    "links" : [
+      {
+        "href" : "#details",
+        "text" : "Изучить объект"
+      },
+      {
+        "href" : "https:\/\/palkahelp.ru",
+        "text" : "Смотреть в PALKAHELP"
+      }
+    ],
+    "naturalHeight" : 1086,
+    "naturalWidth" : 1448,
+    "renderedAssetHeight" : 312.5,
+    "renderedAssetWidth" : 416.66666666666669,
+    "sceneAfterCTA" : true,
+    "sceneMask" : "linear-gradient(rgba(0, 0, 0, 0), rgb(0, 0, 0) 12%, rgb(0, 0, 0) 80%, rgba(0, 0, 0, 0))",
+    "sceneOverlayBackground" : "none",
+    "stage" : {
+      "bottom" : 890.28125,
+      "height" : 312.5,
+      "right" : 375,
+      "width" : 375,
+      "x" : 0,
+      "y" : 577.78125
+    },
+    "title" : {
+      "bottom" : 339.78125,
+      "height" : 169.78125,
+      "right" : 228.953125,
+      "width" : 206.953125,
+      "x" : 22,
+      "y" : 170
+    },
+    "topLeftAlpha" : 0,
+    "width" : 375
+  },
+  {
+    "actions" : {
+      "bottom" : 577.75,
+      "height" : 108,
+      "right" : 304,
+      "width" : 288,
+      "x" : 16,
+      "y" : 469.75
+    },
+    "background" : "radial-gradient(34% 48% at 66% 50%, rgba(64, 71, 82, 0.3), rgba(64, 71, 82, 0.1) 40%, rgba(64, 71, 82, 0) 100%), radial-gradient(26% 32% at 72% 65%, rgba(40, 44, 52, 0.08), rgba(40, 44, 52, 0) 100%)",
+    "batPoints" : [
+      {
+        "x" : 98.860583563535911,
+        "y" : 786.45885128913437
+      },
+      {
+        "x" : 290.38164709944749,
+        "y" : 675.9659300184162
+      },
+      {
+        "x" : 310.02483310313073,
+        "y" : 662.46123964088395
+      }
+    ],
+    "batVisible" : true,
+    "copy" : {
+      "bottom" : 577.75,
+      "height" : 455.75,
+      "right" : 304,
+      "width" : 288,
+      "x" : 16,
+      "y" : 122
+    },
+    "fullWidthScene" : true,
+    "height" : 740,
+    "hero" : {
+      "bottom" : 908.40625,
+      "height" : 832.40625,
+      "right" : 320,
+      "width" : 320,
+      "x" : 0,
+      "y" : 76
+    },
+    "horizontalOverflow" : false,
+    "image" : {
+      "bottom" : 844.40625,
+      "height" : 266.65625,
+      "right" : 320,
+      "width" : 320,
+      "x" : 0,
+      "y" : 577.75
+    },
+    "imageAnimations" : 0,
+    "imageInsideHero" : true,
+    "layoutOnTop" : true,
+    "links" : [
+      {
+        "href" : "#details",
+        "text" : "Изучить объект"
+      },
+      {
+        "href" : "https:\/\/palkahelp.ru",
+        "text" : "Смотреть в PALKAHELP"
+      }
+    ],
+    "naturalHeight" : 1086,
+    "naturalWidth" : 1448,
+    "renderedAssetHeight" : 266.65625,
+    "renderedAssetWidth" : 355.54166666666669,
+    "sceneAfterCTA" : true,
+    "sceneMask" : "linear-gradient(rgba(0, 0, 0, 0), rgb(0, 0, 0) 12%, rgb(0, 0, 0) 80%, rgba(0, 0, 0, 0))",
+    "sceneOverlayBackground" : "none",
+    "stage" : {
+      "bottom" : 844.40625,
+      "height" : 266.65625,
+      "right" : 320,
+      "width" : 320,
+      "x" : 0,
+      "y" : 577.75
+    },
+    "title" : {
+      "bottom" : 313.75,
+      "height" : 143.75,
+      "right" : 191.3125,
+      "width" : 175.3125,
+      "x" : 16,
+      "y" : 170
+    },
+    "topLeftAlpha" : 0,
+    "width" : 320
+  }
+]

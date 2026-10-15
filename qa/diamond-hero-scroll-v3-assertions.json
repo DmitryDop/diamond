@@ -1,0 +1,662 @@
+[
+  {
+    "check": "1440: assets loaded and no horizontal overflow",
+    "passed": true
+  },
+  {
+    "check": "1440: initial composition transforms",
+    "passed": true
+  },
+  {
+    "check": "1440: firstPixel natural page flow",
+    "passed": true
+  },
+  {
+    "check": "1440: firstPixel direct camera progress",
+    "passed": true
+  },
+  {
+    "check": "1440: early natural page flow",
+    "passed": true
+  },
+  {
+    "check": "1440: early direct camera progress",
+    "passed": true
+  },
+  {
+    "check": "1440: fifteen natural page flow",
+    "passed": true
+  },
+  {
+    "check": "1440: fifteen direct camera progress",
+    "passed": true
+  },
+  {
+    "check": "1440: main natural page flow",
+    "passed": true
+  },
+  {
+    "check": "1440: main direct camera progress",
+    "passed": true
+  },
+  {
+    "check": "1440: full natural page flow",
+    "passed": true
+  },
+  {
+    "check": "1440: full direct camera progress",
+    "passed": true
+  },
+  {
+    "check": "1440: reverse natural page flow",
+    "passed": true
+  },
+  {
+    "check": "1440: reverse direct camera progress",
+    "passed": true
+  },
+  {
+    "check": "1440: released natural page flow",
+    "passed": true
+  },
+  {
+    "check": "1440: released direct camera progress",
+    "passed": true
+  },
+  {
+    "check": "1440: returned natural page flow",
+    "passed": true
+  },
+  {
+    "check": "1440: returned direct camera progress",
+    "passed": true
+  },
+  {
+    "check": "1440: reverse matches forward",
+    "passed": true
+  },
+  {
+    "check": "1440: returned to original pose",
+    "passed": true
+  },
+  {
+    "check": "1440: smoke independently animated",
+    "passed": true
+  },
+  {
+    "check": "1440: reduced motion static",
+    "passed": true
+  },
+  {
+    "check": "1440: cursorLeft cut edges covered",
+    "passed": true
+  },
+  {
+    "check": "1440: cursorRight cut edges covered",
+    "passed": true
+  },
+  {
+    "check": "1440: combined cut edges covered",
+    "passed": true
+  },
+  {
+    "check": "1440: full cut edges covered",
+    "passed": true
+  },
+  {
+    "check": "1920: assets loaded and no horizontal overflow",
+    "passed": true
+  },
+  {
+    "check": "1920: initial composition transforms",
+    "passed": true
+  },
+  {
+    "check": "1920: firstPixel natural page flow",
+    "passed": true
+  },
+  {
+    "check": "1920: firstPixel direct camera progress",
+    "passed": true
+  },
+  {
+    "check": "1920: early natural page flow",
+    "passed": true
+  },
+  {
+    "check": "1920: early direct camera progress",
+    "passed": true
+  },
+  {
+    "check": "1920: fifteen natural page flow",
+    "passed": true
+  },
+  {
+    "check": "1920: fifteen direct camera progress",
+    "passed": true
+  },
+  {
+    "check": "1920: main natural page flow",
+    "passed": true
+  },
+  {
+    "check": "1920: main direct camera progress",
+    "passed": true
+  },
+  {
+    "check": "1920: full natural page flow",
+    "passed": true
+  },
+  {
+    "check": "1920: full direct camera progress",
+    "passed": true
+  },
+  {
+    "check": "1920: reverse natural page flow",
+    "passed": true
+  },
+  {
+    "check": "1920: reverse direct camera progress",
+    "passed": true
+  },
+  {
+    "check": "1920: released natural page flow",
+    "passed": true
+  },
+  {
+    "check": "1920: released direct camera progress",
+    "passed": true
+  },
+  {
+    "check": "1920: returned natural page flow",
+    "passed": true
+  },
+  {
+    "check": "1920: returned direct camera progress",
+    "passed": true
+  },
+  {
+    "check": "1920: reverse matches forward",
+    "passed": true
+  },
+  {
+    "check": "1920: returned to original pose",
+    "passed": true
+  },
+  {
+    "check": "1920: smoke independently animated",
+    "passed": true
+  },
+  {
+    "check": "1920: reduced motion static",
+    "passed": true
+  },
+  {
+    "check": "1920: cursorLeft cut edges covered",
+    "passed": true
+  },
+  {
+    "check": "1920: cursorRight cut edges covered",
+    "passed": true
+  },
+  {
+    "check": "1920: combined cut edges covered",
+    "passed": true
+  },
+  {
+    "check": "1920: full cut edges covered",
+    "passed": true
+  },
+  {
+    "check": "1280: assets loaded and no horizontal overflow",
+    "passed": true
+  },
+  {
+    "check": "1280: initial composition transforms",
+    "passed": true
+  },
+  {
+    "check": "1280: firstPixel natural page flow",
+    "passed": true
+  },
+  {
+    "check": "1280: firstPixel direct camera progress",
+    "passed": true
+  },
+  {
+    "check": "1280: early natural page flow",
+    "passed": true
+  },
+  {
+    "check": "1280: early direct camera progress",
+    "passed": true
+  },
+  {
+    "check": "1280: fifteen natural page flow",
+    "passed": true
+  },
+  {
+    "check": "1280: fifteen direct camera progress",
+    "passed": true
+  },
+  {
+    "check": "1280: main natural page flow",
+    "passed": true
+  },
+  {
+    "check": "1280: main direct camera progress",
+    "passed": true
+  },
+  {
+    "check": "1280: full natural page flow",
+    "passed": true
+  },
+  {
+    "check": "1280: full direct camera progress",
+    "passed": true
+  },
+  {
+    "check": "1280: reverse natural page flow",
+    "passed": true
+  },
+  {
+    "check": "1280: reverse direct camera progress",
+    "passed": true
+  },
+  {
+    "check": "1280: released natural page flow",
+    "passed": true
+  },
+  {
+    "check": "1280: released direct camera progress",
+    "passed": true
+  },
+  {
+    "check": "1280: returned natural page flow",
+    "passed": true
+  },
+  {
+    "check": "1280: returned direct camera progress",
+    "passed": true
+  },
+  {
+    "check": "1280: reverse matches forward",
+    "passed": true
+  },
+  {
+    "check": "1280: returned to original pose",
+    "passed": true
+  },
+  {
+    "check": "1280: smoke independently animated",
+    "passed": true
+  },
+  {
+    "check": "1280: reduced motion static",
+    "passed": true
+  },
+  {
+    "check": "1280: cursorLeft cut edges covered",
+    "passed": true
+  },
+  {
+    "check": "1280: cursorRight cut edges covered",
+    "passed": true
+  },
+  {
+    "check": "1280: combined cut edges covered",
+    "passed": true
+  },
+  {
+    "check": "1280: full cut edges covered",
+    "passed": true
+  },
+  {
+    "check": "850: assets loaded and no horizontal overflow",
+    "passed": true
+  },
+  {
+    "check": "850: initial composition transforms",
+    "passed": true
+  },
+  {
+    "check": "850: firstPixel natural page flow",
+    "passed": true
+  },
+  {
+    "check": "850: firstPixel direct camera progress",
+    "passed": true
+  },
+  {
+    "check": "850: early natural page flow",
+    "passed": true
+  },
+  {
+    "check": "850: early direct camera progress",
+    "passed": true
+  },
+  {
+    "check": "850: fifteen natural page flow",
+    "passed": true
+  },
+  {
+    "check": "850: fifteen direct camera progress",
+    "passed": true
+  },
+  {
+    "check": "850: main natural page flow",
+    "passed": true
+  },
+  {
+    "check": "850: main direct camera progress",
+    "passed": true
+  },
+  {
+    "check": "850: full natural page flow",
+    "passed": true
+  },
+  {
+    "check": "850: full direct camera progress",
+    "passed": true
+  },
+  {
+    "check": "850: reverse natural page flow",
+    "passed": true
+  },
+  {
+    "check": "850: reverse direct camera progress",
+    "passed": true
+  },
+  {
+    "check": "850: released natural page flow",
+    "passed": true
+  },
+  {
+    "check": "850: released direct camera progress",
+    "passed": true
+  },
+  {
+    "check": "850: returned natural page flow",
+    "passed": true
+  },
+  {
+    "check": "850: returned direct camera progress",
+    "passed": true
+  },
+  {
+    "check": "850: reverse matches forward",
+    "passed": true
+  },
+  {
+    "check": "850: returned to original pose",
+    "passed": true
+  },
+  {
+    "check": "850: smoke independently animated",
+    "passed": true
+  },
+  {
+    "check": "850: reduced motion static",
+    "passed": true
+  },
+  {
+    "check": "850: cursorLeft cut edges covered",
+    "passed": true
+  },
+  {
+    "check": "850: cursorRight cut edges covered",
+    "passed": true
+  },
+  {
+    "check": "850: combined cut edges covered",
+    "passed": true
+  },
+  {
+    "check": "850: full cut edges covered",
+    "passed": true
+  },
+  {
+    "check": "850: cursor disabled",
+    "passed": true
+  },
+  {
+    "check": "390: assets loaded and no horizontal overflow",
+    "passed": true
+  },
+  {
+    "check": "390: initial composition transforms",
+    "passed": true
+  },
+  {
+    "check": "390: firstPixel natural page flow",
+    "passed": true
+  },
+  {
+    "check": "390: firstPixel direct camera progress",
+    "passed": true
+  },
+  {
+    "check": "390: early natural page flow",
+    "passed": true
+  },
+  {
+    "check": "390: early direct camera progress",
+    "passed": true
+  },
+  {
+    "check": "390: fifteen natural page flow",
+    "passed": true
+  },
+  {
+    "check": "390: fifteen direct camera progress",
+    "passed": true
+  },
+  {
+    "check": "390: main natural page flow",
+    "passed": true
+  },
+  {
+    "check": "390: main direct camera progress",
+    "passed": true
+  },
+  {
+    "check": "390: full natural page flow",
+    "passed": true
+  },
+  {
+    "check": "390: full direct camera progress",
+    "passed": true
+  },
+  {
+    "check": "390: reverse natural page flow",
+    "passed": true
+  },
+  {
+    "check": "390: reverse direct camera progress",
+    "passed": true
+  },
+  {
+    "check": "390: released natural page flow",
+    "passed": true
+  },
+  {
+    "check": "390: released direct camera progress",
+    "passed": true
+  },
+  {
+    "check": "390: returned natural page flow",
+    "passed": true
+  },
+  {
+    "check": "390: returned direct camera progress",
+    "passed": true
+  },
+  {
+    "check": "390: reverse matches forward",
+    "passed": true
+  },
+  {
+    "check": "390: returned to original pose",
+    "passed": true
+  },
+  {
+    "check": "390: smoke independently animated",
+    "passed": true
+  },
+  {
+    "check": "390: reduced motion static",
+    "passed": true
+  },
+  {
+    "check": "390: cursorLeft cut edges covered",
+    "passed": true
+  },
+  {
+    "check": "390: cursorRight cut edges covered",
+    "passed": true
+  },
+  {
+    "check": "390: combined cut edges covered",
+    "passed": true
+  },
+  {
+    "check": "390: full cut edges covered",
+    "passed": true
+  },
+  {
+    "check": "390: cursor disabled",
+    "passed": true
+  },
+  {
+    "check": "320: assets loaded and no horizontal overflow",
+    "passed": true
+  },
+  {
+    "check": "320: initial composition transforms",
+    "passed": true
+  },
+  {
+    "check": "320: firstPixel natural page flow",
+    "passed": true
+  },
+  {
+    "check": "320: firstPixel direct camera progress",
+    "passed": true
+  },
+  {
+    "check": "320: early natural page flow",
+    "passed": true
+  },
+  {
+    "check": "320: early direct camera progress",
+    "passed": true
+  },
+  {
+    "check": "320: fifteen natural page flow",
+    "passed": true
+  },
+  {
+    "check": "320: fifteen direct camera progress",
+    "passed": true
+  },
+  {
+    "check": "320: main natural page flow",
+    "passed": true
+  },
+  {
+    "check": "320: main direct camera progress",
+    "passed": true
+  },
+  {
+    "check": "320: full natural page flow",
+    "passed": true
+  },
+  {
+    "check": "320: full direct camera progress",
+    "passed": true
+  },
+  {
+    "check": "320: reverse natural page flow",
+    "passed": true
+  },
+  {
+    "check": "320: reverse direct camera progress",
+    "passed": true
+  },
+  {
+    "check": "320: released natural page flow",
+    "passed": true
+  },
+  {
+    "check": "320: released direct camera progress",
+    "passed": true
+  },
+  {
+    "check": "320: returned natural page flow",
+    "passed": true
+  },
+  {
+    "check": "320: returned direct camera progress",
+    "passed": true
+  },
+  {
+    "check": "320: reverse matches forward",
+    "passed": true
+  },
+  {
+    "check": "320: returned to original pose",
+    "passed": true
+  },
+  {
+    "check": "320: smoke independently animated",
+    "passed": true
+  },
+  {
+    "check": "320: reduced motion static",
+    "passed": true
+  },
+  {
+    "check": "320: cursorLeft cut edges covered",
+    "passed": true
+  },
+  {
+    "check": "320: cursorRight cut edges covered",
+    "passed": true
+  },
+  {
+    "check": "320: combined cut edges covered",
+    "passed": true
+  },
+  {
+    "check": "320: full cut edges covered",
+    "passed": true
+  },
+  {
+    "check": "320: cursor disabled",
+    "passed": true
+  },
+  {
+    "check": "Only HERO wrapper removed from markup",
+    "passed": true
+  },
+  {
+    "check": "Only HERO pin rules removed from CSS",
+    "passed": true
+  },
+  {
+    "check": "Other section logic unchanged",
+    "passed": true
+  },
+  {
+    "check": "Layer and cursor tuning unchanged",
+    "passed": true
+  },
+  {
+    "check": "Layer painting and smoke drift unchanged",
+    "passed": true
+  },
+  {
+    "check": "All original assets unchanged",
+    "passed": true
+  }
+]

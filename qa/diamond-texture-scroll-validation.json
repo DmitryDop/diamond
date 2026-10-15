@@ -1,0 +1,138 @@
+[
+  {
+    "atmosphereUnchanged" : true,
+    "bigDistances" : [
+      20,
+      20,
+      20,
+      20,
+      22.803508501982758
+    ],
+    "geometryUnchanged" : true,
+    "height" : 1100,
+    "horizontalOverflow" : false,
+    "noPin" : true,
+    "refreshPassed" : true,
+    "reversed" : true,
+    "rotationDelta" : 4,
+    "scene" : {
+      "height" : 900,
+      "width" : 1440,
+      "x" : 0,
+      "y" : 200
+    },
+    "scrub" : true,
+    "smallDistances" : [
+      26.907248094147423,
+      26.907248094147423,
+      26.907248094147423,
+      26.907248094147423,
+      26.907248094147423
+    ],
+    "smokeLoaded" : true,
+    "stopsWithoutScroll" : true,
+    "width" : 1440
+  },
+  {
+    "atmosphereUnchanged" : true,
+    "bigDistances" : [
+      20,
+      20,
+      20,
+      20,
+      22.803508501982758
+    ],
+    "geometryUnchanged" : true,
+    "height" : 1400,
+    "horizontalOverflow" : false,
+    "noPin" : true,
+    "refreshPassed" : true,
+    "reversed" : true,
+    "rotationDelta" : 4,
+    "scene" : {
+      "height" : 1200,
+      "width" : 1920,
+      "x" : 0,
+      "y" : 230
+    },
+    "scrub" : true,
+    "smallDistances" : [
+      26.907248094147423,
+      26.907248094147423,
+      26.907248094147423,
+      26.907248094147423,
+      26.907248094147423
+    ],
+    "smokeLoaded" : true,
+    "stopsWithoutScroll" : true,
+    "width" : 1920
+  },
+  {
+    "atmosphereUnchanged" : true,
+    "bigDistances" : [
+      20,
+      20,
+      20,
+      20,
+      22.803508501982758
+    ],
+    "geometryUnchanged" : true,
+    "height" : 844,
+    "horizontalOverflow" : false,
+    "noPin" : true,
+    "refreshPassed" : true,
+    "reversed" : true,
+    "rotationDelta" : 2,
+    "scene" : {
+      "height" : 523,
+      "width" : 390,
+      "x" : 0,
+      "y" : 228.796875
+    },
+    "scrub" : true,
+    "smallDistances" : [
+      26.907248094147423,
+      26.907248094147423,
+      26.907248094147423,
+      26.907248094147423,
+      26.907248094147423
+    ],
+    "smokeLoaded" : true,
+    "stopsWithoutScroll" : true,
+    "width" : 390
+  },
+  {
+    "atmosphereUnchanged" : true,
+    "bigDistances" : [
+      20,
+      20,
+      20,
+      20,
+      22.803508501982758
+    ],
+    "geometryUnchanged" : true,
+    "height" : 640,
+    "horizontalOverflow" : false,
+    "noPin" : true,
+    "refreshPassed" : true,
+    "reversed" : true,
+    "rotationDelta" : 2,
+    "scene" : {
+      "height" : 429.125,
+      "width" : 320,
+      "x" : 0,
+      "y" : 159
+    },
+    "scrub" : true,
+    "smallDistances" : [
+      26.907248094147423,
+      26.907248094147423,
+      26.907248094147423,
+      26.907248094147423,
+      26.907248094147423
+    ],
+    "smokeLoaded" : true,
+    "stopsWithoutScroll" : true,
+    "width" : 320
+  }
+]

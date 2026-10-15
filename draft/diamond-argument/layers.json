@@ -1,0 +1,28 @@
+{
+  "canvas": {
+    "width": 1536,
+    "height": 1024
+  },
+  "layers": [
+    {
+      "file": "argument-smoke.png",
+      "z": 0,
+      "opacity": 0.2
+    },
+    {
+      "file": "argument-head.png",
+      "z": 1,
+      "opacity": 1
+    },
+    {
+      "file": "argument-bat.png",
+      "z": 2,
+      "opacity": 1
+    }
+  ],
+  "registration": "Full-frame, same object-fit and object-position for all layers. No CSS offsets.",
+  "reference": "argument-reference.jpg",
+  "placeholder": "argument-placeholder.png",
+  "parallaxEnabled": false,
+  "note": "AI-edited layers, visual registration; not pixel-identical extractions."
+}

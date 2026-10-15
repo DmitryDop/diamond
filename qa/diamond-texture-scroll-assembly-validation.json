@@ -1,0 +1,14 @@
+[
+  {
+    "meanRGBDifference255" : 1.7048203131383457,
+    "rmsRGBDifference255" : 7.9111324004321499,
+    "sameComposition" : true,
+    "width" : 1440
+  },
+  {
+    "meanRGBDifference255" : 2.5741766422217407,
+    "rmsRGBDifference255" : 9.3140728835502493,
+    "sameComposition" : true,
+    "width" : 390
+  }
+]

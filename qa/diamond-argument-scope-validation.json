@@ -1,0 +1,27 @@
+{
+  "otherSectionsUnchanged": true,
+  "javascriptUnchanged": true,
+  "missingRuntimeAssets": [],
+  "assets": [
+    {
+      "file": "assets/diamond-argument/argument-bat.png",
+      "sha256": "bd200af80f7748afb183e6a754e4455bfba53a218fb88b6812f5e99e2510cbb6",
+      "bytes": 1069756
+    },
+    {
+      "file": "assets/diamond-argument/argument-head.png",
+      "sha256": "8a0c2a2bb2fa66a6db0d995e4fcfa6194579c30ef86598145ab55724ccb91669",
+      "bytes": 1452234
+    },
+    {
+      "file": "assets/diamond-argument/argument-placeholder.png",
+      "sha256": "493ae8c261c30f55c8a942611937ecd6bf1e367d5597ce65500351e55fe11dad",
+      "bytes": 1664341
+    },
+    {
+      "file": "assets/diamond-argument/argument-smoke.png",
+      "sha256": "f0ed5945c19a8c1cb05e3e8bdd07d66557ef97b4465b14043f10928086f01c1f",
+      "bytes": 1840800
+    }
+  ]
+}

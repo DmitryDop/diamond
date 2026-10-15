@@ -1,0 +1,121 @@
+{
+  "moved_files": [
+    {
+      "from": "assets/diamond-atmosphere/.DS_Store",
+      "to": "assets/diamond-character/.DS_Store.diamond-atmosphere",
+      "sha256": "d65165279105ca6773180500688df4bdc69a2c7b771752f0a46ef120b7fd8ec3",
+      "bytes_identical": true
+    },
+    {
+      "from": "assets/diamond-atmosphere/README.md",
+      "to": "assets/diamond-character/README.md",
+      "sha256": "4932355a97540da0cd17a93f173efd963fe5a0f6604c610368c96385e0f46dd2",
+      "bytes_identical": true
+    },
+    {
+      "from": "assets/diamond-atmosphere/character-base.png",
+      "to": "assets/diamond-character/character-base.png",
+      "sha256": "880e8fd4cc3ef1d26a66c4f7430f0459cf9ee74b4e4806abc309845b4bbf0a1a",
+      "bytes_identical": true
+    },
+    {
+      "from": "assets/diamond-atmosphere/character-composite-check.png",
+      "to": "assets/diamond-character/character-composite-check.png",
+      "sha256": "9099c1f0875b380bbee7ae3f787deacfbc4ad111d6787e36e930e0575f87c0c1",
+      "bytes_identical": true
+    },
+    {
+      "from": "assets/diamond-atmosphere/character-mobile-base.png",
+      "to": "assets/diamond-character/character-mobile-base.png",
+      "sha256": "8fa63c68ce9ec93d2dedeadc6dfcb2a47c99b0d87218898ded97ec84257d22e7",
+      "bytes_identical": true
+    },
+    {
+      "from": "assets/diamond-atmosphere/character-mobile-composite-check.png",
+      "to": "assets/diamond-character/character-mobile-composite-check.png",
+      "sha256": "8817abad2e408e3a95a12b913078f5a91c0a0b899f93493b36f04d7db9e7ff9b",
+      "bytes_identical": true
+    },
+    {
+      "from": "assets/diamond-atmosphere/character-smoke-continuous-v2.png",
+      "to": "assets/diamond-character/character-smoke-continuous-v2.png",
+      "sha256": "3881a34242f78ff8a911c422564314dbdc37a541f98fed45b5cc22c7e2f90402",
+      "bytes_identical": true
+    },
+    {
+      "from": "assets/diamond-atmosphere/character-smoke-continuous-v3.png",
+      "to": "assets/diamond-character/character-smoke-continuous-v3.png",
+      "sha256": "a9974f2ced951de282fb61632a47197df249da64e81ed4a7196e13534c72e3db",
+      "bytes_identical": true
+    },
+    {
+      "from": "assets/diamond-atmosphere/character-smoke-continuous.png",
+      "to": "assets/diamond-character/character-smoke-continuous.png",
+      "sha256": "a9974f2ced951de282fb61632a47197df249da64e81ed4a7196e13534c72e3db",
+      "bytes_identical": true
+    },
+    {
+      "from": "assets/diamond-atmosphere/diamond-character-bat.png",
+      "to": "assets/diamond-character/diamond-character-bat.png",
+      "sha256": "f339948527c9232e2bf0330a3172c3afa23183b6dcc811a4c47c17534423a6e8",
+      "bytes_identical": true
+    },
+    {
+      "from": "assets/diamond-atmosphere/diamond-character-bottle.png",
+      "to": "assets/diamond-character/diamond-character-bottle.png",
+      "sha256": "9a68015e00153646a243dab57b114e27c13a5ff4dc4a38d7dfe13fc62d0e6274",
+      "bytes_identical": true
+    },
+    {
+      "from": "assets/diamond-atmosphere/diamond-character-glass-splash.png",
+      "to": "assets/diamond-character/diamond-character-glass-splash.png",
+      "sha256": "db68dce0fc44d966e5aeaf1ebab0a3e76a0de2e456f46409c0130e500d48cfb1",
+      "bytes_identical": true
+    },
+    {
+      "from": "assets/diamond-atmosphere/layers.json",
+      "to": "assets/diamond-character/layers.json",
+      "sha256": "e264fd3ed475f639b1b053fe2c2067ee18b6da115b791f11288f5e0f97b19989",
+      "bytes_identical": true
+    }
+  ],
+  "restored_dependency": {
+    "file": "assets/diamond-character/impact-adjustment.png",
+    "source": ".deploy/backup-20261013T091306Z/assets/diamond-atmosphere/impact-adjustment.png",
+    "sha256": "1b81b093d739b9c5dd3d4a9b4181233594e8c53cdbfd99eb5d175168e32c05cd"
+  },
+  "changed_references": [
+    "index.html",
+    "qa/check-character-smoke.swift",
+    "qa/diamond-character-review.html",
+    "qa/separate-existing-atmosphere.swift",
+    "qa/check-atmosphere-reassembly.swift",
+    "qa/diamond-character-smoke-review.html",
+    "qa/diamond-character-smoke-continuous.md",
+    "qa/diamond-character-smoke-validation.json"
+  ],
+  "source_files_remaining": [],
+  "destination_overwrites": 0,
+  "css_paths_checked": true,
+  "html_resources_checked": [
+    "assets/diamond-character-campaign-mobile.jpg",
+    "assets/diamond-character-campaign.jpg",
+    "assets/diamond-character/character-smoke-continuous.png",
+    "assets/diamond-character/impact-adjustment.png",
+    "assets/diamond-exploded.png",
+    "assets/diamond-glyph.svg",
+    "assets/diamond-hero/placeholder-hero.png",
+    "assets/diamond-impact.jpg",
+    "assets/diamond-texture-layers/placeholder-1440.png",
+    "assets/diamond-texture-layers/placeholder-1920.png",
+    "assets/diamond-texture-layers/placeholder-mobile-390.png",
+    "css/styles.css",
+    "js/main.js"
+  ],
+  "html_resources_missing": [],
+  "css_files_checked": [
+    "css/styles.css"
+  ],
+  "current_html_uses_old_directory": false,
+  "current_css_uses_old_directory": false
+}

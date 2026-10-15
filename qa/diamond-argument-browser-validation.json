@@ -1,0 +1,650 @@
+[
+  {
+    "animationStatesBefore" : [
+      "running"
+    ],
+    "arrivalFinished" : true,
+    "bat" : {
+      "bottom" : 1193,
+      "height" : 1100,
+      "right" : 1920,
+      "width" : 1920,
+      "x" : 0,
+      "y" : 93
+    },
+    "batAlignedWithScene" : true,
+    "copy" : {
+      "bottom" : 646,
+      "height" : 381,
+      "right" : 784,
+      "width" : 624,
+      "x" : 160,
+      "y" : 265
+    },
+    "haze" : {
+      "bottom" : 1193,
+      "height" : 1100,
+      "right" : 1920,
+      "width" : 1920,
+      "x" : 0,
+      "y" : 93
+    },
+    "headAlignedWithScene" : true,
+    "height" : 1400,
+    "horizontalOverflow" : false,
+    "imageLoaded" : true,
+    "maskAboveLayers" : true,
+    "maskZAfter" : 3,
+    "maskZBefore" : 3,
+    "parallaxAnimations" : [
+      0,
+      0,
+      0
+    ],
+    "photo" : {
+      "bottom" : 1193,
+      "height" : 1100,
+      "right" : 1920,
+      "width" : 1920,
+      "x" : 0,
+      "y" : 93
+    },
+    "scene" : {
+      "bottom" : 1193,
+      "height" : 1101,
+      "right" : 1920,
+      "width" : 1920,
+      "x" : 0,
+      "y" : 92
+    },
+    "smokeAlignedWithScene" : true,
+    "smokeLoaded" : true,
+    "smokeOpacity" : "0.2",
+    "stage" : {
+      "bottom" : 1193,
+      "height" : 1100,
+      "right" : 1920,
+      "width" : 1920,
+      "x" : 0,
+      "y" : 93
+    },
+    "title" : "Когдааргументочевиден.",
+    "width" : 1920
+  },
+  {
+    "animationStatesBefore" : [
+      "running"
+    ],
+    "arrivalFinished" : true,
+    "bat" : {
+      "bottom" : 993,
+      "height" : 900,
+      "right" : 1440,
+      "width" : 1440,
+      "x" : 0,
+      "y" : 93
+    },
+    "batAlignedWithScene" : true,
+    "copy" : {
+      "bottom" : 579.59375,
+      "height" : 357,
+      "right" : 574.90625,
+      "width" : 514.421875,
+      "x" : 60.484375,
+      "y" : 222.59375
+    },
+    "haze" : {
+      "bottom" : 993,
+      "height" : 900,
+      "right" : 1440,
+      "width" : 1440,
+      "x" : 0,
+      "y" : 93
+    },
+    "headAlignedWithScene" : true,
+    "height" : 1100,
+    "horizontalOverflow" : false,
+    "imageLoaded" : true,
+    "maskAboveLayers" : true,
+    "maskZAfter" : 3,
+    "maskZBefore" : 3,
+    "parallaxAnimations" : [
+      0,
+      0,
+      0
+    ],
+    "photo" : {
+      "bottom" : 993,
+      "height" : 900,
+      "right" : 1440,
+      "width" : 1440,
+      "x" : 0,
+      "y" : 93
+    },
+    "scene" : {
+      "bottom" : 993,
+      "height" : 901,
+      "right" : 1440,
+      "width" : 1440,
+      "x" : 0,
+      "y" : 92
+    },
+    "smokeAlignedWithScene" : true,
+    "smokeLoaded" : true,
+    "smokeOpacity" : "0.2",
+    "stage" : {
+      "bottom" : 993,
+      "height" : 900,
+      "right" : 1440,
+      "width" : 1440,
+      "x" : 0,
+      "y" : 93
+    },
+    "title" : "Когдааргументочевиден.",
+    "width" : 1440
+  },
+  {
+    "animationStatesBefore" : [
+      "running"
+    ],
+    "arrivalFinished" : true,
+    "bat" : {
+      "bottom" : 1133.65625,
+      "height" : 682.65625,
+      "right" : 1024,
+      "width" : 1024,
+      "x" : 0,
+      "y" : 451
+    },
+    "batAlignedWithScene" : true,
+    "copy" : {
+      "bottom" : 457,
+      "height" : 292,
+      "right" : 980.984375,
+      "width" : 937.96875,
+      "x" : 43.015625,
+      "y" : 165
+    },
+    "haze" : {
+      "bottom" : 1133.65625,
+      "height" : 682.65625,
+      "right" : 1024,
+      "width" : 1024,
+      "x" : 0,
+      "y" : 451
+    },
+    "headAlignedWithScene" : true,
+    "height" : 1000,
+    "horizontalOverflow" : false,
+    "imageLoaded" : true,
+    "maskAboveLayers" : true,
+    "maskZAfter" : 3,
+    "maskZBefore" : 3,
+    "parallaxAnimations" : [
+      0,
+      0,
+      0
+    ],
+    "photo" : {
+      "bottom" : 1133.65625,
+      "height" : 682.65625,
+      "right" : 1024,
+      "width" : 1024,
+      "x" : 0,
+      "y" : 451
+    },
+    "scene" : {
+      "bottom" : 1157.65625,
+      "height" : 1065.65625,
+      "right" : 1024,
+      "width" : 1024,
+      "x" : 0,
+      "y" : 92
+    },
+    "smokeAlignedWithScene" : true,
+    "smokeLoaded" : true,
+    "smokeOpacity" : "0.2",
+    "stage" : {
+      "bottom" : 1133.65625,
+      "height" : 682.65625,
+      "right" : 1024,
+      "width" : 1024,
+      "x" : 0,
+      "y" : 451
+    },
+    "title" : "Когдааргументочевиден.",
+    "width" : 1024
+  },
+  {
+    "animationStatesBefore" : [
+      "running"
+    ],
+    "arrivalFinished" : true,
+    "bat" : {
+      "bottom" : 974.65625,
+      "height" : 566.65625,
+      "right" : 850,
+      "width" : 850,
+      "x" : 0,
+      "y" : 408
+    },
+    "batAlignedWithScene" : true,
+    "copy" : {
+      "bottom" : 414,
+      "height" : 261,
+      "right" : 814.296875,
+      "width" : 778.59375,
+      "x" : 35.703125,
+      "y" : 153
+    },
+    "haze" : {
+      "bottom" : 974.65625,
+      "height" : 566.65625,
+      "right" : 850,
+      "width" : 850,
+      "x" : 0,
+      "y" : 408
+    },
+    "headAlignedWithScene" : true,
+    "height" : 1300,
+    "horizontalOverflow" : false,
+    "imageLoaded" : true,
+    "maskAboveLayers" : true,
+    "maskZAfter" : 3,
+    "maskZBefore" : 3,
+    "parallaxAnimations" : [
+      0,
+      0,
+      0
+    ],
+    "photo" : {
+      "bottom" : 974.65625,
+      "height" : 566.65625,
+      "right" : 850,
+      "width" : 850,
+      "x" : 0,
+      "y" : 408
+    },
+    "scene" : {
+      "bottom" : 998.65625,
+      "height" : 918.65625,
+      "right" : 850,
+      "width" : 850,
+      "x" : 0,
+      "y" : 80
+    },
+    "smokeAlignedWithScene" : true,
+    "smokeLoaded" : true,
+    "smokeOpacity" : "0.2",
+    "stage" : {
+      "bottom" : 974.65625,
+      "height" : 566.65625,
+      "right" : 850,
+      "width" : 850,
+      "x" : 0,
+      "y" : 408
+    },
+    "title" : "Когдааргументочевиден.",
+    "width" : 850
+  },
+  {
+    "animationStatesBefore" : [
+      "running"
+    ],
+    "arrivalFinished" : true,
+    "bat" : {
+      "bottom" : 920,
+      "height" : 512,
+      "right" : 768,
+      "width" : 768,
+      "x" : 0,
+      "y" : 408
+    },
+    "batAlignedWithScene" : true,
+    "copy" : {
+      "bottom" : 414,
+      "height" : 261,
+      "right" : 735.734375,
+      "width" : 703.484375,
+      "x" : 32.25,
+      "y" : 153
+    },
+    "haze" : {
+      "bottom" : 920,
+      "height" : 512,
+      "right" : 768,
+      "width" : 768,
+      "x" : 0,
+      "y" : 408
+    },
+    "headAlignedWithScene" : true,
+    "height" : 1300,
+    "horizontalOverflow" : false,
+    "imageLoaded" : true,
+    "maskAboveLayers" : true,
+    "maskZAfter" : 3,
+    "maskZBefore" : 3,
+    "parallaxAnimations" : [
+      0,
+      0,
+      0
+    ],
+    "photo" : {
+      "bottom" : 920,
+      "height" : 512,
+      "right" : 768,
+      "width" : 768,
+      "x" : 0,
+      "y" : 408
+    },
+    "scene" : {
+      "bottom" : 944,
+      "height" : 864,
+      "right" : 768,
+      "width" : 768,
+      "x" : 0,
+      "y" : 80
+    },
+    "smokeAlignedWithScene" : true,
+    "smokeLoaded" : true,
+    "smokeOpacity" : "0.2",
+    "stage" : {
+      "bottom" : 920,
+      "height" : 512,
+      "right" : 768,
+      "width" : 768,
+      "x" : 0,
+      "y" : 408
+    },
+    "title" : "Когдааргументочевиден.",
+    "width" : 768
+  },
+  {
+    "animationStatesBefore" : [
+      "running"
+    ],
+    "arrivalFinished" : true,
+    "bat" : {
+      "bottom" : 778.65625,
+      "height" : 370.65625,
+      "right" : 556,
+      "width" : 556,
+      "x" : 0,
+      "y" : 408
+    },
+    "batAlignedWithScene" : true,
+    "copy" : {
+      "bottom" : 414,
+      "height" : 261,
+      "right" : 532,
+      "width" : 508,
+      "x" : 24,
+      "y" : 153
+    },
+    "haze" : {
+      "bottom" : 778.65625,
+      "height" : 370.65625,
+      "right" : 556,
+      "width" : 556,
+      "x" : 0,
+      "y" : 408
+    },
+    "headAlignedWithScene" : true,
+    "height" : 1300,
+    "horizontalOverflow" : false,
+    "imageLoaded" : true,
+    "maskAboveLayers" : true,
+    "maskZAfter" : 3,
+    "maskZBefore" : 3,
+    "parallaxAnimations" : [
+      0,
+      0,
+      0
+    ],
+    "photo" : {
+      "bottom" : 778.65625,
+      "height" : 370.65625,
+      "right" : 556,
+      "width" : 556,
+      "x" : 0,
+      "y" : 408
+    },
+    "scene" : {
+      "bottom" : 802.65625,
+      "height" : 722.65625,
+      "right" : 556,
+      "width" : 556,
+      "x" : 0,
+      "y" : 80
+    },
+    "smokeAlignedWithScene" : true,
+    "smokeLoaded" : true,
+    "smokeOpacity" : "0.2",
+    "stage" : {
+      "bottom" : 778.65625,
+      "height" : 370.65625,
+      "right" : 556,
+      "width" : 556,
+      "x" : 0,
+      "y" : 408
+    },
+    "title" : "Когдааргументочевиден.",
+    "width" : 556
+  },
+  {
+    "animationStatesBefore" : [
+      "running"
+    ],
+    "arrivalFinished" : true,
+    "bat" : {
+      "bottom" : 669,
+      "height" : 260,
+      "right" : 390,
+      "width" : 390,
+      "x" : 0,
+      "y" : 409
+    },
+    "batAlignedWithScene" : true,
+    "copy" : {
+      "bottom" : 381,
+      "height" : 248,
+      "right" : 368,
+      "width" : 346,
+      "x" : 22,
+      "y" : 133
+    },
+    "haze" : {
+      "bottom" : 669,
+      "height" : 260,
+      "right" : 390,
+      "width" : 390,
+      "x" : 0,
+      "y" : 409
+    },
+    "headAlignedWithScene" : true,
+    "height" : 1100,
+    "horizontalOverflow" : false,
+    "imageLoaded" : true,
+    "maskAboveLayers" : true,
+    "maskZAfter" : 3,
+    "maskZBefore" : 3,
+    "parallaxAnimations" : [
+      0,
+      0,
+      0
+    ],
+    "photo" : {
+      "bottom" : 669,
+      "height" : 260,
+      "right" : 390,
+      "width" : 390,
+      "x" : 0,
+      "y" : 409
+    },
+    "scene" : {
+      "bottom" : 693,
+      "height" : 617,
+      "right" : 390,
+      "width" : 390,
+      "x" : 0,
+      "y" : 76
+    },
+    "smokeAlignedWithScene" : true,
+    "smokeLoaded" : true,
+    "smokeOpacity" : "0.2",
+    "stage" : {
+      "bottom" : 669,
+      "height" : 260,
+      "right" : 390,
+      "width" : 390,
+      "x" : 0,
+      "y" : 409
+    },
+    "title" : "Когдааргументочевиден.",
+    "width" : 390
+  },
+  {
+    "animationStatesBefore" : [
+      "running"
+    ],
+    "arrivalFinished" : true,
+    "bat" : {
+      "bottom" : 656,
+      "height" : 250,
+      "right" : 375,
+      "width" : 375,
+      "x" : 0,
+      "y" : 406
+    },
+    "batAlignedWithScene" : true,
+    "copy" : {
+      "bottom" : 378,
+      "height" : 245,
+      "right" : 353,
+      "width" : 331,
+      "x" : 22,
+      "y" : 133
+    },
+    "haze" : {
+      "bottom" : 656,
+      "height" : 250,
+      "right" : 375,
+      "width" : 375,
+      "x" : 0,
+      "y" : 406
+    },
+    "headAlignedWithScene" : true,
+    "height" : 1100,
+    "horizontalOverflow" : false,
+    "imageLoaded" : true,
+    "maskAboveLayers" : true,
+    "maskZAfter" : 3,
+    "maskZBefore" : 3,
+    "parallaxAnimations" : [
+      0,
+      0,
+      0
+    ],
+    "photo" : {
+      "bottom" : 656,
+      "height" : 250,
+      "right" : 375,
+      "width" : 375,
+      "x" : 0,
+      "y" : 406
+    },
+    "scene" : {
+      "bottom" : 680,
+      "height" : 604,
+      "right" : 375,
+      "width" : 375,
+      "x" : 0,
+      "y" : 76
+    },
+    "smokeAlignedWithScene" : true,
+    "smokeLoaded" : true,
+    "smokeOpacity" : "0.2",
+    "stage" : {
+      "bottom" : 656,
+      "height" : 250,
+      "right" : 375,
+      "width" : 375,
+      "x" : 0,
+      "y" : 406
+    },
+    "title" : "Когдааргументочевиден.",
+    "width" : 375
+  },
+  {
+    "animationStatesBefore" : [
+      "running"
+    ],
+    "arrivalFinished" : true,
+    "bat" : {
+      "bottom" : 613.328125,
+      "height" : 213.328125,
+      "right" : 320,
+      "width" : 320,
+      "x" : 0,
+      "y" : 400
+    },
+    "batAlignedWithScene" : true,
+    "copy" : {
+      "bottom" : 372,
+      "height" : 239,
+      "right" : 304,
+      "width" : 288,
+      "x" : 16,
+      "y" : 133
+    },
+    "haze" : {
+      "bottom" : 613.328125,
+      "height" : 213.328125,
+      "right" : 320,
+      "width" : 320,
+      "x" : 0,
+      "y" : 400
+    },
+    "headAlignedWithScene" : true,
+    "height" : 1000,
+    "horizontalOverflow" : false,
+    "imageLoaded" : true,
+    "maskAboveLayers" : true,
+    "maskZAfter" : 3,
+    "maskZBefore" : 3,
+    "parallaxAnimations" : [
+      0,
+      0,
+      0
+    ],
+    "photo" : {
+      "bottom" : 613.328125,
+      "height" : 213.328125,
+      "right" : 320,
+      "width" : 320,
+      "x" : 0,
+      "y" : 400
+    },
+    "scene" : {
+      "bottom" : 637.328125,
+      "height" : 561.328125,
+      "right" : 320,
+      "width" : 320,
+      "x" : 0,
+      "y" : 76
+    },
+    "smokeAlignedWithScene" : true,
+    "smokeLoaded" : true,
+    "smokeOpacity" : "0.2",
+    "stage" : {
+      "bottom" : 613.328125,
+      "height" : 213.328125,
+      "right" : 320,
+      "width" : 320,
+      "x" : 0,
+      "y" : 400
+    },
+    "title" : "Когдааргументочевиден.",
+    "width" : 320
+  }
+]

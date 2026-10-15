@@ -2,7 +2,7 @@
 import AppKit
 import ImageIO
 let root=URL(fileURLWithPath:FileManager.default.currentDirectoryPath)
-let output=root.appendingPathComponent("assets/diamond-atmosphere")
+let output=root.appendingPathComponent("assets/diamond-character")
 try FileManager.default.createDirectory(at:output,withIntermediateDirectories:true)
 let reference:[Double]=[35.218888888887136,38.45083333333209,45.348333333335574]
 func linear(_ c:Double)->Double {let s=c/255;return s<=0.04045 ? s/12.92 : pow((s+0.055)/1.055,2.4)}
